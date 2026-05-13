@@ -1,0 +1,1471 @@
+EmployeeNumber,Age,Attrition,Department,Gender,JobRole,MaritalStatus,MonthlyIncome,OverTime,Performance_status,Age_Group,Education_Level,JobInvolvement_level,Jobsatisfaction_Level,Distance_status,YearAtCompany_status
+1,41,Yes,Sales,Female,Sales Executive,Single,5993,Yes,High,35-46,College,High,Very-High,Near,2-Star
+2,49,No,Research & Development,Male,Research Scientist,Married,5130,No,Low,46-55,Below College,Medium,Medium,Near,2-Star
+4,37,Yes,Research & Development,Male,Laboratory Technician,Single,2090,Yes,High,35-46,College,Medium,High,Near,Newbies
+5,33,No,Research & Development,Female,Research Scientist,Married,2909,Yes,High,26-35,Masters,High,High,Near,2-Star
+7,27,No,Research & Development,Male,Laboratory Technician,Married,3468,No,High,26-35,Below College,High,Medium,Near,Newbies
+8,32,No,Research & Development,Male,Laboratory Technician,Single,3068,No,High,26-35,College,High,Very-High,Near,2-Star
+10,59,No,Research & Development,Female,Laboratory Technician,Married,2670,Yes,Low,56?,Bachelor,Very-High,Low,Near,Newbies
+11,30,No,Research & Development,Male,Laboratory Technician,Divorced,2693,No,Low,26-35,Below College,High,High,Very-Far,Newbies
+12,38,No,Research & Development,Male,Manufacturing Director,Single,9526,No,Low,35-46,Bachelor,Medium,High,Very-Far,2-Star
+13,36,No,Research & Development,Male,Healthcare Representative,Married,5237,No,High,35-46,Bachelor,High,High,Very-Far,2-Star
+14,35,No,Research & Development,Male,Laboratory Technician,Married,2426,No,High,26-35,Bachelor,Very-High,Medium,Far,1-Star
+15,29,No,Research & Development,Female,Laboratory Technician,Single,4193,Yes,High,26-35,College,Medium,High,Far,2-Star
+16,31,No,Research & Development,Male,Research Scientist,Divorced,2911,No,High,26-35,Below College,High,High,Very-Far,1-Star
+18,34,No,Research & Development,Male,Laboratory Technician,Divorced,2661,No,High,26-35,College,High,Very-High,Far,Newbies
+19,28,Yes,Research & Development,Male,Laboratory Technician,Single,2028,Yes,High,26-35,Bachelor,Medium,High,Very-Far,1-Star
+20,29,No,Research & Development,Female,Manufacturing Director,Divorced,9980,No,High,26-35,Masters,Very-High,Low,Very-Far,2-Star
+21,32,No,Research & Development,Male,Research Scientist,Divorced,3298,Yes,High,26-35,College,Very-High,Medium,Near,2-Star
+22,22,No,Research & Development,Male,Laboratory Technician,Divorced,2935,Yes,High,18-25,College,Very-High,Very-High,Far,Newbies
+23,53,No,Sales,Female,Manager,Married,15427,No,High,46-55,Masters,Medium,Very-High,Near,5-Star
+24,38,No,Research & Development,Male,Research Scientist,Single,3944,Yes,High,35-46,Bachelor,High,Very-High,Near,1-Star
+26,24,No,Research & Development,Female,Manufacturing Director,Divorced,4011,No,High,18-25,College,Very-High,High,Far,1-Star
+27,36,Yes,Sales,Male,Sales Representative,Single,3407,No,Low,35-46,Masters,Medium,Low,Near,1-Star
+28,34,No,Research & Development,Female,Research Director,Single,11994,No,High,26-35,Masters,High,Medium,Near,3-Star
+30,21,No,Research & Development,Male,Research Scientist,Single,1232,No,High,18-25,College,High,Very-High,Far,Newbies
+31,34,Yes,Research & Development,Male,Research Scientist,Single,2960,No,High,26-35,Below College,High,Low,Near,1-Star
+32,53,No,Research & Development,Female,Manager,Divorced,19094,No,High,46-55,Bachelor,High,High,Near,3-Star
+33,32,Yes,Research & Development,Female,Research Scientist,Single,3919,Yes,Low,26-35,Below College,Low,Low,Far,2-Star
+35,42,No,Sales,Male,Sales Executive,Married,6825,No,High,35-46,Masters,High,Medium,Near,2-Star
+36,44,No,Research & Development,Female,Healthcare Representative,Married,10248,No,High,35-46,Masters,Medium,Very-High,Near,5-Star
+38,46,No,Sales,Female,Manager,Single,18947,No,High,46-55,Masters,High,Low,Near,Newbies
+39,33,No,Research & Development,Male,Laboratory Technician,Single,2496,No,High,26-35,Bachelor,High,Very-High,Near,Newbies
+40,44,No,Research & Development,Male,Healthcare Representative,Married,6465,Yes,High,35-46,Masters,High,Very-High,Near,1-Star
+41,30,No,Research & Development,Male,Laboratory Technician,Single,2206,No,High,26-35,College,Medium,High,Near,2-Star
+42,39,Yes,Sales,Male,Sales Representative,Married,2086,No,High,35-46,Bachelor,High,Very-High,Near,Newbies
+45,24,Yes,Research & Development,Male,Research Scientist,Married,2293,Yes,High,18-25,Bachelor,High,Very-High,Near,Newbies
+46,43,No,Research & Development,Female,Research Scientist,Divorced,2645,No,High,35-46,College,Very-High,High,Near,1-Star
+47,50,Yes,Sales,Male,Sales Representative,Married,2683,Yes,High,46-55,College,Medium,High,Near,1-Star
+49,35,No,Sales,Female,Sales Representative,Married,2014,No,High,26-35,Bachelor,High,Very-High,Near,Newbies
+51,36,No,Research & Development,Female,Research Scientist,Married,3419,Yes,High,35-46,Masters,Medium,Low,Near,Newbies
+52,33,No,Sales,Female,Sales Executive,Married,5376,No,High,26-35,Bachelor,Very-High,Low,Near,1-Star
+53,35,No,Research & Development,Male,Laboratory Technician,Divorced,1951,No,High,26-35,College,High,Very-High,Near,Newbies
+54,27,No,Research & Development,Female,Laboratory Technician,Divorced,2341,No,High,26-35,Masters,High,Low,Near,Newbies
+55,26,Yes,Research & Development,Male,Laboratory Technician,Single,2293,No,High,26-35,Bachelor,Low,High,Very-Far,Newbies
+56,27,No,Sales,Male,Sales Executive,Single,8726,No,High,26-35,Bachelor,High,High,Near,2-Star
+57,30,No,Research & Development,Female,Laboratory Technician,Single,4011,No,Low,26-35,College,High,Very-High,Near,3-Star
+58,41,Yes,Research & Development,Female,Research Director,Married,19545,No,High,35-46,Bachelor,High,High,Far,5-Star
+60,34,No,Sales,Male,Sales Executive,Single,4568,No,Low,26-35,Masters,High,High,Very-Far,2-Star
+61,37,No,Research & Development,Male,Research Scientist,Married,3022,No,Low,35-46,College,High,Medium,Far,Newbies
+62,46,No,Sales,Male,Sales Executive,Single,5772,Yes,Low,46-55,Masters,High,Very-High,Near,2-Star
+63,35,No,Research & Development,Male,Laboratory Technician,Married,2269,No,High,26-35,Below College,Very-High,Very-High,Near,Newbies
+64,48,Yes,Research & Development,Male,Laboratory Technician,Single,5381,Yes,High,46-55,College,Medium,High,Near,Newbies
+65,28,Yes,Research & Development,Male,Laboratory Technician,Single,3441,Yes,High,26-35,Masters,High,High,Near,Newbies
+68,44,No,Sales,Female,Sales Executive,Divorced,5454,Yes,Low,35-46,Doctor,High,Low,Near,1-Star
+70,35,No,Research & Development,Male,Healthcare Representative,Married,9884,Yes,High,26-35,College,Medium,Low,Far,1-Star
+72,26,No,Sales,Female,Sales Executive,Married,4157,Yes,High,26-35,Bachelor,Medium,Very-High,Very-Far,Newbies
+73,33,No,Research & Development,Female,Research Director,Single,13458,Yes,High,26-35,College,High,Very-High,Near,3-Star
+74,35,No,Sales,Male,Sales Executive,Married,9069,No,Low,26-35,Doctor,High,Low,Far,2-Star
+75,35,No,Research & Development,Female,Laboratory Technician,Married,4014,Yes,High,26-35,Masters,High,Low,Very-Far,Newbies
+76,31,No,Research & Development,Male,Laboratory Technician,Divorced,5915,No,Low,26-35,Masters,High,Very-High,Near,2-Star
+77,37,No,Research & Development,Male,Manufacturing Director,Divorced,5993,No,High,35-46,Masters,Medium,High,Near,2-Star
+78,32,No,Research & Development,Male,Manufacturing Director,Married,6162,Yes,Low,26-35,Bachelor,High,Very-High,Near,2-Star
+79,38,No,Research & Development,Female,Laboratory Technician,Single,2406,No,High,35-46,Doctor,High,Very-High,Very-Far,2-Star
+80,50,No,Research & Development,Female,Research Director,Divorced,18740,Yes,High,46-55,College,Medium,High,Near,Elders
+81,59,No,Sales,Female,Sales Executive,Single,7637,No,High,56?,Bachelor,High,Low,Very-Far,5-Star
+83,36,No,Research & Development,Female,Healthcare Representative,Divorced,10096,No,High,35-46,Bachelor,High,High,Near,4-Star
+84,55,No,Research & Development,Female,Manager,Divorced,14756,Yes,High,46-55,Bachelor,High,High,Near,1-Star
+85,36,No,Research & Development,Male,Manufacturing Director,Single,6499,No,High,35-46,Bachelor,Medium,Medium,Far,2-Star
+86,45,No,Research & Development,Male,Research Scientist,Divorced,9724,No,High,35-46,Bachelor,High,Low,Near,Newbies
+88,35,No,Research & Development,Male,Research Scientist,Married,2194,No,High,26-35,Bachelor,High,Low,Near,1-Star
+90,36,Yes,Research & Development,Male,Research Scientist,Married,3388,Yes,High,35-46,Bachelor,Medium,High,Near,Newbies
+91,59,No,Sales,Female,Sales Executive,Single,5473,No,High,56?,Below College,Medium,High,Near,1-Star
+94,29,No,Research & Development,Male,Research Scientist,Married,2703,No,Low,26-35,Bachelor,High,Medium,Near,1-Star
+95,31,No,Research & Development,Male,Research Scientist,Single,2501,No,High,26-35,Masters,High,Medium,Near,Newbies
+96,32,No,Research & Development,Male,Research Scientist,Married,6220,No,High,26-35,Bachelor,High,Medium,Near,2-Star
+97,36,No,Research & Development,Female,Laboratory Technician,Married,3038,No,High,35-46,Bachelor,Very-High,Very-High,Near,Newbies
+98,31,No,Research & Development,Female,Manufacturing Director,Single,4424,No,Low,26-35,Masters,High,Very-High,Near,3-Star
+100,35,No,Sales,Male,Sales Executive,Single,4312,No,High,26-35,Masters,Medium,Low,Near,3-Star
+101,45,No,Research & Development,Male,Research Director,Married,13245,Yes,High,35-46,Masters,High,Low,Near,Newbies
+102,37,No,Research & Development,Male,Research Director,Single,13664,No,High,35-46,Masters,High,High,Near,1-Star
+103,46,No,Human Resources,Male,Human Resources,Divorced,5021,Yes,Low,46-55,College,High,Medium,Near,1-Star
+104,30,No,Research & Development,Male,Laboratory Technician,Married,5126,Yes,High,26-35,Below College,Medium,Very-High,Near,2-Star
+105,35,No,Research & Development,Male,Research Scientist,Single,2859,No,High,26-35,Bachelor,Medium,High,Near,2-Star
+106,55,No,Sales,Male,Sales Executive,Married,10239,No,High,46-55,College,High,Very-High,Near,Newbies
+107,38,No,Research & Development,Female,Research Scientist,Divorced,5329,Yes,High,35-46,Bachelor,Low,Very-High,Near,3-Star
+110,34,No,Research & Development,Male,Manufacturing Director,Married,4325,No,High,26-35,College,High,Medium,Near,1-Star
+112,56,No,Research & Development,Male,Manufacturing Director,Single,7260,No,High,56?,Bachelor,Low,Very-High,Near,2-Star
+113,23,No,Sales,Male,Sales Representative,Divorced,2322,No,High,18-25,Below College,High,Low,Near,Newbies
+116,51,No,Research & Development,Male,Laboratory Technician,Married,2075,No,Low,46-55,Masters,High,Very-High,Near,1-Star
+117,30,No,Research & Development,Male,Healthcare Representative,Married,4152,No,High,26-35,Bachelor,Medium,Very-High,Near,3-Star
+118,46,Yes,Sales,Male,Sales Executive,Single,9619,No,High,46-55,College,Medium,Very-High,Near,2-Star
+119,40,No,Research & Development,Male,Healthcare Representative,Married,13503,No,Low,35-46,Masters,Medium,Medium,Near,5-Star
+120,51,No,Sales,Male,Sales Executive,Single,5441,Yes,Low,46-55,Masters,High,Very-High,Very-Far,2-Star
+121,30,No,Sales,Female,Sales Executive,Divorced,5209,Yes,High,26-35,College,Medium,Medium,Near,3-Star
+124,46,No,Research & Development,Male,Healthcare Representative,Married,10673,Yes,High,46-55,Bachelor,Medium,Low,Near,2-Star
+125,32,No,Sales,Male,Sales Executive,Single,5010,No,High,26-35,Masters,High,High,Near,3-Star
+126,54,No,Research & Development,Female,Research Director,Married,13549,No,High,46-55,Masters,High,High,Near,1-Star
+128,24,No,Sales,Female,Sales Executive,Married,4999,No,Low,18-25,College,High,High,Near,1-Star
+129,28,No,Sales,Male,Sales Executive,Married,4221,No,High,26-35,Bachelor,High,High,Near,1-Star
+131,58,No,Sales,Male,Sales Executive,Single,13872,No,High,56?,Masters,High,High,Near,Elders
+132,44,No,Research & Development,Male,Laboratory Technician,Married,2042,No,High,35-46,Bachelor,High,Medium,Very-Far,1-Star
+133,37,Yes,Human Resources,Male,Human Resources,Divorced,2073,Yes,Low,35-46,Masters,High,Low,Near,1-Star
+134,32,No,Research & Development,Male,Research Scientist,Single,2956,No,High,26-35,Below College,High,Low,Near,Newbies
+137,20,Yes,Research & Development,Female,Laboratory Technician,Single,2926,Yes,High,18-25,Bachelor,Medium,Very-High,Near,Newbies
+138,34,No,Research & Development,Female,Research Scientist,Single,4809,No,High,26-35,Masters,High,High,Near,4-Star
+139,37,No,Research & Development,Male,Healthcare Representative,Divorced,5163,No,High,35-46,College,Medium,Very-High,Near,Newbies
+140,59,No,Human Resources,Female,Manager,Married,18844,No,Low,56?,Masters,Medium,Very-High,Near,1-Star
+141,50,No,Research & Development,Female,Research Director,Married,18172,Yes,High,46-55,Bachelor,High,Medium,Near,2-Star
+142,25,Yes,Sales,Male,Sales Executive,Single,5744,Yes,High,18-25,Bachelor,Medium,High,Near,2-Star
+143,25,No,Research & Development,Male,Research Scientist,Married,2889,No,High,18-25,Below College,Medium,Very-High,Near,Newbies
+144,22,No,Research & Development,Female,Laboratory Technician,Single,2871,No,High,18-25,Bachelor,High,Very-High,Far,Newbies
+145,51,No,Research & Development,Female,Healthcare Representative,Single,7484,No,Low,46-55,Masters,Medium,Low,Near,3-Star
+147,34,Yes,Research & Development,Male,Laboratory Technician,Single,6074,Yes,Low,26-35,Bachelor,Low,High,Near,2-Star
+148,54,No,Human Resources,Female,Manager,Single,17328,Yes,High,46-55,Bachelor,Very-High,Very-High,Very-Far,1-Star
+150,24,No,Research & Development,Male,Laboratory Technician,Married,2774,No,High,18-25,Below College,High,High,Far,1-Star
+151,34,No,Research & Development,Female,Research Scientist,Divorced,4505,No,High,26-35,Masters,Medium,Medium,Near,Newbies
+152,37,No,Sales,Male,Sales Executive,Single,7428,No,High,35-46,Bachelor,High,Very-High,Near,1-Star
+153,34,No,Research & Development,Female,Manager,Single,11631,No,High,26-35,Bachelor,Medium,Low,Near,3-Star
+154,36,No,Sales,Female,Sales Executive,Married,9738,No,High,35-46,College,High,Very-High,Far,2-Star
+155,36,No,Research & Development,Female,Laboratory Technician,Divorced,2835,No,Low,35-46,College,High,Very-High,Near,Newbies
+158,43,No,Sales,Male,Manager,Married,16959,Yes,High,35-46,College,High,Very-High,Very-Far,5-Star
+159,30,No,Research & Development,Male,Research Scientist,Divorced,2613,No,Low,26-35,Bachelor,Low,High,Very-Far,2-Star
+160,33,No,Sales,Male,Sales Executive,Married,6146,No,High,26-35,College,High,Medium,Very-Far,2-Star
+161,56,Yes,Research & Development,Female,Research Scientist,Married,4963,Yes,High,56?,Masters,High,Medium,Far,1-Star
+162,51,No,Research & Development,Male,Research Director,Single,19537,No,High,46-55,Bachelor,High,High,Near,4-Star
+163,31,Yes,Sales,Male,Sales Executive,Married,6172,Yes,High,26-35,Masters,Low,High,Near,2-Star
+164,26,No,Research & Development,Female,Research Scientist,Married,2368,No,High,26-35,Bachelor,Medium,Medium,Near,1-Star
+165,58,Yes,Research & Development,Female,Healthcare Representative,Married,10312,No,High,56?,Masters,High,Very-High,Very-Far,Elders
+167,19,Yes,Sales,Male,Sales Representative,Single,1675,Yes,High,18-25,Below College,High,High,Very-Far,Newbies
+169,22,No,Research & Development,Male,Laboratory Technician,Married,2523,No,High,18-25,Below College,High,Very-High,Near,Newbies
+170,49,No,Research & Development,Female,Manufacturing Director,Married,6567,No,High,46-55,Masters,High,Low,Far,3-Star
+171,43,No,Research & Development,Female,Research Scientist,Single,4739,No,High,35-46,Bachelor,Very-High,High,Very-Far,1-Star
+174,50,No,Sales,Female,Sales Executive,Single,9208,No,High,46-55,Bachelor,High,Very-High,Far,Newbies
+175,31,Yes,Sales,Female,Sales Executive,Married,4559,Yes,High,26-35,Bachelor,Low,High,Far,Newbies
+176,41,No,Sales,Male,Sales Executive,Divorced,8189,Yes,High,35-46,Below College,High,High,Near,2-Star
+177,26,No,Human Resources,Female,Human Resources,Married,2942,No,Low,26-35,Below College,High,High,Very-Far,2-Star
+178,36,No,Research & Development,Male,Manufacturing Director,Divorced,4941,No,Low,35-46,College,High,Medium,Near,1-Star
+179,51,Yes,Research & Development,Male,Manufacturing Director,Single,10650,No,High,46-55,Masters,Low,Very-High,Near,1-Star
+182,39,No,Sales,Female,Sales Executive,Married,5902,No,High,35-46,Masters,Medium,High,Near,3-Star
+183,25,No,Sales,Male,Sales Executive,Married,8639,No,High,18-25,Bachelor,Medium,High,Very-Far,Newbies
+184,30,No,Human Resources,Male,Human Resources,Married,6347,Yes,High,26-35,Bachelor,High,Very-High,Near,3-Star
+190,32,Yes,Research & Development,Female,Laboratory Technician,Single,4200,No,Low,26-35,Bachelor,High,Low,Near,1-Star
+192,45,No,Research & Development,Male,Research Scientist,Single,3452,No,High,35-46,Bachelor,High,Very-High,Very-Far,2-Star
+193,38,No,Research & Development,Female,Research Scientist,Single,4317,Yes,Low,35-46,Doctor,High,High,Near,1-Star
+194,30,No,Research & Development,Female,Research Scientist,Single,2632,No,High,26-35,Bachelor,High,High,Far,1-Star
+195,32,No,Sales,Male,Sales Executive,Divorced,4668,No,High,26-35,College,Low,Very-High,Near,2-Star
+197,30,No,Research & Development,Female,Research Scientist,Divorced,3204,No,High,26-35,Bachelor,High,Low,Near,1-Star
+198,30,No,Research & Development,Male,Laboratory Technician,Single,2720,No,High,26-35,Below College,Medium,Very-High,Near,1-Star
+199,41,No,Research & Development,Male,Manager,Divorced,17181,No,High,35-46,Bachelor,Medium,Low,Near,2-Star
+200,41,No,Research & Development,Male,Laboratory Technician,Married,2238,No,Low,35-46,Masters,High,Low,Near,1-Star
+201,19,No,Research & Development,Female,Laboratory Technician,Single,1483,No,High,18-25,Below College,High,Medium,Near,Newbies
+202,40,No,Research & Development,Female,Research Scientist,Divorced,5605,No,High,35-46,Bachelor,High,Medium,Very-Far,4-Star
+204,35,No,Sales,Male,Sales Executive,Married,7295,No,High,26-35,Doctor,High,Medium,Near,2-Star
+205,53,No,Sales,Male,Sales Representative,Married,2306,Yes,Low,46-55,College,High,High,Near,2-Star
+206,45,No,Research & Development,Male,Laboratory Technician,Divorced,2348,No,High,35-46,Bachelor,High,Medium,Near,4-Star
+207,32,No,Sales,Female,Sales Executive,Single,8998,No,High,26-35,Bachelor,High,Very-High,Near,2-Star
+208,29,No,Research & Development,Male,Manufacturing Director,Married,4319,No,High,26-35,Below College,High,High,Near,2-Star
+211,51,No,Research & Development,Male,Manufacturing Director,Married,6132,No,High,46-55,Masters,Medium,High,Near,Newbies
+214,58,No,Research & Development,Female,Research Scientist,Married,3346,Yes,Low,56?,Bachelor,Medium,Medium,Near,Newbies
+215,40,No,Sales,Male,Sales Executive,Married,10855,No,High,35-46,Masters,Medium,Very-High,Near,3-Star
+216,34,No,Sales,Female,Sales Representative,Married,2231,No,High,26-35,Masters,High,High,Near,1-Star
+217,22,No,Research & Development,Male,Research Scientist,Married,2323,No,Low,18-25,Below College,High,Very-High,Far,Newbies
+218,27,No,Research & Development,Male,Research Scientist,Divorced,2024,No,High,26-35,Bachelor,High,Medium,Near,Newbies
+221,28,No,Research & Development,Male,Research Scientist,Married,2713,No,High,26-35,Bachelor,High,Very-High,Very-Far,1-Star
+223,57,No,Research & Development,Male,Healthcare Representative,Divorced,9439,Yes,High,56?,College,Very-High,Very-High,Very-Far,1-Star
+224,27,No,Research & Development,Male,Research Scientist,Divorced,2566,Yes,High,26-35,Bachelor,Medium,High,Near,Newbies
+226,50,No,Research & Development,Female,Manager,Single,19926,No,High,46-55,Bachelor,High,Medium,Far,1-Star
+227,41,No,Research & Development,Male,Research Scientist,Divorced,2451,No,High,35-46,Bachelor,High,High,Far,2-Star
+228,30,No,Sales,Female,Sales Executive,Married,9419,No,High,26-35,Bachelor,High,Very-High,Near,2-Star
+230,38,No,Sales,Female,Sales Executive,Single,8686,No,Low,35-46,Masters,Medium,Very-High,Near,2-Star
+231,32,No,Research & Development,Male,Research Scientist,Single,3038,No,Low,26-35,Doctor,High,High,Near,1-Star
+233,27,No,Research & Development,Male,Research Scientist,Married,3058,Yes,High,26-35,Bachelor,High,Medium,Far,1-Star
+235,19,Yes,Sales,Female,Sales Representative,Single,2325,No,Low,18-25,Below College,Low,Low,Near,Newbies
+238,36,No,Research & Development,Male,Laboratory Technician,Single,2088,No,High,35-46,College,High,Medium,Near,2-Star
+239,30,No,Research & Development,Male,Laboratory Technician,Divorced,3072,No,High,26-35,Bachelor,High,Low,Near,3-Star
+240,45,No,Sales,Female,Sales Executive,Divorced,5006,Yes,High,35-46,College,High,Low,Near,1-Star
+241,56,No,Research & Development,Female,Research Scientist,Divorced,4257,Yes,High,56?,Bachelor,High,Low,Near,Newbies
+242,33,No,Research & Development,Male,Research Scientist,Single,2500,No,High,26-35,Bachelor,High,Very-High,Near,1-Star
+243,19,Yes,Research & Development,Male,Laboratory Technician,Single,1102,No,Low,18-25,Bachelor,Medium,Very-High,Near,Newbies
+244,46,No,Sales,Female,Sales Executive,Divorced,10453,No,Low,46-55,College,High,Low,Near,5-Star
+245,38,No,Research & Development,Female,Laboratory Technician,Single,2288,No,High,35-46,College,High,Very-High,Near,Newbies
+246,31,No,Research & Development,Female,Research Scientist,Married,3929,Yes,Low,26-35,Below College,High,Very-High,Far,1-Star
+247,34,No,Research & Development,Female,Research Scientist,Single,2311,No,High,26-35,College,High,Medium,Very-Far,1-Star
+248,41,Yes,Sales,Female,Sales Representative,Single,3140,Yes,Low,35-46,College,High,Medium,Far,1-Star
+249,50,No,Research & Development,Male,Laboratory Technician,Married,3690,No,High,46-55,Bachelor,Medium,High,Near,1-Star
+250,53,No,Research & Development,Female,Manufacturing Director,Divorced,4450,No,High,46-55,College,Very-High,Low,Far,1-Star
+252,33,No,Research & Development,Female,Research Scientist,Married,2756,No,High,26-35,Bachelor,High,Medium,Far,2-Star
+253,40,No,Research & Development,Female,Manager,Married,19033,No,High,35-46,Below College,High,High,Near,4-Star
+254,55,No,Research & Development,Male,Research Director,Single,18722,No,High,46-55,Masters,Very-High,Medium,Far,5-Star
+256,34,No,Research & Development,Male,Manufacturing Director,Married,9547,No,High,26-35,Below College,Medium,High,Near,2-Star
+258,51,No,Research & Development,Female,Healthcare Representative,Single,13734,No,High,46-55,Bachelor,High,Medium,Near,2-Star
+259,52,No,Research & Development,Male,Manager,Married,19999,No,High,46-55,Masters,Medium,High,Near,Elders
+260,27,No,Research & Development,Female,Research Scientist,Single,2279,No,High,26-35,Bachelor,High,Medium,Near,2-Star
+261,35,Yes,Research & Development,Male,Manufacturing Director,Married,5916,Yes,High,26-35,College,Medium,High,Very-Far,Newbies
+262,43,No,Research & Development,Male,Research Scientist,Divorced,2089,No,High,35-46,Bachelor,Very-High,Very-High,Near,1-Star
+264,45,No,Research & Development,Male,Manager,Married,16792,No,Low,35-46,College,Medium,Very-High,Near,4-Star
+267,37,No,Research & Development,Male,Research Scientist,Married,3564,Yes,High,35-46,Bachelor,Very-High,Low,Very-Far,2-Star
+269,35,No,Research & Development,Female,Laboratory Technician,Single,4425,No,High,26-35,Bachelor,High,Medium,Near,2-Star
+270,42,No,Research & Development,Female,Manufacturing Director,Divorced,5265,No,High,35-46,College,High,High,Very-Far,1-Star
+271,38,No,Research & Development,Male,Manufacturing Director,Married,6553,No,High,35-46,Masters,High,High,Near,Newbies
+273,38,No,Research & Development,Male,Manufacturing Director,Married,6261,No,High,35-46,Bachelor,High,Very-High,Very-Far,2-Star
+274,27,No,Research & Development,Male,Manufacturing Director,Married,4298,No,High,26-35,Below College,Medium,Low,Near,Newbies
+275,49,No,Research & Development,Male,Manufacturing Director,Divorced,6804,Yes,High,46-55,Masters,High,Very-High,Far,2-Star
+277,34,No,Research & Development,Male,Research Scientist,Divorced,3815,Yes,High,26-35,Masters,High,High,Near,1-Star
+281,40,No,Research & Development,Male,Laboratory Technician,Married,2741,Yes,High,35-46,College,High,Very-High,Far,2-Star
+282,38,Yes,Research & Development,Male,Healthcare Representative,Married,6673,Yes,High,35-46,Below College,High,Low,Very-Far,Newbies
+283,29,Yes,Sales,Female,Sales Executive,Married,7639,No,Low,26-35,Bachelor,High,Very-High,Very-Far,2-Star
+284,22,No,Research & Development,Male,Research Scientist,Divorced,2328,Yes,High,18-25,Bachelor,Very-High,Medium,Near,1-Star
+286,36,No,Research & Development,Female,Laboratory Technician,Single,2153,No,High,35-46,Below College,High,Very-High,Far,2-Star
+287,40,No,Research & Development,Male,Healthcare Representative,Married,4876,No,High,35-46,Doctor,Medium,Very-High,Near,1-Star
+288,46,No,Research & Development,Male,Healthcare Representative,Divorced,9396,No,High,46-55,Masters,High,Low,Near,1-Star
+291,32,Yes,Sales,Male,Sales Executive,Married,10400,No,High,26-35,Masters,Low,Very-High,Near,3-Star
+292,30,No,Research & Development,Male,Manufacturing Director,Single,8474,No,Low,26-35,Below College,Medium,High,Near,3-Star
+293,27,No,Sales,Female,Sales Executive,Single,9981,No,High,26-35,Bachelor,High,High,Far,2-Star
+296,51,No,Research & Development,Male,Research Director,Married,12490,No,High,46-55,Masters,Medium,Medium,Near,2-Star
+297,30,Yes,Research & Development,Female,Research Scientist,Single,2657,Yes,High,26-35,Bachelor,High,Low,Near,1-Star
+298,41,No,Sales,Female,Manager,Single,13591,Yes,High,35-46,Bachelor,High,Very-High,Near,Newbies
+299,30,Yes,Sales,Female,Sales Executive,Single,6696,No,High,26-35,Masters,Medium,Low,Very-Far,2-Star
+300,29,Yes,Research & Development,Male,Research Scientist,Single,2058,No,High,26-35,Bachelor,High,High,Near,2-Star
+302,45,No,Sales,Female,Sales Executive,Single,8865,No,High,35-46,Bachelor,Medium,Very-High,Near,4-Star
+303,54,No,Sales,Female,Sales Executive,Married,5940,No,High,46-55,Bachelor,High,Low,Near,2-Star
+304,36,No,Research & Development,Male,Laboratory Technician,Single,5914,No,High,35-46,College,High,Medium,Near,3-Star
+305,33,No,Research & Development,Female,Research Scientist,Married,2622,No,Low,26-35,Masters,Medium,Medium,Near,1-Star
+306,37,No,Research & Development,Male,Research Director,Divorced,12185,Yes,High,35-46,Bachelor,High,Very-High,Far,2-Star
+307,38,No,Sales,Male,Sales Executive,Divorced,10609,No,High,35-46,Bachelor,High,High,Near,4-Star
+308,31,No,Research & Development,Male,Manufacturing Director,Married,4345,No,High,26-35,Masters,Low,High,Near,1-Star
+309,59,No,Research & Development,Male,Research Scientist,Married,2177,No,High,56?,Bachelor,Medium,Very-High,Near,Newbies
+311,37,No,Sales,Male,Sales Representative,Divorced,2793,No,High,35-46,Masters,High,Very-High,Near,2-Star
+312,29,No,Sales,Female,Sales Executive,Married,7918,No,High,26-35,Below College,High,Very-High,Near,3-Star
+314,35,No,Sales,Female,Sales Executive,Single,8789,No,High,26-35,Bachelor,High,High,Near,2-Star
+315,29,Yes,Research & Development,Male,Research Scientist,Single,2389,Yes,High,26-35,Below College,Medium,Very-High,Far,1-Star
+316,52,No,Research & Development,Female,Laboratory Technician,Single,3212,No,High,46-55,Bachelor,Medium,Very-High,Near,Newbies
+319,42,No,Research & Development,Male,Manager,Married,19232,No,High,35-46,College,High,Very-High,Near,5-Star
+321,59,No,Human Resources,Male,Human Resources,Married,2267,No,High,56?,College,High,High,Near,Newbies
+323,50,No,Sales,Female,Manager,Divorced,19517,No,High,46-55,Masters,High,Very-High,Near,2-Star
+325,33,Yes,Research & Development,Male,Laboratory Technician,Married,2436,Yes,High,26-35,Bachelor,High,Very-High,Far,1-Star
+327,43,No,Sales,Female,Manager,Married,16064,Yes,Low,35-46,Bachelor,High,Very-High,Far,4-Star
+328,33,Yes,Research & Development,Female,Laboratory Technician,Married,2707,No,Low,26-35,College,High,Low,Near,2-Star
+329,52,No,Sales,Male,Manager,Single,19068,Yes,High,46-55,Masters,Medium,High,Near,Elders
+330,32,No,Sales,Female,Sales Representative,Married,3931,No,High,26-35,College,High,Medium,Near,1-Star
+331,32,Yes,Research & Development,Male,Laboratory Technician,Single,3730,Yes,High,26-35,Bachelor,Medium,High,Near,1-Star
+332,39,No,Research & Development,Female,Laboratory Technician,Divorced,2232,No,High,35-46,Masters,High,High,Near,1-Star
+333,32,No,Sales,Male,Sales Executive,Married,4465,No,High,26-35,Masters,High,Very-High,Very-Far,1-Star
+334,41,No,Research & Development,Male,Research Scientist,Divorced,3072,No,High,35-46,College,High,Low,Far,Newbies
+335,40,No,Research & Development,Male,Research Scientist,Divorced,3319,No,High,35-46,College,High,Very-High,Very-Far,2-Star
+336,45,No,Research & Development,Male,Manager,Married,19202,No,High,35-46,Bachelor,Very-High,Very-High,Near,5-Star
+337,31,No,Research & Development,Male,Research Director,Divorced,13675,No,High,26-35,Masters,High,High,Near,Newbies
+338,33,No,Research & Development,Female,Research Scientist,Married,2911,No,High,26-35,Masters,Medium,Very-High,Near,Newbies
+339,34,No,Research & Development,Male,Manufacturing Director,Married,5957,No,High,26-35,Masters,Medium,Low,Near,3-Star
+340,37,No,Research & Development,Female,Research Scientist,Married,3920,No,High,35-46,College,Medium,Low,Near,1-Star
+341,45,No,Research & Development,Male,Manufacturing Director,Married,6434,No,High,35-46,Masters,Very-High,High,Near,1-Star
+342,37,Yes,Research & Development,Male,Manufacturing Director,Divorced,10048,No,High,35-46,Bachelor,High,High,Near,Newbies
+343,39,No,Research & Development,Female,Healthcare Representative,Single,10938,No,Low,35-46,Masters,High,High,Near,4-Star
+346,29,No,Research & Development,Male,Research Scientist,Single,2340,No,High,26-35,Bachelor,High,Very-High,Far,2-Star
+347,42,No,Research & Development,Female,Research Scientist,Single,6545,Yes,High,35-46,College,Very-High,Low,Far,1-Star
+349,29,No,Sales,Male,Sales Executive,Divorced,6931,No,High,26-35,College,High,Very-High,Far,1-Star
+350,25,No,Research & Development,Female,Manufacturing Director,Married,4898,No,High,18-25,Bachelor,High,High,Near,1-Star
+351,42,No,Research & Development,Female,Laboratory Technician,Divorced,2593,Yes,High,35-46,Bachelor,Medium,Low,Near,2-Star
+352,40,No,Research & Development,Male,Research Director,Divorced,19436,No,High,35-46,College,High,High,Near,5-Star
+353,51,No,Research & Development,Male,Research Scientist,Married,2723,No,High,46-55,Bachelor,High,Very-High,Near,Newbies
+355,31,Yes,Research & Development,Male,Laboratory Technician,Single,3479,No,High,26-35,College,Medium,Medium,Very-Far,1-Star
+359,32,No,Research & Development,Male,Laboratory Technician,Married,2794,No,Low,26-35,Bachelor,Very-High,Medium,Near,1-Star
+361,38,No,Sales,Male,Sales Executive,Married,5249,No,High,35-46,College,Medium,Very-High,Near,2-Star
+362,32,No,Research & Development,Male,Laboratory Technician,Single,2176,No,High,26-35,Below College,Medium,Low,Near,2-Star
+363,46,No,Sales,Female,Manager,Married,16872,Yes,High,46-55,Bachelor,Low,Medium,Near,2-Star
+364,28,Yes,Research & Development,Male,Laboratory Technician,Single,3485,No,High,26-35,Masters,High,High,Near,Newbies
+366,29,No,Sales,Male,Sales Executive,Married,6644,No,High,26-35,Bachelor,Medium,Medium,Near,Newbies
+367,31,No,Research & Development,Male,Healthcare Representative,Married,5582,No,Low,26-35,Bachelor,Medium,Very-High,Very-Far,2-Star
+369,25,No,Research & Development,Male,Healthcare Representative,Divorced,4000,No,High,18-25,College,Very-High,Low,Near,2-Star
+372,45,No,Research & Development,Male,Healthcare Representative,Married,13496,Yes,High,35-46,College,High,Very-High,Far,4-Star
+373,36,No,Research & Development,Male,Laboratory Technician,Married,3210,No,High,35-46,Bachelor,High,Very-High,Near,3-Star
+374,55,No,Research & Development,Male,Manager,Single,19045,Yes,High,46-55,Bachelor,High,Low,Near,Elders
+376,47,Yes,Research & Development,Male,Manager,Married,11849,Yes,High,46-55,Masters,High,Medium,Very-Far,2-Star
+377,28,No,Research & Development,Male,Research Scientist,Married,2070,No,Low,26-35,Bachelor,High,Very-High,Near,1-Star
+378,37,No,Sales,Male,Sales Executive,Married,6502,No,High,35-46,Masters,High,Very-High,Near,1-Star
+379,21,No,Research & Development,Male,Research Scientist,Single,3230,No,High,18-25,College,Medium,High,Near,1-Star
+380,37,No,Research & Development,Female,Research Director,Divorced,13603,Yes,High,35-46,Masters,High,Very-High,Near,1-Star
+381,35,No,Research & Development,Female,Manager,Divorced,11996,No,High,26-35,Bachelor,Very-High,Medium,Very-Far,2-Star
+382,38,No,Sales,Female,Sales Executive,Divorced,5605,Yes,Low,35-46,College,Very-High,Low,Near,2-Star
+384,26,No,Research & Development,Female,Manufacturing Director,Divorced,6397,No,Low,26-35,Bachelor,High,Medium,Near,2-Star
+385,50,No,Research & Development,Male,Research Director,Divorced,19144,No,High,46-55,Below College,High,Medium,Near,2-Star
+386,53,No,Research & Development,Male,Research Director,Married,17584,Yes,High,46-55,Masters,High,High,Near,1-Star
+387,42,No,Sales,Male,Sales Executive,Married,4907,No,Low,35-46,Below College,High,High,Near,4-Star
+388,29,No,Sales,Male,Sales Executive,Single,4554,No,High,26-35,College,High,Very-High,Near,2-Star
+389,55,No,Research & Development,Male,Laboratory Technician,Married,5415,Yes,High,46-55,College,High,Very-High,Far,2-Star
+390,26,No,Research & Development,Male,Healthcare Representative,Married,4741,Yes,High,26-35,College,High,Low,Far,1-Star
+391,37,No,Research & Development,Female,Research Scientist,Single,2115,No,High,35-46,Bachelor,High,Very-High,Near,4-Star
+392,44,Yes,Research & Development,Male,Laboratory Technician,Divorced,3161,Yes,Low,35-46,Bachelor,High,High,Very-Far,Newbies
+393,38,No,Research & Development,Male,Healthcare Representative,Divorced,5745,No,High,35-46,Masters,High,Very-High,Very-Far,Newbies
+394,26,Yes,Research & Development,Male,Laboratory Technician,Divorced,2373,Yes,High,26-35,Masters,High,Medium,Far,1-Star
+395,28,No,Research & Development,Female,Research Scientist,Single,3310,No,Low,26-35,College,High,Very-High,Near,1-Star
+396,49,No,Research & Development,Female,Research Director,Single,18665,Yes,High,46-55,Masters,High,Low,Near,1-Star
+397,36,No,Research & Development,Male,Research Scientist,Single,4485,No,High,35-46,Bachelor,High,Medium,Near,2-Star
+399,31,No,Sales,Female,Sales Representative,Divorced,2789,No,High,26-35,Bachelor,High,Medium,Near,Newbies
+401,26,Yes,Sales,Male,Sales Executive,Single,5828,Yes,High,26-35,Masters,Medium,Very-High,Near,2-Star
+403,37,No,Research & Development,Male,Research Scientist,Married,2326,Yes,High,35-46,Bachelor,High,Very-High,Near,1-Star
+404,42,No,Sales,Female,Sales Executive,Married,13525,No,High,35-46,Bachelor,High,Medium,Very-Far,4-Star
+405,18,Yes,Research & Development,Male,Laboratory Technician,Single,1420,No,High,18-25,Bachelor,High,High,Near,Newbies
+406,35,No,Sales,Male,Sales Executive,Married,8020,No,High,26-35,Bachelor,High,Medium,Far,3-Star
+407,36,No,Research & Development,Male,Laboratory Technician,Married,3688,No,High,35-46,Masters,Very-High,Very-High,Far,Newbies
+408,51,No,Research & Development,Male,Manufacturing Director,Divorced,5482,No,High,46-55,Bachelor,Low,Medium,Near,1-Star
+410,41,No,Sales,Male,Manager,Single,16015,No,High,35-46,Masters,High,Medium,Near,5-Star
+411,18,No,Sales,Female,Sales Representative,Single,1200,No,High,18-25,Bachelor,Medium,High,Near,Newbies
+412,28,No,Research & Development,Male,Healthcare Representative,Single,5661,No,High,26-35,College,Very-High,Low,Far,2-Star
+416,31,No,Sales,Male,Sales Executive,Married,6929,No,High,26-35,Bachelor,Very-High,Very-High,Near,2-Star
+417,39,No,Research & Development,Male,Healthcare Representative,Divorced,9613,No,High,35-46,Bachelor,Very-High,Very-High,Near,4-Star
+419,36,No,Research & Development,Female,Laboratory Technician,Married,5674,No,High,35-46,Masters,High,Medium,Very-Far,2-Star
+420,32,No,Sales,Male,Sales Executive,Married,5484,No,High,26-35,Bachelor,Medium,High,Near,3-Star
+421,38,No,Research & Development,Female,Research Director,Married,12061,No,High,35-46,College,Medium,Medium,Very-Far,2-Star
+422,58,No,Research & Development,Male,Healthcare Representative,Divorced,5660,Yes,High,56?,Masters,Low,High,Near,1-Star
+423,31,No,Research & Development,Male,Research Scientist,Married,4821,Yes,High,26-35,Masters,High,Very-High,Near,1-Star
+424,31,No,Human Resources,Male,Human Resources,Married,6410,No,High,26-35,Bachelor,Medium,Low,Near,Newbies
+425,45,No,Research & Development,Male,Laboratory Technician,Divorced,5210,No,High,35-46,Bachelor,High,Low,Near,5-Star
+426,31,No,Research & Development,Male,Research Scientist,Divorced,2695,Yes,High,26-35,Masters,High,Very-High,Near,Newbies
+428,33,No,Research & Development,Female,Manager,Married,11878,No,High,26-35,Masters,High,Medium,Near,2-Star
+429,39,No,Research & Development,Male,Manager,Married,17068,Yes,High,35-46,Below College,High,Low,Near,5-Star
+430,43,No,Research & Development,Female,Laboratory Technician,Single,2455,No,High,35-46,Masters,High,Very-High,Near,2-Star
+431,49,No,Research & Development,Female,Healthcare Representative,Single,13964,Yes,High,46-55,College,Medium,High,Near,2-Star
+433,52,Yes,Research & Development,Male,Research Scientist,Married,4941,No,High,46-55,Masters,Medium,Medium,Near,2-Star
+434,27,No,Research & Development,Female,Research Scientist,Single,2478,Yes,High,26-35,Bachelor,High,Medium,Near,1-Star
+436,32,No,Sales,Female,Sales Executive,Married,5228,Yes,High,26-35,College,Medium,Medium,Near,3-Star
+437,27,No,Sales,Male,Sales Executive,Single,4478,Yes,High,26-35,Bachelor,High,High,Near,1-Star
+438,31,No,Sales,Male,Sales Executive,Divorced,7547,No,High,26-35,Bachelor,High,Very-High,Near,2-Star
+439,32,No,Research & Development,Female,Research Scientist,Single,5055,No,High,26-35,Masters,Very-High,Very-High,Near,2-Star
+440,28,Yes,Research & Development,Male,Research Scientist,Married,3464,Yes,High,26-35,Masters,Low,Very-High,Near,1-Star
+441,30,No,Research & Development,Female,Research Scientist,Married,5775,No,High,26-35,College,High,Very-High,Very-Far,2-Star
+442,31,No,Research & Development,Female,Manufacturing Director,Married,8943,No,Low,26-35,College,Medium,High,Near,2-Star
+444,39,No,Research & Development,Male,Manager,Married,19272,No,High,35-46,College,Medium,Very-High,Near,5-Star
+445,39,Yes,Sales,Female,Sales Executive,Married,5238,Yes,High,35-46,College,High,High,Near,Newbies
+446,33,No,Sales,Male,Sales Executive,Single,4682,No,High,26-35,Bachelor,Medium,Very-High,Near,2-Star
+447,47,No,Research & Development,Male,Research Director,Married,18300,No,High,46-55,Doctor,High,High,Near,1-Star
+448,43,No,Research & Development,Female,Laboratory Technician,Divorced,5257,No,High,35-46,Masters,Medium,High,Near,2-Star
+449,27,No,Sales,Male,Sales Executive,Married,6349,Yes,High,26-35,Below College,High,Medium,Near,1-Star
+450,54,No,Research & Development,Female,Research Scientist,Single,4869,No,High,46-55,Masters,High,High,Far,1-Star
+451,43,No,Research & Development,Female,Healthcare Representative,Married,9985,No,High,35-46,Bachelor,High,Low,Near,Newbies
+452,45,No,Research & Development,Male,Research Scientist,Married,3697,No,High,35-46,Masters,High,Very-High,Near,2-Star
+453,40,No,Sales,Male,Sales Executive,Married,7457,Yes,Low,35-46,College,Low,Very-High,Near,1-Star
+454,29,Yes,Research & Development,Male,Laboratory Technician,Married,2119,Yes,High,26-35,Masters,Low,Low,Near,2-Star
+455,29,No,Research & Development,Male,Laboratory Technician,Single,3983,No,High,26-35,Doctor,Medium,Very-High,Near,1-Star
+456,30,No,Sales,Female,Sales Executive,Divorced,6118,No,High,26-35,Bachelor,Medium,High,Near,2-Star
+458,27,No,Sales,Female,Sales Executive,Married,6214,No,High,26-35,Masters,High,Medium,Near,2-Star
+460,37,No,Research & Development,Male,Manufacturing Director,Divorced,6347,No,High,35-46,College,High,Very-High,Near,2-Star
+461,38,No,Research & Development,Male,Research Director,Divorced,11510,Yes,High,35-46,College,Medium,Very-High,Far,3-Star
+462,31,No,Research & Development,Female,Manufacturing Director,Single,7143,Yes,High,26-35,Masters,High,Very-High,Near,3-Star
+463,29,No,Sales,Female,Sales Executive,Divorced,8268,Yes,High,26-35,Below College,Medium,Medium,Near,2-Star
+464,35,No,Research & Development,Male,Manufacturing Director,Single,8095,No,High,26-35,Masters,High,Medium,Near,4-Star
+465,23,No,Research & Development,Male,Research Scientist,Divorced,2904,No,High,18-25,Below College,High,Very-High,Very-Far,1-Star
+466,41,No,Research & Development,Male,Manufacturing Director,Single,6032,Yes,High,35-46,Bachelor,Medium,Medium,Near,1-Star
+467,47,No,Sales,Male,Sales Representative,Single,2976,No,High,46-55,Below College,High,High,Near,Newbies
+468,42,No,Research & Development,Female,Research Director,Single,15992,No,High,35-46,Doctor,High,Very-High,Very-Far,Newbies
+469,29,No,Sales,Male,Sales Executive,Married,4649,No,High,26-35,Bachelor,High,High,Near,1-Star
+470,42,No,Human Resources,Male,Human Resources,Divorced,2696,Yes,High,35-46,Below College,High,High,Near,1-Star
+471,32,No,Research & Development,Female,Laboratory Technician,Married,2370,No,High,26-35,Bachelor,High,Medium,Near,2-Star
+473,48,No,Sales,Female,Manager,Married,12504,No,Low,46-55,Below College,High,High,Very-Far,Newbies
+474,37,No,Research & Development,Male,Research Scientist,Divorced,5974,Yes,High,35-46,Bachelor,Very-High,Low,Near,2-Star
+475,30,No,Sales,Female,Sales Executive,Married,4736,Yes,High,26-35,College,High,High,Very-Far,Newbies
+476,26,No,Sales,Male,Sales Executive,Married,5296,No,High,26-35,Bachelor,High,High,Near,2-Star
+477,42,No,Research & Development,Male,Healthcare Representative,Single,6781,No,Low,35-46,Masters,Medium,Very-High,Near,Newbies
+478,21,Yes,Sales,Female,Sales Representative,Single,2174,Yes,High,18-25,Below College,Medium,Medium,Near,1-Star
+479,36,No,Sales,Female,Sales Executive,Single,6653,No,High,35-46,Doctor,High,Very-High,Near,Newbies
+481,36,No,Sales,Male,Sales Executive,Married,9699,No,High,35-46,Masters,Medium,Very-High,Near,3-Star
+482,57,No,Research & Development,Male,Healthcare Representative,Married,6755,No,High,56?,Masters,High,High,Near,1-Star
+483,40,No,Research & Development,Female,Laboratory Technician,Married,2213,Yes,High,35-46,Masters,Very-High,High,Near,2-Star
+484,21,No,Sales,Male,Sales Representative,Single,2610,No,Low,18-25,College,High,Very-High,Near,1-Star
+485,33,Yes,Sales,Female,Sales Representative,Single,2851,Yes,High,26-35,Bachelor,High,High,Near,Newbies
+486,37,No,Research & Development,Female,Laboratory Technician,Married,3452,No,Low,35-46,Bachelor,High,Low,Near,1-Star
+487,46,No,Research & Development,Female,Manufacturing Director,Married,5258,No,High,46-55,Masters,High,High,Near,Newbies
+488,41,Yes,Sales,Male,Sales Executive,Single,9355,No,High,35-46,Bachelor,High,Medium,Near,2-Star
+491,50,No,Research & Development,Male,Healthcare Representative,Single,10496,No,High,46-55,Bachelor,Medium,Very-High,Near,1-Star
+492,40,Yes,Sales,Male,Sales Executive,Married,6380,Yes,High,35-46,College,Medium,High,Very-Far,2-Star
+493,31,No,Research & Development,Male,Research Scientist,Single,2657,Yes,High,26-35,Masters,Medium,Medium,Near,Newbies
+494,21,Yes,Sales,Female,Sales Representative,Single,2716,No,High,18-25,Bachelor,Very-High,Medium,Far,Newbies
+495,29,No,Research & Development,Male,Research Scientist,Single,2201,No,High,26-35,Bachelor,High,Very-High,Very-Far,1-Star
+496,35,No,Research & Development,Male,Healthcare Representative,Single,6540,No,High,26-35,Masters,Medium,Medium,Near,Newbies
+497,27,No,Research & Development,Male,Laboratory Technician,Divorced,3816,No,High,26-35,College,High,Medium,Near,1-Star
+498,28,No,Sales,Male,Sales Executive,Single,5253,No,High,26-35,Masters,High,Very-High,Near,2-Star
+499,49,No,Research & Development,Male,Healthcare Representative,Single,10965,No,Low,46-55,Bachelor,Medium,High,Near,1-Star
+500,51,No,Sales,Female,Sales Executive,Married,4936,No,High,46-55,College,High,Very-High,Far,2-Star
+501,36,No,Research & Development,Female,Research Scientist,Married,2543,No,High,35-46,Bachelor,High,High,Near,Newbies
+502,34,Yes,Sales,Male,Sales Executive,Single,5304,Yes,High,26-35,Bachelor,Very-High,Very-High,Far,1-Star
+505,55,No,Research & Development,Female,Manager,Single,16659,Yes,High,46-55,Bachelor,High,Very-High,Near,1-Star
+507,24,No,Sales,Female,Sales Executive,Divorced,4260,Yes,High,18-25,Masters,High,High,Near,1-Star
+508,30,No,Sales,Male,Sales Representative,Married,2476,No,High,26-35,Below College,High,Medium,Near,Newbies
+510,26,Yes,Research & Development,Male,Research Scientist,Single,3102,No,Low,26-35,Below College,High,Low,Near,2-Star
+511,22,No,Research & Development,Female,Research Scientist,Married,2244,No,High,18-25,Bachelor,High,Medium,Far,Newbies
+513,36,No,Sales,Male,Sales Executive,Married,7596,No,High,35-46,College,Medium,High,Near,2-Star
+514,30,Yes,Research & Development,Male,Research Scientist,Single,2285,Yes,Low,26-35,Bachelor,High,Very-High,Near,Newbies
+515,37,No,Research & Development,Female,Laboratory Technician,Divorced,3034,No,High,35-46,Bachelor,High,Low,Far,4-Star
+516,40,No,Sales,Female,Sales Executive,Divorced,5715,No,High,35-46,College,High,Medium,Near,1-Star
+517,42,No,Research & Development,Female,Laboratory Technician,Divorced,2576,No,High,35-46,Masters,High,Low,Near,1-Star
+518,37,No,Research & Development,Male,Manufacturing Director,Single,4197,Yes,High,35-46,Masters,High,Medium,Near,Newbies
+520,43,No,Research & Development,Male,Research Director,Divorced,14336,No,High,35-46,Bachelor,Medium,Medium,Far,5-Star
+521,40,No,Research & Development,Female,Laboratory Technician,Married,3448,No,Low,35-46,Bachelor,Medium,High,Near,Newbies
+522,54,No,Research & Development,Male,Research Director,Married,19406,No,High,46-55,College,High,Low,Near,1-Star
+523,34,No,Sales,Female,Sales Executive,Married,6538,No,High,26-35,Masters,High,High,Near,1-Star
+524,31,No,Research & Development,Female,Manufacturing Director,Married,4306,No,High,26-35,College,High,Low,Near,3-Star
+525,43,No,Research & Development,Male,Laboratory Technician,Married,2258,No,Low,35-46,Bachelor,High,Very-High,Very-Far,1-Star
+526,43,No,Research & Development,Female,Healthcare Representative,Divorced,4522,Yes,High,35-46,Masters,High,High,Near,1-Star
+527,25,No,Sales,Female,Sales Executive,Single,4487,Yes,High,18-25,College,Medium,Very-High,Near,1-Star
+529,37,No,Research & Development,Female,Research Scientist,Married,4449,Yes,High,35-46,Doctor,High,High,Very-Far,3-Star
+530,31,No,Research & Development,Male,Laboratory Technician,Married,2218,No,High,26-35,College,Medium,Low,Near,1-Star
+531,39,No,Research & Development,Male,Manager,Divorced,19197,Yes,High,35-46,Below College,High,High,Near,5-Star
+532,56,No,Sales,Female,Sales Executive,Married,13212,No,High,56?,Bachelor,Very-High,Low,Near,2-Star
+533,30,No,Sales,Female,Sales Executive,Single,6577,No,High,26-35,Bachelor,High,High,Far,1-Star
+534,41,No,Sales,Male,Sales Executive,Married,8392,No,High,35-46,Bachelor,Very-High,Low,Near,2-Star
+536,28,No,Research & Development,Male,Laboratory Technician,Divorced,4558,No,High,26-35,College,High,Low,Far,2-Star
+538,25,Yes,Research & Development,Male,Laboratory Technician,Married,4031,No,High,18-25,Bachelor,High,Low,Near,Newbies
+543,52,No,Research & Development,Male,Manufacturing Director,Married,7969,Yes,High,46-55,Bachelor,Medium,High,Near,1-Star
+544,45,No,Research & Development,Male,Research Scientist,Married,2654,No,Low,35-46,College,High,Very-High,Near,Newbies
+546,52,No,Research & Development,Female,Manager,Married,16555,No,High,46-55,College,High,Very-High,Near,1-Star
+547,42,No,Research & Development,Female,Research Scientist,Divorced,4556,No,High,35-46,College,High,High,Very-Far,1-Star
+548,30,No,Research & Development,Female,Manufacturing Director,Single,6091,No,Low,26-35,Bachelor,Low,Very-High,Near,1-Star
+549,60,No,Research & Development,Female,Manager,Married,19566,No,High,56?,Bachelor,High,Low,Near,Elders
+550,46,No,Research & Development,Female,Manufacturing Director,Divorced,4810,No,High,46-55,Bachelor,High,High,Far,2-Star
+551,42,No,Research & Development,Female,Healthcare Representative,Married,4523,No,High,35-46,Masters,Medium,Very-High,Very-Far,2-Star
+554,24,Yes,Sales,Female,Sales Representative,Single,3202,Yes,High,18-25,Below College,High,Medium,Near,1-Star
+555,34,Yes,Sales,Female,Sales Representative,Divorced,2351,No,High,26-35,College,Low,High,Near,Newbies
+556,38,No,Research & Development,Male,Laboratory Technician,Married,1702,Yes,Low,35-46,College,High,Very-High,Near,Newbies
+558,40,No,Sales,Female,Manager,Married,18041,No,High,35-46,Masters,High,High,Near,4-Star
+560,26,No,Research & Development,Female,Research Scientist,Divorced,2886,No,Low,26-35,Bachelor,High,Very-High,Very-Far,1-Star
+562,30,No,Research & Development,Male,Laboratory Technician,Married,2097,No,High,26-35,Bachelor,High,Very-High,Near,1-Star
+564,29,No,Research & Development,Male,Research Director,Married,11935,No,High,26-35,Masters,Medium,High,Near,2-Star
+565,29,Yes,Research & Development,Female,Research Scientist,Married,2546,No,High,26-35,Doctor,Medium,Medium,Very-Far,Newbies
+566,19,Yes,Human Resources,Male,Human Resources,Single,2564,No,High,18-25,College,Medium,Very-High,Near,Newbies
+567,30,No,Sales,Female,Sales Executive,Married,8412,No,High,26-35,Masters,High,Low,Very-Far,2-Star
+568,57,No,Sales,Male,Manager,Divorced,14118,No,High,56?,Bachelor,Medium,Very-High,Very-Far,Newbies
+569,50,No,Research & Development,Male,Manager,Married,17046,No,High,46-55,Masters,Medium,High,Very-Far,Elders
+571,30,No,Research & Development,Female,Laboratory Technician,Single,2564,No,High,26-35,Bachelor,High,Very-High,Near,3-Star
+573,60,No,Sales,Female,Sales Executive,Married,10266,No,High,56?,Bachelor,Medium,Low,Very-Far,4-Star
+574,47,No,Research & Development,Female,Manufacturing Director,Divorced,5070,No,High,46-55,College,High,Very-High,Near,1-Star
+575,46,No,Research & Development,Male,Research Director,Married,17861,No,High,46-55,Bachelor,High,High,Near,1-Star
+577,35,No,Research & Development,Male,Laboratory Technician,Single,4230,No,High,26-35,Bachelor,Low,High,Very-Far,1-Star
+578,54,No,Research & Development,Female,Laboratory Technician,Single,3780,No,High,46-55,Masters,High,High,Near,Newbies
+579,34,No,Research & Development,Male,Research Scientist,Divorced,2768,No,High,26-35,Masters,Medium,High,Near,2-Star
+580,46,No,Sales,Female,Sales Executive,Married,9071,Yes,High,46-55,Bachelor,Medium,Very-High,Near,1-Star
+581,31,No,Research & Development,Male,Manufacturing Director,Divorced,10648,No,Low,26-35,Below College,High,Medium,Near,3-Star
+582,33,Yes,Research & Development,Male,Manager,Married,13610,Yes,High,26-35,Below College,High,High,Far,2-Star
+584,33,Yes,Research & Development,Male,Laboratory Technician,Divorced,3408,No,High,26-35,Below College,Low,Very-High,Near,1-Star
+585,30,No,Sales,Male,Sales Representative,Single,2983,No,High,26-35,Below College,High,Medium,Near,1-Star
+586,35,No,Research & Development,Male,Healthcare Representative,Married,7632,Yes,High,26-35,Bachelor,High,High,Far,2-Star
+587,31,Yes,Research & Development,Male,Healthcare Representative,Married,9824,No,High,26-35,Bachelor,High,High,Far,Newbies
+590,34,Yes,Human Resources,Female,Human Resources,Divorced,9950,Yes,High,26-35,Bachelor,High,Low,Very-Far,1-Star
+591,42,No,Research & Development,Male,Laboratory Technician,Married,2093,No,High,35-46,College,High,High,Near,Newbies
+592,36,No,Sales,Male,Sales Executive,Single,9980,No,High,35-46,Masters,High,Very-High,Near,2-Star
+593,22,Yes,Research & Development,Male,Laboratory Technician,Single,3894,No,High,18-25,Below College,Medium,High,Near,Newbies
+595,48,No,Sales,Female,Sales Executive,Married,4051,No,High,46-55,Doctor,High,Very-High,Near,2-Star
+597,55,No,Sales,Female,Manager,Single,16835,No,Low,46-55,Doctor,High,Medium,Far,2-Star
+599,41,No,Sales,Male,Sales Executive,Single,6230,No,High,35-46,College,High,Very-High,Near,3-Star
+600,35,No,Sales,Male,Sales Executive,Married,4717,No,High,26-35,Bachelor,High,High,Near,3-Star
+601,40,No,Research & Development,Female,Manufacturing Director,Single,13237,No,High,35-46,Bachelor,High,High,Near,4-Star
+602,39,No,Research & Development,Female,Laboratory Technician,Married,3755,No,High,35-46,Below College,High,High,Near,2-Star
+604,31,No,Sales,Male,Sales Executive,Single,6582,Yes,High,26-35,Below College,High,Very-High,Near,2-Star
+605,42,No,Research & Development,Male,Manufacturing Director,Married,7406,Yes,Low,35-46,Bachelor,High,Low,Very-Far,2-Star
+606,45,No,Sales,Male,Sales Executive,Married,4805,No,High,35-46,Bachelor,High,Medium,Near,2-Star
+608,26,Yes,Human Resources,Female,Human Resources,Divorced,2741,Yes,High,26-35,Masters,High,High,Far,2-Star
+611,29,No,Research & Development,Male,Manufacturing Director,Divorced,4262,No,High,26-35,Bachelor,High,Very-High,Far,1-Star
+612,33,No,Research & Development,Female,Research Director,Divorced,16184,No,High,26-35,Doctor,Very-High,High,Near,2-Star
+613,31,No,Sales,Male,Manager,Divorced,11557,No,Low,26-35,Bachelor,Medium,Very-High,Near,1-Star
+614,18,Yes,Sales,Male,Sales Representative,Single,1878,Yes,High,18-25,Bachelor,High,Medium,Near,Newbies
+615,40,No,Sales,Male,Sales Executive,Divorced,10932,No,High,35-46,Bachelor,Low,Low,Very-Far,Newbies
+616,41,No,Research & Development,Female,Healthcare Representative,Single,6811,Yes,High,35-46,Masters,Medium,High,Near,2-Star
+618,26,No,Sales,Male,Sales Executive,Divorced,4306,No,High,26-35,College,High,High,Very-Far,Newbies
+620,35,No,Sales,Female,Sales Executive,Single,4859,No,High,26-35,Bachelor,High,High,Near,1-Star
+621,34,No,Sales,Male,Sales Executive,Single,5337,No,High,26-35,Masters,Very-High,Very-High,Very-Far,2-Star
+622,26,Yes,Research & Development,Male,Laboratory Technician,Single,2340,Yes,High,26-35,Bachelor,Low,Very-High,Very-Far,Newbies
+623,37,No,Research & Development,Female,Manufacturing Director,Single,7491,No,High,35-46,Bachelor,High,Very-High,Near,2-Star
+624,46,No,Research & Development,Female,Healthcare Representative,Married,10527,No,High,46-55,Below College,High,High,Far,Newbies
+625,41,No,Sales,Female,Manager,Married,16595,No,High,35-46,Doctor,High,Low,Near,4-Star
+626,37,No,Sales,Male,Sales Executive,Divorced,8834,No,High,35-46,Masters,High,Medium,Near,2-Star
+630,52,No,Research & Development,Male,Research Scientist,Divorced,5577,Yes,High,46-55,College,High,Low,Near,2-Star
+631,32,Yes,Sales,Male,Sales Executive,Married,4707,No,High,26-35,Masters,Very-High,High,Far,1-Star
+632,24,No,Sales,Male,Sales Representative,Married,2400,No,High,18-25,Bachelor,High,Very-High,Very-Far,Newbies
+634,38,No,Research & Development,Female,Healthcare Representative,Married,9824,No,High,35-46,Bachelor,High,High,Near,Newbies
+635,37,No,Research & Development,Female,Manufacturing Director,Married,6447,No,High,35-46,Masters,High,Medium,Near,2-Star
+638,49,No,Research & Development,Male,Research Director,Divorced,19502,Yes,High,46-55,Masters,Medium,High,Far,Elders
+639,24,No,Research & Development,Male,Research Scientist,Married,2725,Yes,High,18-25,Bachelor,Very-High,Very-High,Very-Far,2-Star
+641,26,No,Sales,Male,Sales Executive,Married,6272,No,Low,26-35,College,High,Medium,Very-Far,1-Star
+643,24,No,Research & Development,Male,Laboratory Technician,Married,2127,No,Low,18-25,College,Medium,Medium,Far,Newbies
+644,50,No,Human Resources,Male,Manager,Married,18200,No,High,46-55,Bachelor,High,Medium,Near,Elders
+645,25,No,Sales,Male,Sales Representative,Married,2096,No,High,18-25,Below College,High,High,Far,2-Star
+647,24,Yes,Research & Development,Female,Laboratory Technician,Married,2886,Yes,High,18-25,Bachelor,High,High,Near,2-Star
+648,30,Yes,Sales,Male,Sales Representative,Married,2033,No,High,26-35,Masters,Medium,Low,Far,Newbies
+649,34,No,Research & Development,Male,Research Scientist,Married,3622,Yes,High,26-35,College,Medium,Very-High,Near,2-Star
+650,31,Yes,Sales,Male,Sales Executive,Divorced,4233,No,High,26-35,Masters,High,Low,Far,1-Star
+652,35,No,Research & Development,Male,Laboratory Technician,Single,3681,No,High,26-35,College,Medium,Very-High,Very-Far,1-Star
+653,31,No,Sales,Male,Sales Executive,Divorced,5460,No,Low,26-35,Masters,Very-High,Very-High,Near,2-Star
+655,27,No,Research & Development,Female,Research Scientist,Divorced,2187,No,High,26-35,Masters,Medium,High,Near,1-Star
+656,37,No,Sales,Male,Sales Executive,Married,9602,Yes,High,35-46,Bachelor,High,High,Near,1-Star
+657,20,No,Research & Development,Female,Research Scientist,Single,2836,No,High,18-25,Bachelor,Medium,Medium,Near,Newbies
+659,42,No,Research & Development,Female,Healthcare Representative,Married,4089,No,High,35-46,Masters,High,Very-High,Near,2-Star
+661,43,No,Research & Development,Male,Research Director,Divorced,16627,Yes,High,35-46,Masters,Medium,Very-High,Near,Newbies
+662,38,No,Research & Development,Female,Research Scientist,Single,2619,No,High,35-46,Below College,High,Low,Near,Newbies
+663,43,No,Research & Development,Male,Laboratory Technician,Divorced,5679,Yes,High,35-46,Doctor,High,High,Near,2-Star
+664,48,No,Research & Development,Female,Manager,Married,15402,No,High,46-55,Masters,Medium,Low,Near,1-Star
+665,44,No,Human Resources,Female,Human Resources,Single,5985,No,High,35-46,Masters,Medium,High,Near,Newbies
+666,34,No,Sales,Female,Sales Representative,Divorced,2579,Yes,High,26-35,Bachelor,High,High,Far,2-Star
+667,27,Yes,Sales,Male,Sales Representative,Divorced,3041,No,High,26-35,Below College,High,Low,Near,1-Star
+669,21,No,Sales,Male,Sales Representative,Single,3447,No,High,18-25,Below College,High,High,Very-Far,1-Star
+671,44,No,Research & Development,Male,Manager,Married,19513,Yes,High,35-46,Masters,High,Very-High,Near,Newbies
+675,22,No,Research & Development,Male,Research Scientist,Married,2773,No,Low,18-25,Below College,High,High,Near,Newbies
+677,33,No,Sales,Male,Sales Executive,Divorced,7104,No,High,26-35,Masters,High,High,Near,1-Star
+679,32,No,Research & Development,Female,Research Scientist,Married,6322,Yes,High,26-35,Masters,High,Very-High,Near,2-Star
+680,30,No,Research & Development,Female,Research Scientist,Divorced,2083,No,Low,26-35,Bachelor,High,High,Near,Newbies
+682,53,No,Sales,Female,Sales Executive,Single,8381,No,Low,46-55,Below College,High,Low,Near,3-Star
+683,34,No,Research & Development,Male,Research Scientist,Married,2691,No,High,26-35,Doctor,High,Very-High,Near,2-Star
+684,45,Yes,Sales,Female,Sales Executive,Married,4286,No,High,35-46,Masters,High,Low,Very-Far,Newbies
+686,26,No,Research & Development,Female,Laboratory Technician,Married,2659,Yes,High,26-35,Bachelor,High,Very-High,Near,1-Star
+689,37,No,Research & Development,Male,Manufacturing Director,Married,9434,No,High,35-46,Bachelor,High,High,Near,2-Star
+690,29,No,Sales,Female,Sales Executive,Married,5561,No,High,26-35,College,High,High,Near,2-Star
+691,35,No,Research & Development,Male,Research Scientist,Single,6646,No,High,26-35,Masters,Low,Very-High,Near,4-Star
+692,33,No,Research & Development,Male,Healthcare Representative,Divorced,7725,No,Low,26-35,Bachelor,High,Very-High,Near,3-Star
+698,54,No,Human Resources,Male,Human Resources,Married,10725,No,High,46-55,Masters,High,Medium,Far,2-Star
+699,36,No,Research & Development,Male,Manufacturing Director,Divorced,8847,Yes,High,35-46,College,Medium,Medium,Near,1-Star
+700,27,No,Research & Development,Male,Research Scientist,Single,2045,No,High,26-35,Masters,Medium,Very-High,Near,1-Star
+701,20,Yes,Research & Development,Male,Research Scientist,Single,1009,Yes,High,18-25,Below College,High,High,Near,Newbies
+702,33,Yes,Research & Development,Male,Research Scientist,Single,3348,Yes,High,26-35,Bachelor,High,Low,Near,2-Star
+704,35,No,Research & Development,Male,Laboratory Technician,Married,1281,No,High,26-35,Bachelor,Medium,High,Near,Newbies
+705,23,No,Research & Development,Male,Research Scientist,Married,2819,No,High,18-25,Bachelor,Very-High,Low,Near,1-Star
+707,25,No,Sales,Male,Sales Executive,Married,4851,No,Low,18-25,Bachelor,Very-High,Medium,Near,1-Star
+709,38,No,Sales,Female,Sales Executive,Single,4028,No,Low,35-46,Masters,Medium,Very-High,Near,2-Star
+710,29,No,Research & Development,Male,Research Scientist,Divorced,2720,No,High,26-35,Masters,Low,Very-High,Near,2-Star
+712,48,No,Sales,Male,Sales Executive,Married,8120,No,High,46-55,Below College,Very-High,Medium,Near,Newbies
+714,27,No,Sales,Female,Sales Executive,Divorced,4647,Yes,Low,26-35,Below College,Very-High,Very-High,Near,2-Star
+715,37,No,Research & Development,Male,Research Scientist,Single,4680,No,High,35-46,College,Very-High,Very-High,Near,Newbies
+716,50,No,Research & Development,Male,Laboratory Technician,Married,3221,Yes,High,46-55,Below College,Very-High,High,Very-Far,4-Star
+717,34,No,Research & Development,Female,Healthcare Representative,Single,8621,No,High,26-35,Bachelor,Medium,Medium,Near,2-Star
+720,24,Yes,Sales,Female,Sales Executive,Single,4577,No,High,18-25,College,High,High,Near,Newbies
+721,39,No,Research & Development,Female,Healthcare Representative,Single,4553,No,High,35-46,Masters,Medium,High,Near,4-Star
+722,32,No,Sales,Male,Sales Executive,Single,5396,No,High,26-35,Bachelor,High,Very-High,Near,2-Star
+723,50,Yes,Sales,Male,Sales Executive,Married,6796,Yes,High,46-55,College,High,High,Near,1-Star
+724,38,No,Research & Development,Female,Healthcare Representative,Single,7625,No,High,35-46,Masters,Very-High,Very-High,Near,2-Star
+725,27,No,Research & Development,Female,Manufacturing Director,Married,7412,No,High,26-35,College,High,Low,Near,2-Star
+727,32,No,Research & Development,Female,Research Director,Single,11159,No,High,26-35,College,High,Very-High,Near,2-Star
+728,47,No,Sales,Male,Sales Executive,Single,4960,No,High,46-55,Masters,High,Low,Far,2-Star
+729,40,No,Sales,Male,Sales Executive,Married,10475,Yes,Low,35-46,Masters,Medium,Low,Near,4-Star
+730,53,No,Research & Development,Male,Research Director,Married,14814,No,High,46-55,Bachelor,Very-High,High,Near,1-Star
+731,41,No,Human Resources,Male,Manager,Divorced,19141,No,High,35-46,Masters,Medium,Very-High,Near,5-Star
+732,60,No,Sales,Male,Sales Executive,Single,5405,No,High,56?,Masters,High,Low,Far,Newbies
+733,27,No,Research & Development,Male,Manufacturing Director,Divorced,8793,No,Low,26-35,College,High,Low,Near,2-Star
+734,41,No,Human Resources,Male,Manager,Married,19189,No,High,35-46,Bachelor,Medium,High,Near,5-Star
+738,50,No,Sales,Male,Sales Representative,Married,3875,No,High,46-55,Masters,High,Medium,Near,Newbies
+741,28,Yes,Research & Development,Female,Research Scientist,Single,2216,Yes,High,26-35,College,Low,Medium,Near,2-Star
+742,36,No,Research & Development,Female,Research Director,Married,11713,No,High,35-46,Bachelor,Very-High,Low,Near,2-Star
+743,38,No,Research & Development,Female,Manufacturing Director,Single,7861,Yes,High,35-46,Bachelor,High,High,Near,Newbies
+744,44,No,Research & Development,Male,Laboratory Technician,Single,3708,No,High,35-46,Bachelor,Low,High,Very-Far,1-Star
+746,47,No,Sales,Female,Sales Executive,Divorced,13770,Yes,High,46-55,Bachelor,High,High,Near,5-Star
+747,30,No,Sales,Male,Sales Executive,Divorced,5304,No,Low,26-35,Doctor,High,Very-High,Very-Far,2-Star
+749,29,No,Sales,Male,Sales Representative,Single,2642,No,High,26-35,Bachelor,High,High,Near,Newbies
+752,42,Yes,Research & Development,Male,Research Scientist,Divorced,2759,Yes,High,35-46,Bachelor,Very-High,High,Far,Newbies
+754,43,No,Sales,Male,Sales Executive,Married,6804,No,High,35-46,Bachelor,Medium,Very-High,Far,Newbies
+757,34,No,Research & Development,Female,Healthcare Representative,Single,6142,No,High,26-35,College,High,High,Near,1-Star
+758,23,No,Research & Development,Male,Laboratory Technician,Married,2500,No,High,18-25,Below College,High,Low,Near,1-Star
+760,39,No,Human Resources,Female,Human Resources,Married,6389,No,High,35-46,Bachelor,Very-High,Medium,Near,2-Star
+762,56,No,Research & Development,Male,Healthcare Representative,Married,11103,No,High,56?,Bachelor,High,Very-High,Near,2-Star
+763,40,No,Research & Development,Female,Research Scientist,Single,2342,Yes,Low,35-46,Below College,Medium,Very-High,Near,1-Star
+764,27,No,Research & Development,Female,Healthcare Representative,Single,6811,No,High,26-35,Bachelor,Medium,Low,Near,2-Star
+766,29,No,Sales,Male,Sales Representative,Divorced,2297,No,High,26-35,Bachelor,High,Medium,Near,Newbies
+769,53,No,Research & Development,Male,Laboratory Technician,Single,2450,No,High,46-55,Bachelor,High,Very-High,Near,Newbies
+771,35,No,Research & Development,Female,Healthcare Representative,Divorced,5093,No,High,26-35,Masters,High,Low,Near,Newbies
+772,32,No,Research & Development,Male,Laboratory Technician,Married,5309,No,High,26-35,Masters,High,Very-High,Very-Far,2-Star
+773,38,No,Research & Development,Male,Research Scientist,Married,3057,Yes,High,35-46,Doctor,High,High,Near,Newbies
+775,34,No,Research & Development,Female,Manufacturing Director,Divorced,5121,No,High,26-35,Doctor,High,Low,Near,Newbies
+776,52,No,Sales,Male,Manager,Married,16856,No,High,46-55,Masters,Medium,Low,Near,Elders
+780,33,Yes,Research & Development,Male,Research Scientist,Single,2686,Yes,High,26-35,Masters,High,Very-High,Near,2-Star
+781,25,No,Sales,Female,Sales Executive,Single,6180,No,Low,18-25,Below College,High,Very-High,Very-Far,2-Star
+783,45,No,Sales,Male,Sales Representative,Single,6632,No,High,35-46,College,Low,High,Near,2-Star
+784,23,No,Research & Development,Male,Research Scientist,Single,3505,No,High,18-25,Below College,Very-High,High,Near,Newbies
+785,47,Yes,Sales,Female,Sales Executive,Single,6397,Yes,High,46-55,College,Very-High,High,Very-Far,1-Star
+786,34,No,Sales,Male,Sales Executive,Single,6274,No,Low,26-35,Bachelor,High,Very-High,Near,2-Star
+787,55,Yes,Research & Development,Male,Manager,Married,19859,Yes,High,46-55,Bachelor,High,Low,Near,1-Star
+789,36,No,Sales,Male,Sales Executive,Single,7587,No,High,35-46,Masters,Medium,Low,Near,2-Star
+791,52,No,Research & Development,Male,Research Scientist,Married,4258,No,High,46-55,Masters,High,Very-High,Far,1-Star
+792,26,No,Research & Development,Female,Laboratory Technician,Divorced,4364,No,High,26-35,College,Low,Very-High,Near,Newbies
+793,29,No,Research & Development,Female,Healthcare Representative,Married,4335,No,High,26-35,Bachelor,High,High,Very-Far,2-Star
+796,26,Yes,Sales,Male,Sales Executive,Single,5326,No,High,26-35,Bachelor,Medium,Low,Near,1-Star
+797,34,No,Research & Development,Female,Research Scientist,Single,3280,No,High,26-35,Masters,Very-High,Very-High,Near,1-Star
+799,54,No,Research & Development,Female,Manufacturing Director,Divorced,5485,Yes,High,46-55,Masters,High,Low,Far,1-Star
+800,27,No,Sales,Male,Sales Executive,Married,4342,No,High,26-35,Below College,High,Very-High,Near,1-Star
+802,37,No,Research & Development,Female,Research Scientist,Divorced,2782,Yes,High,35-46,Below College,High,Low,Near,1-Star
+803,38,No,Research & Development,Female,Manufacturing Director,Single,5980,Yes,High,35-46,Masters,Very-High,Low,Near,3-Star
+804,34,No,Research & Development,Female,Research Scientist,Single,4381,No,High,26-35,Masters,Medium,Low,Near,2-Star
+805,35,No,Sales,Female,Sales Representative,Married,2572,No,High,26-35,Masters,High,Very-High,Near,1-Star
+806,30,No,Research & Development,Male,Laboratory Technician,Married,3833,No,Low,26-35,Bachelor,Low,High,Near,Newbies
+807,40,No,Research & Development,Female,Healthcare Representative,Married,4244,No,Low,35-46,College,Very-High,Medium,Near,2-Star
+808,34,No,Sales,Female,Sales Executive,Married,6500,No,High,26-35,College,High,Low,Near,1-Star
+809,42,No,Research & Development,Male,Manager,Divorced,18430,No,High,35-46,Bachelor,High,Very-High,Near,5-Star
+811,23,Yes,Research & Development,Male,Laboratory Technician,Married,1601,Yes,Low,18-25,Bachelor,Very-High,Low,Near,Newbies
+812,24,No,Research & Development,Male,Laboratory Technician,Divorced,2694,No,High,18-25,Bachelor,Medium,Medium,Near,Newbies
+813,52,No,Research & Development,Female,Laboratory Technician,Married,3149,No,Low,46-55,Masters,High,High,Far,1-Star
+815,50,No,Research & Development,Male,Research Director,Married,17639,No,High,46-55,Bachelor,High,High,Near,1-Star
+816,29,Yes,Research & Development,Female,Laboratory Technician,Married,2319,Yes,High,26-35,College,Medium,Low,Near,Newbies
+817,33,No,Research & Development,Male,Research Director,Married,11691,No,High,26-35,Bachelor,High,High,Near,3-Star
+819,33,Yes,Sales,Female,Sales Executive,Single,5324,No,High,26-35,Bachelor,High,Low,Far,1-Star
+820,47,No,Research & Development,Female,Manager,Married,16752,Yes,High,46-55,College,High,Very-High,Near,Elders
+823,36,No,Research & Development,Female,Manufacturing Director,Married,5228,No,High,35-46,Bachelor,High,Medium,Near,2-Star
+824,29,No,Research & Development,Male,Research Scientist,Married,2700,No,Low,26-35,College,Very-High,High,Very-Far,2-Star
+825,58,Yes,Research & Development,Male,Research Director,Single,19246,Yes,High,56?,Masters,High,Medium,Near,Elders
+826,35,No,Research & Development,Female,Research Scientist,Single,2506,No,High,26-35,Masters,Very-High,High,Near,Newbies
+827,42,No,Research & Development,Female,Manufacturing Director,Married,6062,Yes,High,35-46,College,Medium,Very-High,Near,1-Star
+828,28,Yes,Research & Development,Male,Research Scientist,Single,4382,No,High,26-35,Masters,High,High,Near,Newbies
+829,36,No,Human Resources,Male,Human Resources,Married,2143,No,High,35-46,Bachelor,High,Medium,Far,1-Star
+830,32,No,Research & Development,Female,Manufacturing Director,Married,6162,No,High,26-35,Bachelor,Medium,High,Near,3-Star
+832,40,No,Research & Development,Male,Laboratory Technician,Single,5094,No,High,35-46,Masters,Medium,High,Far,Newbies
+833,30,No,Research & Development,Female,Manufacturing Director,Single,6877,Yes,Low,26-35,Bachelor,Medium,Very-High,Near,Newbies
+834,45,No,Research & Development,Female,Research Scientist,Single,2274,No,High,35-46,Bachelor,Medium,High,Near,Newbies
+836,42,No,Research & Development,Male,Manufacturing Director,Married,4434,No,High,35-46,Bachelor,High,Medium,Very-Far,2-Star
+837,38,No,Research & Development,Male,Healthcare Representative,Divorced,6288,No,High,35-46,Bachelor,Medium,Low,Far,1-Star
+838,34,No,Research & Development,Female,Research Scientist,Single,2553,No,High,26-35,Masters,Medium,Very-High,Far,1-Star
+840,49,Yes,Sales,Female,Sales Executive,Married,7654,No,High,46-55,Bachelor,High,Very-High,Far,2-Star
+842,55,Yes,Sales,Male,Sales Executive,Single,5160,No,High,46-55,Below College,High,Very-High,Near,2-Star
+843,43,No,Research & Development,Male,Research Director,Married,17159,No,Low,35-46,College,High,Low,Far,1-Star
+844,27,No,Research & Development,Male,Research Director,Divorced,12808,Yes,High,26-35,Below College,Medium,Very-High,Near,2-Star
+845,35,No,Research & Development,Male,Manufacturing Director,Single,10221,No,Low,26-35,Bachelor,High,High,Near,2-Star
+846,28,No,Sales,Female,Sales Executive,Married,4779,Yes,Low,26-35,Masters,High,Medium,Near,2-Star
+847,34,No,Human Resources,Male,Human Resources,Married,3737,No,High,26-35,College,High,Very-High,Near,1-Star
+848,26,Yes,Research & Development,Female,Research Scientist,Married,2366,Yes,High,26-35,College,Medium,High,Near,2-Star
+850,27,No,Research & Development,Male,Research Scientist,Married,1706,No,High,26-35,Bachelor,High,Very-High,Near,Newbies
+851,51,No,Sales,Female,Manager,Married,16307,No,High,46-55,Masters,High,High,Very-Far,4-Star
+852,44,No,Research & Development,Male,Healthcare Representative,Single,5933,No,High,35-46,Bachelor,High,Medium,Near,1-Star
+854,25,No,Research & Development,Male,Research Scientist,Single,3424,No,High,18-25,Below College,Very-High,Low,Near,1-Star
+855,33,No,Sales,Male,Sales Executive,Divorced,4037,No,Low,26-35,Bachelor,Very-High,Low,Near,2-Star
+856,35,No,Research & Development,Female,Research Scientist,Single,2559,No,High,26-35,Below College,Medium,Low,Very-Far,2-Star
+857,36,No,Sales,Male,Sales Executive,Married,6201,Yes,High,35-46,College,High,Very-High,Near,4-Star
+859,32,No,Sales,Male,Sales Executive,Divorced,4403,No,High,26-35,Masters,High,Very-High,Far,1-Star
+861,30,No,Research & Development,Male,Research Scientist,Divorced,3761,No,High,26-35,Masters,Medium,Very-High,Near,1-Star
+862,53,No,Sales,Female,Sales Executive,Married,10934,Yes,High,46-55,College,Medium,Very-High,Near,1-Star
+864,45,No,Sales,Male,Sales Executive,Divorced,10761,Yes,High,35-46,Bachelor,High,Low,Near,1-Star
+865,32,No,Research & Development,Female,Research Scientist,Married,5175,No,High,26-35,College,Very-High,High,Near,1-Star
+867,52,No,Research & Development,Female,Manufacturing Director,Married,13826,No,Low,46-55,Masters,Medium,Very-High,Very-Far,2-Star
+868,37,No,Sales,Male,Sales Executive,Divorced,6334,No,High,35-46,Masters,Medium,High,Far,Newbies
+869,28,No,Human Resources,Male,Human Resources,Divorced,4936,No,High,26-35,College,Medium,Very-High,Near,1-Star
+872,22,No,Research & Development,Male,Manufacturing Director,Married,4775,No,Low,18-25,College,Medium,Very-High,Near,Newbies
+874,44,No,Research & Development,Male,Laboratory Technician,Married,2818,Yes,Low,35-46,Masters,Very-High,Very-High,Near,1-Star
+875,42,No,Research & Development,Male,Research Scientist,Single,2515,Yes,High,35-46,Below College,High,Very-High,Near,Newbies
+878,36,No,Human Resources,Male,Human Resources,Married,2342,No,Low,35-46,Bachelor,Medium,Low,Near,1-Star
+879,25,No,Sales,Male,Sales Executive,Married,4194,Yes,High,18-25,Below College,High,Low,Near,1-Star
+880,35,No,Research & Development,Female,Manufacturing Director,Married,10685,Yes,Low,26-35,Bachelor,Medium,High,Near,4-Star
+881,35,Yes,Research & Development,Female,Research Scientist,Divorced,2022,Yes,High,26-35,Masters,High,Medium,Very-Far,2-Star
+882,32,No,Research & Development,Male,Laboratory Technician,Divorced,2314,No,High,26-35,Bachelor,High,Very-High,Near,1-Star
+885,25,No,Sales,Male,Sales Executive,Married,4256,No,High,18-25,Below College,Medium,Low,Near,1-Star
+887,49,No,Research & Development,Female,Research Scientist,Married,3580,No,High,46-55,Bachelor,High,Low,Near,1-Star
+888,24,No,Research & Development,Male,Laboratory Technician,Married,3162,No,High,18-25,Below College,Medium,Very-High,Near,1-Star
+889,32,No,Sales,Male,Sales Executive,Married,6524,No,High,26-35,College,High,Medium,Near,2-Star
+893,38,No,Sales,Male,Sales Representative,Married,2899,No,High,35-46,Bachelor,Medium,Medium,Near,Newbies
+894,42,No,Research & Development,Female,Laboratory Technician,Married,5231,Yes,High,35-46,Bachelor,Very-High,Very-High,Near,1-Star
+895,31,No,Research & Development,Male,Research Scientist,Married,2356,Yes,High,26-35,Masters,High,Very-High,Far,2-Star
+896,29,Yes,Sales,Female,Sales Representative,Divorced,2800,Yes,High,26-35,Bachelor,Medium,High,Near,1-Star
+897,53,No,Sales,Male,Sales Executive,Married,11836,No,High,46-55,Bachelor,High,Very-High,Near,Newbies
+899,35,No,Research & Development,Male,Manufacturing Director,Married,10903,No,High,26-35,Bachelor,Medium,Medium,Very-Far,3-Star
+900,37,No,Sales,Female,Sales Representative,Married,2973,No,High,35-46,College,High,Very-High,Very-Far,1-Star
+901,53,No,Research & Development,Female,Research Director,Single,14275,No,High,46-55,Masters,High,Very-High,Very-Far,3-Star
+902,43,No,Research & Development,Female,Healthcare Representative,Married,5562,No,High,35-46,Bachelor,High,Very-High,Near,1-Star
+903,47,No,Sales,Female,Sales Executive,Married,4537,Yes,Low,46-55,College,High,Very-High,Near,2-Star
+904,37,No,Sales,Male,Sales Executive,Single,7642,Yes,High,35-46,College,High,Medium,Far,2-Star
+905,50,No,Research & Development,Male,Manager,Divorced,17924,No,High,46-55,Masters,High,Low,Near,Elders
+909,39,No,Human Resources,Female,Human Resources,Married,5204,No,High,35-46,Bachelor,Medium,Very-High,Near,1-Star
+910,33,No,Human Resources,Male,Human Resources,Divorced,2277,Yes,High,26-35,College,High,Medium,Near,1-Star
+911,32,Yes,Research & Development,Male,Laboratory Technician,Single,2795,Yes,Low,26-35,Masters,High,Very-High,Very-Far,Newbies
+912,29,No,Research & Development,Female,Laboratory Technician,Divorced,2532,No,High,26-35,Below College,Medium,Very-High,Near,1-Star
+913,44,No,Research & Development,Male,Research Scientist,Married,2559,Yes,High,35-46,College,High,Low,Near,2-Star
+916,28,No,Sales,Male,Sales Executive,Single,4908,No,High,26-35,Masters,High,Very-High,Near,1-Star
+918,58,Yes,Research & Development,Male,Laboratory Technician,Divorced,2380,Yes,High,56?,Below College,Medium,Very-High,Near,Newbies
+920,43,No,Research & Development,Female,Manufacturing Director,Divorced,4765,No,Low,35-46,Bachelor,High,Medium,Near,Newbies
+922,20,Yes,Sales,Female,Sales Representative,Single,2044,No,High,18-25,Bachelor,Medium,High,Near,Newbies
+923,21,Yes,Research & Development,Female,Research Scientist,Single,2693,No,High,18-25,Below College,High,Very-High,Far,Newbies
+924,36,No,Research & Development,Male,Healthcare Representative,Married,6586,Yes,High,35-46,Below College,High,Very-High,Far,4-Star
+925,47,No,Sales,Female,Sales Representative,Single,3294,Yes,High,46-55,Masters,Medium,Very-High,Near,1-Star
+926,22,Yes,Research & Development,Female,Manufacturing Director,Married,4171,Yes,High,18-25,Below College,High,High,Near,1-Star
+927,41,Yes,Research & Development,Female,Laboratory Technician,Divorced,2778,Yes,High,35-46,Masters,Low,Very-High,Near,2-Star
+930,28,No,Research & Development,Female,Research Scientist,Divorced,2377,No,High,26-35,Bachelor,High,High,Near,Newbies
+932,39,Yes,Research & Development,Male,Laboratory Technician,Married,2404,Yes,Low,35-46,Bachelor,High,Low,Near,Newbies
+933,27,No,Research & Development,Female,Research Scientist,Single,2318,No,High,26-35,Bachelor,High,High,Near,Newbies
+934,34,No,Research & Development,Male,Laboratory Technician,Divorced,2008,No,High,26-35,Bachelor,High,Medium,Near,Newbies
+936,42,No,Sales,Female,Sales Executive,Single,6244,No,High,35-46,College,Medium,High,Far,1-Star
+939,33,No,Research & Development,Male,Research Scientist,Single,2799,Yes,High,26-35,Masters,Medium,Low,Near,1-Star
+940,58,No,Research & Development,Female,Healthcare Representative,Divorced,10552,Yes,High,56?,Bachelor,Medium,Medium,Near,2-Star
+941,31,No,Sales,Male,Sales Representative,Married,2329,No,High,26-35,Masters,Medium,High,Near,2-Star
+942,35,No,Research & Development,Female,Healthcare Representative,Married,4014,Yes,Low,26-35,Below College,High,Very-High,Very-Far,2-Star
+944,49,No,Research & Development,Female,Laboratory Technician,Married,7403,No,High,46-55,College,High,Medium,Near,Elders
+945,48,No,Research & Development,Male,Research Scientist,Married,2259,No,High,46-55,Masters,High,High,Far,Newbies
+947,31,No,Sales,Female,Sales Executive,Married,6932,No,High,26-35,College,High,High,Far,2-Star
+949,36,No,Research & Development,Male,Research Scientist,Single,4678,No,High,35-46,Masters,High,Very-High,Near,2-Star
+950,38,No,Research & Development,Female,Research Director,Married,13582,No,High,35-46,Bachelor,High,Low,Near,3-Star
+951,32,No,Research & Development,Female,Laboratory Technician,Married,2332,No,Low,26-35,Bachelor,Medium,Medium,Near,1-Star
+952,25,Yes,Sales,Male,Sales Representative,Married,2413,Yes,High,18-25,College,Medium,Medium,Far,Newbies
+954,40,No,Sales,Male,Sales Executive,Divorced,9705,No,High,35-46,Masters,Medium,Medium,Near,Newbies
+956,26,No,Sales,Male,Sales Executive,Single,4294,No,High,26-35,Bachelor,Medium,Low,Near,2-Star
+957,41,No,Research & Development,Male,Laboratory Technician,Single,4721,Yes,High,35-46,Bachelor,High,Low,Near,4-Star
+958,36,No,Research & Development,Male,Laboratory Technician,Single,2519,No,Low,35-46,Masters,High,High,Near,3-Star
+959,19,Yes,Sales,Male,Sales Representative,Single,2121,Yes,High,18-25,Bachelor,Medium,Medium,Very-Far,Newbies
+960,20,Yes,Research & Development,Male,Laboratory Technician,Single,2973,No,High,18-25,Bachelor,High,Low,Near,Newbies
+961,31,No,Research & Development,Female,Healthcare Representative,Married,5855,Yes,High,26-35,Bachelor,High,Very-High,Far,2-Star
+964,40,No,Research & Development,Male,Research Scientist,Divorced,3617,Yes,High,35-46,Masters,High,Medium,Near,Newbies
+966,32,No,Research & Development,Female,Manufacturing Director,Married,6725,No,High,26-35,Masters,High,Low,Near,2-Star
+967,36,Yes,Sales,Male,Sales Executive,Married,10325,Yes,High,35-46,Below College,Medium,Very-High,Near,4-Star
+969,33,No,Research & Development,Female,Healthcare Representative,Single,6949,No,High,26-35,Bachelor,Medium,Very-High,Near,1-Star
+970,37,Yes,Sales,Male,Sales Executive,Married,10609,No,High,35-46,Masters,Medium,High,Near,3-Star
+972,45,No,Research & Development,Male,Laboratory Technician,Married,4447,No,High,35-46,College,High,Medium,Near,2-Star
+974,29,No,Sales,Female,Sales Representative,Married,2157,No,High,26-35,Bachelor,High,Very-High,Far,1-Star
+975,35,No,Sales,Female,Sales Executive,Married,4601,No,High,26-35,Bachelor,High,High,Far,1-Star
+976,52,No,Research & Development,Male,Manager,Married,17099,No,High,46-55,College,High,Very-High,Near,2-Star
+977,58,Yes,Research & Development,Male,Research Scientist,Single,2479,No,Low,56?,Bachelor,High,High,Near,Newbies
+981,53,No,Sales,Male,Manager,Divorced,14852,No,High,46-55,College,High,High,Near,4-Star
+982,30,No,Sales,Male,Sales Executive,Divorced,7264,No,High,26-35,College,High,High,Near,2-Star
+983,38,No,Sales,Female,Sales Executive,Single,5666,Yes,High,35-46,Bachelor,High,Very-High,Near,1-Star
+984,35,No,Sales,Male,Sales Executive,Divorced,7823,No,High,26-35,Masters,High,Very-High,Near,2-Star
+985,39,No,Sales,Male,Sales Executive,Single,7880,No,High,35-46,Doctor,Very-High,High,Near,2-Star
+986,40,Yes,Sales,Female,Sales Executive,Single,13194,Yes,High,35-46,Bachelor,Very-High,Medium,Very-Far,Newbies
+987,47,No,Research & Development,Male,Manufacturing Director,Divorced,5067,Yes,High,46-55,Masters,Very-High,High,Far,4-Star
+990,36,No,Sales,Male,Sales Executive,Divorced,5079,No,High,35-46,Masters,High,Very-High,Near,2-Star
+991,31,Yes,Research & Development,Male,Research Scientist,Single,2321,Yes,Low,26-35,College,Medium,Low,Near,1-Star
+992,33,No,Sales,Male,Manager,Single,17444,No,High,26-35,Bachelor,High,High,Far,2-Star
+994,29,Yes,Research & Development,Female,Research Scientist,Single,2404,Yes,Low,26-35,Bachelor,Medium,Low,Near,Newbies
+995,33,No,Research & Development,Female,Research Scientist,Single,3452,No,High,26-35,Below College,High,Very-High,Far,1-Star
+996,45,No,Research & Development,Female,Laboratory Technician,Divorced,2270,No,High,35-46,Masters,High,Very-High,Near,1-Star
+997,50,No,Research & Development,Male,Research Director,Divorced,17399,No,Low,46-55,College,High,Very-High,Near,1-Star
+998,33,No,Research & Development,Female,Healthcare Representative,Married,5488,Yes,High,26-35,Masters,Very-High,Medium,Near,2-Star
+999,41,No,Research & Development,Male,Research Director,Divorced,19419,No,High,35-46,Bachelor,High,High,Near,4-Star
+1001,27,No,Research & Development,Female,Laboratory Technician,Married,2811,No,High,26-35,Masters,High,Medium,Far,Newbies
+1002,45,No,Research & Development,Male,Laboratory Technician,Married,3633,Yes,High,35-46,College,High,Low,Very-Far,2-Star
+1003,47,No,Sales,Female,Sales Executive,Single,4163,Yes,High,46-55,College,High,Very-High,Near,2-Star
+1004,30,Yes,Research & Development,Female,Research Scientist,Married,2132,Yes,High,26-35,Bachelor,High,High,Very-Far,1-Star
+1005,50,No,Research & Development,Male,Manufacturing Director,Married,13973,Yes,High,46-55,Bachelor,High,High,Very-Far,3-Star
+1006,38,No,Research & Development,Male,Research Scientist,Married,2684,No,High,35-46,Below College,High,High,Near,Newbies
+1007,46,No,Research & Development,Male,Manufacturing Director,Divorced,10845,No,High,46-55,College,High,High,Near,2-Star
+1009,24,No,Research & Development,Female,Manufacturing Director,Divorced,4377,No,High,18-25,Below College,Medium,High,Far,1-Star
+1010,35,Yes,Research & Development,Male,Laboratory Technician,Divorced,3743,Yes,Low,26-35,Masters,Medium,Medium,Far,1-Star
+1011,31,No,Research & Development,Female,Manufacturing Director,Married,4148,No,High,26-35,Below College,High,Low,Near,1-Star
+1012,18,No,Research & Development,Male,Research Scientist,Single,1051,No,High,18-25,College,High,Very-High,Near,Newbies
+1013,54,No,Research & Development,Female,Manufacturing Director,Married,10739,No,High,46-55,Bachelor,High,High,Far,2-Star
+1014,35,No,Research & Development,Female,Healthcare Representative,Divorced,10388,Yes,High,26-35,Masters,High,High,Very-Far,4-Star
+1015,30,No,Research & Development,Female,Research Director,Married,11416,Yes,High,26-35,College,Very-High,Low,Near,2-Star
+1016,20,Yes,Research & Development,Female,Research Scientist,Single,2600,Yes,High,18-25,Bachelor,Medium,Low,Far,Newbies
+1017,30,Yes,Research & Development,Female,Laboratory Technician,Single,2422,No,High,26-35,Bachelor,High,Medium,Near,1-Star
+1018,26,No,Research & Development,Male,Manufacturing Director,Married,5472,No,High,26-35,College,Very-High,Very-High,Near,2-Star
+1019,22,No,Research & Development,Male,Laboratory Technician,Married,2451,No,High,18-25,Below College,Low,Low,Near,1-Star
+1022,48,No,Research & Development,Male,Healthcare Representative,Single,4240,No,High,46-55,Bachelor,Medium,High,Near,Newbies
+1024,48,No,Research & Development,Male,Healthcare Representative,Single,10999,No,High,46-55,Masters,Medium,High,Near,3-Star
+1025,41,No,Research & Development,Female,Manufacturing Director,Single,5003,No,High,35-46,College,High,High,Near,Newbies
+1026,39,No,Research & Development,Female,Manufacturing Director,Married,12742,No,High,35-46,Below College,Medium,Very-High,Near,5-Star
+1027,27,No,Research & Development,Female,Manufacturing Director,Married,4227,No,High,26-35,Masters,High,Very-High,Near,1-Star
+1028,35,No,Research & Development,Male,Laboratory Technician,Divorced,3917,No,Low,26-35,Bachelor,High,Very-High,Near,1-Star
+1029,42,No,Sales,Male,Manager,Married,18303,No,High,35-46,College,High,High,Near,Newbies
+1030,50,No,Research & Development,Male,Laboratory Technician,Married,2380,No,High,46-55,Bachelor,High,Very-High,Near,Newbies
+1032,59,No,Research & Development,Female,Manufacturing Director,Single,13726,Yes,High,56?,Bachelor,Medium,Very-High,Near,1-Star
+1033,37,Yes,Research & Development,Female,Healthcare Representative,Married,4777,No,High,35-46,College,Low,Medium,Far,Newbies
+1034,55,No,Research & Development,Male,Healthcare Representative,Married,6385,Yes,High,46-55,Masters,High,Medium,Far,2-Star
+1035,41,No,Research & Development,Female,Research Director,Divorced,19973,No,Low,35-46,Below College,Low,High,Near,5-Star
+1036,38,No,Sales,Male,Sales Executive,Single,6861,Yes,High,35-46,Masters,High,Very-High,Near,Newbies
+1037,26,Yes,Sales,Male,Sales Executive,Single,4969,No,High,26-35,College,Low,Low,Very-Far,Newbies
+1038,52,Yes,Sales,Female,Manager,Married,19845,No,High,46-55,Below College,Low,Very-High,Near,Elders
+1039,44,No,Sales,Female,Sales Executive,Married,13320,Yes,High,35-46,Bachelor,Very-High,Very-High,Very-Far,3-Star
+1040,50,No,Sales,Female,Sales Executive,Married,6347,No,High,46-55,Bachelor,High,High,Near,4-Star
+1042,36,Yes,Research & Development,Female,Laboratory Technician,Single,2743,No,High,35-46,Masters,Very-High,Low,Far,4-Star
+1043,39,No,Research & Development,Female,Manufacturing Director,Single,10880,Yes,High,35-46,Bachelor,High,Low,Very-Far,5-Star
+1044,33,No,Sales,Female,Sales Representative,Single,2342,No,High,26-35,Below College,Medium,Very-High,Near,Newbies
+1045,45,No,Sales,Female,Manager,Married,17650,No,High,35-46,College,High,Very-High,Far,2-Star
+1046,32,No,Research & Development,Female,Laboratory Technician,Single,4025,No,High,26-35,Masters,High,High,Very-Far,2-Star
+1047,34,No,Sales,Male,Sales Executive,Divorced,9725,No,High,26-35,Masters,Very-High,Very-High,Near,3-Star
+1048,59,No,Sales,Male,Manager,Married,11904,Yes,High,56?,College,High,Very-High,Near,2-Star
+1049,45,No,Human Resources,Male,Human Resources,Single,2177,No,High,35-46,Masters,High,Medium,Very-Far,2-Star
+1050,53,No,Sales,Female,Sales Executive,Married,7525,No,High,46-55,Bachelor,Medium,Medium,Near,3-Star
+1052,36,Yes,Research & Development,Male,Laboratory Technician,Divorced,4834,No,High,35-46,Bachelor,High,High,Far,Newbies
+1053,26,Yes,Research & Development,Male,Research Scientist,Married,2042,Yes,High,26-35,Bachelor,High,Low,Near,1-Star
+1055,34,No,Sales,Female,Sales Representative,Married,2220,Yes,High,26-35,Masters,High,High,Near,Newbies
+1056,28,No,Sales,Male,Sales Representative,Married,1052,No,Low,26-35,Below College,High,Medium,Near,Newbies
+1060,38,No,Research & Development,Male,Research Scientist,Married,2821,No,High,35-46,Masters,High,High,Near,Newbies
+1061,50,No,Research & Development,Male,Research Director,Married,19237,Yes,High,46-55,Masters,High,High,Near,2-Star
+1062,37,No,Research & Development,Female,Healthcare Representative,Single,4107,No,High,35-46,Bachelor,High,Medium,Near,1-Star
+1066,40,No,Sales,Male,Sales Executive,Married,8396,No,High,35-46,Bachelor,High,Low,Very-Far,2-Star
+1068,26,No,Research & Development,Female,Research Scientist,Divorced,2007,No,High,26-35,Below College,Medium,High,Near,1-Star
+1069,46,No,Research & Development,Male,Research Director,Divorced,19627,No,High,46-55,Masters,High,Very-High,Near,Newbies
+1070,54,No,Sales,Female,Sales Executive,Married,10686,No,High,46-55,Masters,Medium,High,Near,2-Star
+1071,56,No,Research & Development,Female,Research Scientist,Married,2942,No,High,56?,Bachelor,High,High,Near,1-Star
+1073,36,No,Research & Development,Female,Manufacturing Director,Single,8858,No,High,35-46,Doctor,Medium,Very-High,Far,3-Star
+1074,55,No,Research & Development,Male,Manager,Single,16756,No,High,46-55,Below College,Medium,Low,Near,2-Star
+1076,43,No,Sales,Male,Sales Executive,Divorced,10798,No,High,35-46,Bachelor,Medium,Very-High,Very-Far,Newbies
+1077,20,Yes,Sales,Female,Sales Representative,Single,2323,Yes,High,18-25,Bachelor,High,Very-High,Near,Newbies
+1079,21,Yes,Research & Development,Female,Laboratory Technician,Single,1416,No,High,18-25,Bachelor,Medium,Low,Near,Newbies
+1080,46,No,Research & Development,Female,Research Scientist,Divorced,4615,Yes,Low,46-55,Masters,Medium,Low,Near,4-Star
+1081,51,Yes,Research & Development,Male,Research Scientist,Married,2461,Yes,High,46-55,Masters,High,High,Near,2-Star
+1082,28,Yes,Research & Development,Male,Healthcare Representative,Single,8722,No,High,26-35,College,Medium,Low,Very-Far,2-Star
+1083,26,No,Research & Development,Male,Laboratory Technician,Married,3955,No,High,26-35,College,Medium,Low,Near,1-Star
+1084,30,No,Research & Development,Male,Manufacturing Director,Married,9957,No,High,26-35,Bachelor,High,Low,Far,2-Star
+1085,41,No,Research & Development,Female,Research Scientist,Married,3376,No,High,35-46,College,Very-High,High,Near,2-Star
+1088,38,No,Research & Development,Female,Healthcare Representative,Married,8823,No,High,35-46,Below College,Medium,High,Far,4-Star
+1092,40,No,Research & Development,Male,Healthcare Representative,Married,10322,No,Low,35-46,Masters,High,Very-High,Far,3-Star
+1094,27,No,Research & Development,Male,Laboratory Technician,Married,4621,No,High,26-35,Doctor,Low,High,Near,1-Star
+1096,55,No,Research & Development,Male,Manufacturing Director,Married,10976,No,High,46-55,Below College,High,Medium,Near,1-Star
+1097,28,No,Research & Development,Female,Research Scientist,Single,3660,No,High,26-35,Bachelor,High,High,Near,2-Star
+1098,44,Yes,Human Resources,Male,Human Resources,Married,10482,No,High,35-46,College,Medium,Low,Near,4-Star
+1099,33,No,Research & Development,Male,Healthcare Representative,Divorced,7119,No,High,26-35,Bachelor,Medium,Very-High,Near,1-Star
+1100,35,Yes,Sales,Male,Sales Executive,Single,9582,Yes,Low,26-35,Bachelor,High,Low,Near,2-Star
+1101,33,Yes,Research & Development,Female,Research Scientist,Single,4508,No,Low,26-35,Masters,Medium,High,Very-Far,3-Star
+1102,28,No,Research & Development,Male,Laboratory Technician,Divorced,2207,No,High,26-35,College,High,High,Far,1-Star
+1103,34,No,Research & Development,Male,Healthcare Representative,Single,7756,No,High,26-35,Below College,High,Very-High,Near,2-Star
+1105,37,No,Sales,Female,Sales Executive,Divorced,6694,Yes,High,35-46,Masters,Medium,Very-High,Near,Newbies
+1106,25,Yes,Research & Development,Male,Laboratory Technician,Married,3691,Yes,High,18-25,Below College,High,Very-High,Near,2-Star
+1107,26,Yes,Research & Development,Male,Laboratory Technician,Divorced,2377,No,Low,26-35,Bachelor,High,High,Very-Far,Newbies
+1108,33,Yes,Research & Development,Male,Research Scientist,Single,2313,Yes,Low,26-35,Bachelor,Medium,Medium,Very-Far,Newbies
+1109,42,No,Research & Development,Male,Manager,Married,17665,No,High,35-46,College,High,Low,Near,5-Star
+1111,28,Yes,Research & Development,Male,Laboratory Technician,Divorced,2596,No,High,26-35,Bachelor,Medium,Medium,Near,Newbies
+1113,50,Yes,Sales,Male,Sales Executive,Single,4728,Yes,High,46-55,Masters,High,High,Near,Newbies
+1114,33,No,Sales,Female,Sales Executive,Married,4302,No,High,26-35,Bachelor,High,Medium,Near,1-Star
+1115,34,No,Research & Development,Male,Research Scientist,Married,2979,No,High,26-35,Masters,Medium,Very-High,Near,Newbies
+1116,48,No,Research & Development,Male,Manager,Single,16885,No,Low,46-55,Masters,Very-High,Very-High,Near,1-Star
+1117,45,No,Sales,Female,Sales Executive,Married,5593,No,High,35-46,Masters,Medium,High,Near,3-Star
+1118,52,No,Research & Development,Male,Healthcare Representative,Single,10445,No,High,46-55,Masters,High,Medium,Near,2-Star
+1119,38,No,Sales,Male,Sales Executive,Divorced,8740,Yes,High,35-46,Masters,Medium,High,Near,2-Star
+1120,29,No,Research & Development,Female,Research Scientist,Divorced,2514,No,Low,26-35,Masters,High,Very-High,Very-Far,2-Star
+1121,28,No,Research & Development,Female,Manufacturing Director,Divorced,7655,No,High,26-35,Bachelor,High,Medium,Near,2-Star
+1124,46,No,Sales,Male,Manager,Married,17465,No,High,46-55,Below College,High,High,Near,3-Star
+1125,38,No,Sales,Male,Sales Executive,Single,7351,No,High,35-46,College,High,Medium,Near,Newbies
+1126,43,No,Research & Development,Female,Manufacturing Director,Married,10820,No,High,35-46,Bachelor,High,Low,Very-Far,2-Star
+1127,39,Yes,Research & Development,Male,Healthcare Representative,Divorced,12169,No,High,35-46,Bachelor,High,Very-High,Near,4-Star
+1128,40,No,Research & Development,Male,Research Director,Single,19626,No,High,35-46,Bachelor,Medium,High,Far,4-Star
+1131,21,No,Research & Development,Female,Research Scientist,Single,2070,Yes,High,18-25,Below College,Medium,Medium,Near,Newbies
+1132,39,No,Research & Development,Male,Laboratory Technician,Single,6782,No,High,35-46,Bachelor,High,Medium,Near,1-Star
+1133,36,No,Research & Development,Male,Manufacturing Director,Single,7779,No,Low,35-46,Masters,High,Very-High,Far,3-Star
+1135,31,No,Sales,Male,Sales Representative,Married,2791,No,High,26-35,Bachelor,Very-High,Very-High,Far,Newbies
+1136,28,No,Research & Development,Male,Research Scientist,Married,3201,No,High,26-35,Below College,Medium,Medium,Near,1-Star
+1137,35,No,Sales,Male,Sales Executive,Divorced,4968,No,High,26-35,College,High,Very-High,Far,1-Star
+1138,49,No,Sales,Male,Sales Executive,Married,13120,No,High,46-55,Masters,Medium,Medium,Near,2-Star
+1140,34,No,Research & Development,Male,Manufacturing Director,Single,4033,No,High,26-35,College,High,High,Near,1-Star
+1143,29,No,Research & Development,Female,Research Scientist,Divorced,3291,No,High,26-35,Bachelor,High,Medium,Near,2-Star
+1148,42,No,Research & Development,Male,Laboratory Technician,Single,4272,No,High,35-46,Bachelor,Low,Very-High,Very-Far,Newbies
+1150,29,No,Research & Development,Male,Manufacturing Director,Married,5056,Yes,High,26-35,Below College,Medium,Very-High,Near,2-Star
+1152,38,No,Human Resources,Male,Human Resources,Married,2844,No,High,35-46,Bachelor,Very-High,High,Near,2-Star
+1154,28,No,Research & Development,Male,Research Scientist,Divorced,2703,Yes,High,26-35,Bachelor,Medium,High,Near,1-Star
+1156,18,Yes,Research & Development,Male,Laboratory Technician,Single,1904,No,High,18-25,Below College,High,High,Near,Newbies
+1157,33,Yes,Sales,Female,Sales Executive,Single,8224,Yes,High,26-35,Masters,High,Low,Near,1-Star
+1158,41,No,Research & Development,Male,Laboratory Technician,Married,4766,Yes,High,35-46,Masters,High,Very-High,Far,Newbies
+1160,31,Yes,Research & Development,Male,Laboratory Technician,Married,2610,No,High,26-35,Bachelor,High,High,Far,Newbies
+1161,37,No,Research & Development,Female,Healthcare Representative,Divorced,5731,No,High,35-46,College,Medium,Very-High,Very-Far,2-Star
+1162,27,No,Research & Development,Male,Research Scientist,Married,2539,No,High,26-35,Bachelor,Medium,High,Near,1-Star
+1163,34,No,Sales,Female,Sales Executive,Married,5714,No,Low,26-35,Below College,High,High,Near,2-Star
+1164,35,No,Human Resources,Male,Human Resources,Single,4323,No,High,26-35,Masters,High,High,Near,1-Star
+1165,29,Yes,Sales,Female,Sales Executive,Married,7336,No,High,26-35,Below College,Medium,Low,Very-Far,3-Star
+1166,40,No,Research & Development,Female,Research Director,Single,13499,No,High,35-46,Masters,High,High,Near,4-Star
+1167,42,Yes,Sales,Male,Sales Executive,Single,13758,Yes,High,35-46,Bachelor,High,Low,Far,5-Star
+1171,42,No,Sales,Male,Sales Executive,Single,5155,No,High,35-46,Masters,High,Low,Near,2-Star
+1172,35,No,Research & Development,Male,Laboratory Technician,Married,2258,No,High,26-35,Masters,Medium,High,Near,2-Star
+1173,24,No,Research & Development,Male,Laboratory Technician,Single,3597,No,Low,18-25,Bachelor,High,Medium,Very-Far,1-Star
+1175,28,Yes,Research & Development,Female,Laboratory Technician,Married,2515,Yes,High,26-35,Below College,High,Very-High,Far,Newbies
+1177,26,No,Research & Development,Male,Laboratory Technician,Married,4420,No,Low,26-35,Masters,Very-High,Very-High,Near,2-Star
+1179,30,No,Sales,Male,Sales Executive,Married,6578,No,High,26-35,Bachelor,Medium,High,Near,2-Star
+1180,40,No,Research & Development,Female,Research Scientist,Married,4422,Yes,High,35-46,College,Medium,Very-High,Very-Far,Newbies
+1182,35,No,Research & Development,Male,Manufacturing Director,Divorced,10274,No,High,26-35,Bachelor,Medium,Medium,Near,2-Star
+1184,34,No,Research & Development,Male,Healthcare Representative,Single,5343,No,Low,26-35,Bachelor,Medium,Low,Near,3-Star
+1185,35,No,Research & Development,Male,Laboratory Technician,Married,2376,No,High,26-35,Masters,Medium,Very-High,Near,Newbies
+1188,43,Yes,Sales,Female,Sales Executive,Single,5346,No,High,35-46,Bachelor,Low,High,Near,1-Star
+1190,32,No,Sales,Female,Sales Representative,Divorced,2827,No,High,26-35,Below College,High,Low,Near,Newbies
+1191,56,No,Research & Development,Female,Manager,Divorced,19943,No,High,56?,Masters,High,Low,Near,1-Star
+1192,29,No,Research & Development,Female,Laboratory Technician,Married,3131,No,High,26-35,Below College,High,Very-High,Near,2-Star
+1193,19,No,Research & Development,Male,Research Scientist,Single,2552,No,Low,18-25,College,High,Low,Near,Newbies
+1195,45,No,Research & Development,Female,Research Scientist,Married,4477,Yes,High,35-46,Bachelor,High,High,Near,1-Star
+1196,37,No,Research & Development,Female,Manufacturing Director,Married,6474,No,High,35-46,Bachelor,Medium,Very-High,Near,3-Star
+1198,20,No,Research & Development,Male,Laboratory Technician,Single,3033,No,High,18-25,Bachelor,Medium,High,Near,Newbies
+1200,44,Yes,Research & Development,Male,Research Scientist,Single,2936,Yes,High,35-46,Masters,High,High,Near,2-Star
+1201,53,No,Research & Development,Female,Manager,Divorced,18606,No,High,46-55,College,High,High,Near,2-Star
+1202,29,No,Research & Development,Female,Research Scientist,Married,2168,Yes,High,26-35,Below College,Low,Very-High,Far,1-Star
+1203,22,Yes,Research & Development,Male,Research Scientist,Married,2853,Yes,High,18-25,Masters,Medium,Very-High,Near,Newbies
+1204,46,No,Sales,Female,Manager,Married,17048,No,Low,46-55,Bachelor,High,Low,Near,Elders
+1206,44,No,Research & Development,Male,Research Scientist,Single,2290,No,High,35-46,Bachelor,Low,High,Far,Newbies
+1207,33,No,Human Resources,Male,Human Resources,Married,3600,No,High,26-35,Bachelor,High,High,Near,1-Star
+1210,41,Yes,Research & Development,Male,Research Scientist,Divorced,2107,No,High,35-46,College,Medium,Low,Near,Newbies
+1211,30,No,Sales,Male,Sales Executive,Divorced,4115,No,High,26-35,Masters,High,Low,Very-Far,1-Star
+1212,40,No,Sales,Male,Sales Executive,Married,4327,No,High,35-46,Masters,High,Medium,Near,Newbies
+1215,50,No,Research & Development,Female,Manager,Married,17856,No,Low,46-55,Bachelor,High,Low,Near,Newbies
+1216,28,No,Research & Development,Male,Laboratory Technician,Married,3196,No,High,26-35,Masters,Medium,Low,Far,2-Star
+1217,46,No,Research & Development,Male,Research Director,Married,19081,No,High,46-55,College,High,Medium,Far,1-Star
+1218,35,No,Sales,Male,Sales Executive,Married,8966,Yes,High,26-35,Masters,High,Low,Far,2-Star
+1219,24,Yes,Research & Development,Female,Laboratory Technician,Married,2210,No,High,18-25,College,High,Medium,Far,Newbies
+1220,33,No,Sales,Female,Sales Executive,Married,4539,No,High,26-35,Bachelor,High,High,Very-Far,2-Star
+1221,36,No,Research & Development,Male,Laboratory Technician,Divorced,2741,No,High,35-46,Masters,Low,High,Near,2-Star
+1224,30,No,Research & Development,Male,Laboratory Technician,Divorced,3491,No,High,26-35,Masters,High,High,Near,2-Star
+1225,44,No,Research & Development,Male,Research Scientist,Single,4541,No,Low,35-46,Masters,High,Very-High,Very-Far,4-Star
+1226,20,No,Sales,Male,Sales Representative,Single,2678,No,High,18-25,Bachelor,Very-High,Very-High,Very-Far,Newbies
+1228,46,No,Research & Development,Male,Manufacturing Director,Divorced,7379,No,High,46-55,Masters,High,Very-High,Near,2-Star
+1231,42,No,Human Resources,Male,Human Resources,Married,6272,No,High,35-46,Doctor,Very-High,Low,Near,1-Star
+1233,60,No,Sales,Male,Sales Executive,Divorced,5220,Yes,High,56?,Masters,Very-High,Very-High,Near,3-Star
+1234,32,No,Research & Development,Female,Laboratory Technician,Married,2743,No,Low,26-35,Bachelor,Medium,Medium,Far,Newbies
+1235,32,No,Research & Development,Female,Research Scientist,Single,4998,Yes,High,26-35,College,High,High,Near,2-Star
+1237,36,No,Research & Development,Female,Manufacturing Director,Divorced,10252,Yes,Low,35-46,Bachelor,Low,Low,Near,2-Star
+1238,33,No,Research & Development,Male,Research Scientist,Married,2781,No,High,26-35,Bachelor,High,Very-High,Near,3-Star
+1239,40,No,Sales,Female,Sales Executive,Divorced,6852,No,High,35-46,Bachelor,Medium,Medium,Near,1-Star
+1240,25,No,Sales,Male,Sales Executive,Single,4950,No,High,18-25,Masters,High,Very-High,Near,1-Star
+1241,30,No,Research & Development,Male,Research Scientist,Married,3579,Yes,Low,26-35,Bachelor,High,Medium,Near,3-Star
+1242,42,No,Research & Development,Female,Research Director,Married,13191,Yes,High,35-46,Doctor,High,Low,Very-Far,Newbies
+1243,35,No,Sales,Female,Sales Executive,Married,10377,Yes,High,26-35,College,Medium,Very-High,Near,3-Star
+1244,27,No,Research & Development,Male,Research Scientist,Married,2235,Yes,High,26-35,Bachelor,High,Low,Far,2-Star
+1245,54,No,Research & Development,Female,Manufacturing Director,Divorced,10502,No,High,46-55,Masters,High,High,Near,1-Star
+1246,44,No,Research & Development,Female,Research Scientist,Married,2011,No,High,35-46,Below College,Very-High,Very-High,Near,2-Star
+1248,19,Yes,Research & Development,Female,Research Scientist,Single,1859,Yes,Low,18-25,Bachelor,Medium,Medium,Near,Newbies
+1249,29,No,Research & Development,Female,Research Scientist,Divorced,3760,No,High,26-35,Bachelor,High,Very-High,Near,1-Star
+1250,54,No,Research & Development,Male,Research Director,Married,17779,No,High,46-55,Bachelor,High,Very-High,Near,2-Star
+1251,31,No,Research & Development,Male,Healthcare Representative,Married,6833,Yes,High,26-35,College,High,Low,Far,2-Star
+1252,31,No,Research & Development,Female,Healthcare Representative,Single,6812,No,High,26-35,Bachelor,Medium,Low,Very-Far,2-Star
+1254,59,No,Sales,Female,Sales Executive,Single,5171,No,High,56?,Bachelor,Medium,Very-High,Near,2-Star
+1255,43,No,Research & Development,Male,Research Director,Married,19740,No,High,35-46,Bachelor,Low,Very-High,Near,2-Star
+1256,49,No,Research & Development,Male,Manager,Married,18711,No,High,46-55,College,Medium,High,Near,Newbies
+1257,36,No,Research & Development,Male,Research Scientist,Married,3692,No,High,35-46,Bachelor,High,Medium,Near,3-Star
+1258,48,No,Research & Development,Male,Laboratory Technician,Single,2559,No,High,46-55,College,Very-High,Medium,Near,Newbies
+1259,27,No,Research & Development,Male,Research Scientist,Divorced,2517,No,High,26-35,College,High,High,Near,1-Star
+1260,29,No,Research & Development,Male,Healthcare Representative,Divorced,6623,Yes,High,26-35,Bachelor,High,Very-High,Near,2-Star
+1263,48,No,Research & Development,Male,Research Director,Single,18265,No,High,46-55,Bachelor,Medium,Very-High,Near,Newbies
+1264,29,No,Research & Development,Female,Research Director,Divorced,16124,No,High,26-35,Bachelor,Medium,Very-High,Near,2-Star
+1265,34,No,Research & Development,Female,Research Scientist,Married,2585,No,High,26-35,Bachelor,Very-High,High,Far,Newbies
+1267,44,No,Sales,Male,Manager,Married,18213,No,High,35-46,Bachelor,High,Medium,Near,5-Star
+1268,33,No,Sales,Male,Sales Executive,Divorced,8380,Yes,High,26-35,Doctor,Very-High,High,Near,2-Star
+1269,19,No,Research & Development,Female,Research Scientist,Single,2994,Yes,High,18-25,Bachelor,Very-High,Very-High,Very-Far,Newbies
+1270,23,No,Research & Development,Male,Research Scientist,Married,1223,No,Low,18-25,College,High,High,Near,Newbies
+1273,25,Yes,Sales,Male,Sales Representative,Single,1118,Yes,High,18-25,Below College,Low,Very-High,Very-Far,Newbies
+1275,26,No,Research & Development,Male,Research Scientist,Single,2875,Yes,Low,26-35,College,High,Very-High,Near,2-Star
+1277,45,Yes,Sales,Female,Manager,Single,18824,Yes,High,35-46,Bachelor,Low,Medium,Near,5-Star
+1278,55,No,Research & Development,Male,Healthcare Representative,Divorced,13577,Yes,High,46-55,Below College,Medium,Medium,Near,Elders
+1279,21,Yes,Research & Development,Female,Laboratory Technician,Single,2625,No,Low,18-25,College,Medium,High,Near,Newbies
+1280,46,No,Sales,Female,Manager,Married,18789,No,High,46-55,College,Medium,Medium,Near,3-Star
+1281,34,No,Sales,Female,Sales Executive,Single,4538,Yes,High,26-35,Bachelor,High,Low,Near,1-Star
+1282,51,No,Sales,Male,Manager,Divorced,19847,Yes,Low,46-55,Bachelor,High,Medium,Near,Elders
+1283,59,No,Research & Development,Male,Manufacturing Director,Single,10512,No,High,56?,Masters,High,Very-High,Far,2-Star
+1285,34,No,Research & Development,Female,Laboratory Technician,Divorced,4444,No,High,26-35,Bachelor,High,Medium,Far,3-Star
+1286,28,No,Research & Development,Male,Laboratory Technician,Single,2154,Yes,High,26-35,Masters,High,High,Near,1-Star
+1288,44,No,Research & Development,Male,Manager,Divorced,19190,No,High,35-46,College,Very-High,Low,Near,5-Star
+1289,34,No,Human Resources,Male,Human Resources,Married,4490,No,High,26-35,Bachelor,Medium,Medium,Far,2-Star
+1291,35,No,Research & Development,Male,Research Scientist,Married,3506,Yes,High,26-35,Below College,High,High,Near,1-Star
+1292,42,No,Research & Development,Female,Research Scientist,Married,2372,Yes,High,35-46,Masters,Very-High,Medium,Near,Newbies
+1293,43,No,Sales,Female,Sales Executive,Single,10231,No,High,35-46,Masters,Medium,Very-High,Near,5-Star
+1294,36,No,Research & Development,Female,Manufacturing Director,Single,5410,Yes,High,35-46,Masters,High,Medium,Near,4-Star
+1295,44,Yes,Research & Development,Female,Healthcare Representative,Married,7978,No,High,35-46,Bachelor,High,Very-High,Far,2-Star
+1296,28,No,Research & Development,Male,Laboratory Technician,Married,3867,Yes,High,26-35,Bachelor,Medium,Very-High,Near,Newbies
+1297,51,No,Research & Development,Female,Laboratory Technician,Single,2838,No,High,46-55,College,Medium,High,Near,2-Star
+1298,30,No,Research & Development,Female,Manufacturing Director,Single,4695,Yes,High,26-35,College,High,High,Near,2-Star
+1299,29,Yes,Research & Development,Female,Laboratory Technician,Divorced,3339,Yes,High,26-35,Bachelor,High,High,Near,2-Star
+1301,28,No,Research & Development,Male,Research Scientist,Single,2080,No,High,26-35,Bachelor,High,Low,Near,1-Star
+1303,25,No,Research & Development,Female,Research Scientist,Single,2096,No,High,18-25,Bachelor,High,Medium,Near,Newbies
+1304,32,No,Sales,Male,Sales Executive,Married,6209,No,High,26-35,Bachelor,Very-High,Very-High,Near,2-Star
+1306,45,No,Research & Development,Female,Manager,Single,18061,No,Low,35-46,Bachelor,High,Medium,Very-Far,Newbies
+1307,39,No,Research & Development,Female,Manager,Divorced,17123,Yes,High,35-46,Masters,Medium,Medium,Far,4-Star
+1308,58,No,Research & Development,Male,Research Scientist,Divorced,2372,No,High,56?,Masters,High,High,Very-Far,Newbies
+1309,32,Yes,Research & Development,Male,Laboratory Technician,Married,4883,No,High,26-35,College,High,High,Near,2-Star
+1310,39,Yes,Research & Development,Male,Research Scientist,Single,3904,No,High,35-46,Bachelor,High,Low,Very-Far,1-Star
+1311,30,No,Research & Development,Female,Laboratory Technician,Married,4627,No,High,26-35,Bachelor,Medium,Very-High,Near,2-Star
+1312,36,No,Research & Development,Female,Healthcare Representative,Married,7094,No,High,35-46,Masters,High,High,Near,2-Star
+1314,46,No,Human Resources,Female,Human Resources,Single,3423,No,High,46-55,College,High,Low,Near,2-Star
+1315,28,No,Research & Development,Female,Laboratory Technician,Married,6674,No,High,26-35,Bachelor,Low,Very-High,Near,2-Star
+1317,50,No,Research & Development,Female,Research Director,Married,16880,Yes,High,46-55,Bachelor,High,Low,Very-Far,1-Star
+1318,40,Yes,Sales,Male,Sales Executive,Single,9094,Yes,High,35-46,Masters,Medium,Medium,Very-Far,1-Star
+1319,52,Yes,Sales,Male,Sales Executive,Single,8446,Yes,High,46-55,Bachelor,High,Medium,Near,2-Star
+1321,30,No,Research & Development,Female,Manager,Married,11916,Yes,Low,26-35,Masters,High,Low,Far,2-Star
+1322,39,No,Research & Development,Male,Manufacturing Director,Single,4534,No,High,35-46,College,High,High,Far,2-Star
+1324,31,No,Sales,Female,Sales Executive,Divorced,9852,Yes,High,26-35,Masters,High,High,Near,2-Star
+1329,41,No,Sales,Male,Sales Executive,Single,6151,No,High,35-46,College,Low,Medium,Near,4-Star
+1331,31,Yes,Sales,Female,Sales Representative,Single,2302,Yes,High,26-35,Bachelor,High,Medium,Near,1-Star
+1333,44,Yes,Research & Development,Male,Laboratory Technician,Married,2362,No,High,35-46,Bachelor,High,Low,Near,1-Star
+1334,42,No,Research & Development,Male,Manager,Married,17861,Yes,High,35-46,Below College,High,High,Near,4-Star
+1336,55,No,Research & Development,Female,Manager,Married,19187,No,High,46-55,College,Low,High,Near,4-Star
+1338,56,No,Human Resources,Male,Manager,Single,19717,No,High,56?,Masters,High,Medium,Near,2-Star
+1340,40,No,Research & Development,Male,Research Scientist,Divorced,3544,No,High,35-46,College,High,High,Far,1-Star
+1344,34,No,Research & Development,Male,Healthcare Representative,Divorced,8500,No,High,26-35,Bachelor,High,Very-High,Near,2-Star
+1346,40,No,Research & Development,Male,Research Scientist,Single,4661,No,High,35-46,Bachelor,High,Very-High,Near,2-Star
+1349,41,No,Sales,Female,Sales Executive,Divorced,4103,No,High,35-46,Bachelor,High,Low,Near,2-Star
+1350,35,No,Research & Development,Male,Research Scientist,Single,4249,Yes,High,26-35,Masters,High,High,Near,2-Star
+1352,51,No,Human Resources,Male,Manager,Divorced,14026,Yes,High,46-55,Bachelor,High,Medium,Near,Elders
+1355,38,No,Sales,Female,Sales Executive,Divorced,6893,No,High,35-46,College,High,Low,Near,2-Star
+1356,34,No,Sales,Female,Sales Executive,Single,6125,No,High,26-35,College,High,Low,Far,2-Star
+1358,25,No,Research & Development,Male,Laboratory Technician,Married,3669,No,High,18-25,Below College,High,Very-High,Far,1-Star
+1360,58,Yes,Research & Development,Female,Manufacturing Director,Married,10008,Yes,High,56?,Masters,Medium,Low,Near,2-Star
+1361,40,No,Research & Development,Male,Laboratory Technician,Married,2387,No,Low,35-46,Masters,High,Medium,Near,1-Star
+1362,36,No,Sales,Female,Sales Executive,Married,4639,No,High,35-46,Bachelor,Very-High,Low,Near,3-Star
+1363,48,No,Research & Development,Male,Manufacturing Director,Single,7898,No,High,46-55,Bachelor,High,Very-High,Near,2-Star
+1364,27,No,Sales,Female,Sales Representative,Married,2534,No,High,26-35,Bachelor,Very-High,Very-High,Far,Newbies
+1367,51,No,Research & Development,Female,Manufacturing Director,Single,13142,No,High,46-55,College,Medium,Medium,Far,1-Star
+1368,18,No,Research & Development,Female,Laboratory Technician,Single,1611,No,High,18-25,Bachelor,High,Very-High,Near,Newbies
+1369,35,No,Research & Development,Female,Laboratory Technician,Married,5363,No,High,26-35,Bachelor,Medium,Very-High,Near,2-Star
+1371,27,No,Sales,Male,Sales Executive,Single,5071,No,Low,26-35,Below College,Low,Very-High,Near,2-Star
+1372,55,Yes,Sales,Male,Sales Executive,Single,13695,Yes,High,46-55,Masters,Very-High,High,Far,4-Star
+1373,56,No,Research & Development,Male,Manufacturing Director,Married,13402,Yes,High,56?,Bachelor,High,Medium,Very-Far,4-Star
+1374,34,No,Research & Development,Female,Research Scientist,Divorced,2029,No,Low,26-35,Below College,Medium,High,Very-Far,1-Star
+1375,40,No,Research & Development,Female,Healthcare Representative,Divorced,6377,No,Low,35-46,Below College,Very-High,High,Near,3-Star
+1377,34,No,Research & Development,Male,Laboratory Technician,Married,5429,No,High,26-35,Bachelor,High,High,Very-Far,2-Star
+1379,31,Yes,Sales,Female,Sales Representative,Single,2785,No,High,26-35,Bachelor,Medium,Very-High,Near,Newbies
+1380,35,Yes,Sales,Female,Sales Executive,Married,4614,Yes,High,26-35,Masters,High,High,Far,1-Star
+1382,38,No,Research & Development,Male,Research Scientist,Divorced,2610,No,High,35-46,Bachelor,Very-High,High,Near,1-Star
+1383,34,No,Research & Development,Female,Healthcare Representative,Single,6687,No,High,26-35,Masters,High,Very-High,Near,3-Star
+1387,28,No,Sales,Male,Sales Executive,Married,4724,No,High,26-35,Bachelor,Medium,Low,Very-Far,1-Star
+1389,31,Yes,Research & Development,Male,Manufacturing Director,Married,6179,Yes,High,26-35,Masters,High,High,Very-Far,2-Star
+1390,39,No,Sales,Male,Sales Executive,Married,6120,Yes,High,35-46,Masters,Medium,Very-High,Very-Far,1-Star
+1391,51,No,Sales,Male,Sales Executive,Married,10596,No,High,46-55,Bachelor,High,Medium,Near,1-Star
+1392,41,No,Research & Development,Female,Research Scientist,Divorced,5467,Yes,High,35-46,Bachelor,High,Very-High,Very-Far,2-Star
+1394,37,No,Research & Development,Male,Research Scientist,Married,2996,Yes,High,35-46,Below College,High,High,Near,2-Star
+1395,33,No,Sales,Male,Sales Executive,Married,9998,No,High,26-35,Below College,High,Very-High,Near,1-Star
+1396,32,No,Sales,Male,Sales Executive,Married,4078,Yes,High,26-35,Below College,High,Medium,Near,1-Star
+1397,39,No,Research & Development,Male,Healthcare Representative,Married,10920,No,Low,35-46,College,High,High,Very-Far,2-Star
+1399,25,No,Sales,Male,Sales Executive,Married,6232,No,High,18-25,Below College,Very-High,High,Far,1-Star
+1401,52,No,Research & Development,Female,Manufacturing Director,Married,13247,Yes,High,46-55,College,Very-High,High,Very-Far,1-Star
+1402,43,No,Research & Development,Female,Research Scientist,Single,4081,Yes,High,35-46,Bachelor,Medium,High,Near,4-Star
+1403,27,No,Sales,Female,Sales Executive,Married,5769,Yes,High,26-35,Bachelor,Medium,Very-High,Near,2-Star
+1405,27,Yes,Research & Development,Female,Research Scientist,Single,2394,Yes,High,26-35,Masters,High,High,Far,2-Star
+1407,26,No,Research & Development,Male,Research Scientist,Single,3904,No,High,26-35,Below College,Medium,Very-High,Near,1-Star
+1408,42,No,Human Resources,Female,Manager,Married,16799,No,High,35-46,Bachelor,High,Low,Near,4-Star
+1409,52,No,Research & Development,Female,Laboratory Technician,Married,2950,No,High,46-55,Masters,High,Low,Near,1-Star
+1411,37,No,Research & Development,Female,Laboratory Technician,Single,3629,No,High,35-46,Bachelor,High,High,Far,1-Star
+1412,35,No,Research & Development,Male,Manufacturing Director,Single,9362,No,High,26-35,College,High,Very-High,Far,Newbies
+1415,25,No,Research & Development,Male,Laboratory Technician,Married,3229,No,High,18-25,Bachelor,High,Very-High,Near,1-Star
+1417,26,No,Research & Development,Male,Laboratory Technician,Single,3578,No,High,26-35,Bachelor,Very-High,Low,Near,2-Star
+1419,29,No,Human Resources,Male,Human Resources,Single,7988,No,High,26-35,Bachelor,Medium,Low,Far,2-Star
+1420,49,Yes,Research & Development,Male,Laboratory Technician,Single,4284,No,Low,46-55,College,Medium,Low,Very-Far,1-Star
+1421,29,Yes,Research & Development,Female,Healthcare Representative,Single,7553,Yes,High,26-35,Below College,High,Very-High,Far,2-Star
+1422,54,No,Research & Development,Female,Research Director,Single,17328,No,High,46-55,Bachelor,High,Very-High,Near,4-Star
+1423,58,No,Research & Development,Female,Research Director,Married,19701,Yes,Low,56?,Bachelor,High,Low,Near,2-Star
+1424,55,No,Research & Development,Male,Research Director,Divorced,14732,No,High,46-55,Masters,Very-High,Very-High,Near,2-Star
+1425,36,No,Sales,Female,Sales Executive,Single,9278,Yes,High,35-46,Masters,High,Medium,Near,1-Star
+1427,31,Yes,Sales,Female,Sales Representative,Single,1359,No,High,26-35,Masters,Low,High,Near,Newbies
+1428,30,No,Sales,Female,Sales Executive,Divorced,4779,No,High,26-35,Masters,High,Low,Near,1-Star
+1430,31,No,Research & Development,Female,Research Director,Single,16422,No,High,26-35,Doctor,High,Medium,Near,1-Star
+1431,34,No,Research & Development,Male,Research Scientist,Divorced,2996,No,High,26-35,Masters,High,Low,Near,1-Star
+1433,31,Yes,Research & Development,Female,Research Scientist,Single,1261,No,High,26-35,Bachelor,Medium,Medium,Near,Newbies
+1434,27,No,Research & Development,Male,Laboratory Technician,Married,2099,No,High,26-35,Below College,High,Low,Far,1-Star
+1435,36,No,Research & Development,Male,Laboratory Technician,Single,5810,No,High,35-46,Masters,Medium,Very-High,Near,2-Star
+1436,36,No,Sales,Female,Sales Executive,Married,5647,No,High,35-46,Masters,Medium,Low,Far,1-Star
+1438,47,No,Research & Development,Male,Research Scientist,Married,3420,No,High,46-55,Bachelor,High,Very-High,Near,2-Star
+1439,25,Yes,Sales,Male,Sales Representative,Married,4400,No,High,18-25,College,Medium,Low,Near,1-Star
+1440,37,No,Research & Development,Male,Laboratory Technician,Single,3500,No,High,35-46,College,Very-High,High,Near,2-Star
+1441,56,No,Research & Development,Female,Research Scientist,Married,2066,No,Low,56?,College,High,Low,Near,1-Star
+1443,47,No,Research & Development,Female,Research Director,Married,17169,No,High,46-55,Masters,High,High,Near,4-Star
+1445,24,No,Sales,Female,Sales Executive,Married,4162,Yes,High,18-25,Below College,High,High,Near,1-Star
+1446,32,No,Sales,Male,Sales Executive,Married,9204,No,High,26-35,Doctor,High,Very-High,Near,1-Star
+1447,34,No,Research & Development,Female,Laboratory Technician,Married,3294,No,High,26-35,Bachelor,Medium,Medium,Near,1-Star
+1448,41,No,Research & Development,Male,Research Scientist,Married,2127,Yes,High,35-46,Doctor,Very-High,High,Near,1-Star
+1449,40,No,Research & Development,Male,Laboratory Technician,Divorced,3975,No,High,35-46,Masters,High,High,Near,2-Star
+1453,31,No,Sales,Male,Sales Executive,Divorced,10793,No,High,26-35,College,High,Very-High,Near,3-Star
+1457,46,Yes,Sales,Male,Sales Executive,Divorced,10096,No,High,46-55,Bachelor,High,Very-High,Near,2-Star
+1458,39,Yes,Research & Development,Female,Laboratory Technician,Single,3646,Yes,Low,35-46,Bachelor,Medium,Low,Near,Newbies
+1459,31,Yes,Research & Development,Female,Manufacturing Director,Single,7446,No,High,26-35,Doctor,Very-High,Medium,Near,2-Star
+1460,45,No,Research & Development,Male,Healthcare Representative,Divorced,10851,Yes,High,35-46,Bachelor,Low,Low,Far,2-Star
+1461,31,No,Human Resources,Female,Human Resources,Single,2109,No,High,26-35,College,Very-High,Medium,Near,1-Star
+1464,31,Yes,Research & Development,Male,Laboratory Technician,Married,3722,Yes,High,26-35,Bachelor,High,Very-High,Near,Newbies
+1465,45,No,Research & Development,Male,Manufacturing Director,Married,9380,Yes,High,35-46,Bachelor,High,Very-High,Very-Far,1-Star
+1466,48,No,Sales,Male,Sales Executive,Divorced,5486,No,High,46-55,Bachelor,High,Low,Near,Newbies
+1467,34,Yes,Human Resources,Female,Human Resources,Married,2742,No,High,26-35,Masters,High,High,Near,Newbies
+1468,40,No,Research & Development,Male,Research Director,Divorced,13757,No,High,35-46,Below College,Medium,Medium,Near,2-Star
+1469,28,No,Sales,Male,Sales Executive,Single,8463,No,High,26-35,Bachelor,High,Low,Near,1-Star
+1471,44,No,Research & Development,Male,Laboratory Technician,Single,3162,No,High,35-46,Bachelor,Medium,High,Near,1-Star
+1472,53,No,Research & Development,Male,Research Director,Single,16598,No,High,46-55,Bachelor,Very-High,Medium,Near,2-Star
+1473,49,No,Research & Development,Male,Healthcare Representative,Married,6651,No,High,46-55,Masters,High,High,Near,1-Star
+1474,40,No,Research & Development,Male,Research Scientist,Divorced,2345,No,High,35-46,Bachelor,High,High,Near,1-Star
+1475,44,No,Research & Development,Male,Research Scientist,Single,3420,No,High,35-46,Bachelor,High,Medium,Far,1-Star
+1477,33,No,Sales,Male,Sales Executive,Married,4373,No,High,26-35,Bachelor,High,Low,Near,1-Star
+1478,34,No,Sales,Male,Sales Executive,Single,4759,No,High,26-35,Bachelor,Low,Low,Near,3-Star
+1479,30,No,Sales,Male,Sales Executive,Married,5301,No,High,26-35,Below College,High,High,Far,Newbies
+1480,42,No,Research & Development,Female,Laboratory Technician,Single,3673,No,High,35-46,College,High,Very-High,Near,3-Star
+1481,44,No,Sales,Female,Sales Executive,Married,4768,No,High,35-46,Doctor,High,High,Near,Newbies
+1482,30,No,Research & Development,Male,Research Scientist,Divorced,1274,No,High,26-35,Bachelor,High,High,Near,Newbies
+1483,57,No,Research & Development,Male,Research Scientist,Married,4900,No,Low,56?,College,Very-High,High,Near,3-Star
+1484,49,No,Research & Development,Male,Healthcare Representative,Divorced,10466,No,High,46-55,Masters,High,Medium,Near,2-Star
+1485,34,No,Research & Development,Male,Research Director,Divorced,17007,No,High,26-35,Bachelor,High,Low,Far,3-Star
+1486,28,Yes,Sales,Male,Sales Representative,Married,2909,No,High,26-35,Bachelor,High,High,Near,1-Star
+1487,29,Yes,Sales,Female,Sales Executive,Single,5765,No,High,26-35,Bachelor,High,Medium,Far,1-Star
+1489,34,Yes,Sales,Female,Sales Executive,Single,4599,Yes,Low,26-35,Masters,Medium,Medium,Very-Far,3-Star
+1492,35,No,Sales,Male,Sales Representative,Married,2404,No,High,26-35,Below College,High,High,Near,Newbies
+1494,24,Yes,Research & Development,Male,Laboratory Technician,Single,3172,Yes,High,18-25,Bachelor,High,Low,Near,Newbies
+1495,24,No,Sales,Female,Sales Representative,Married,2033,No,High,18-25,College,High,Medium,Far,Newbies
+1496,44,No,Research & Development,Male,Manufacturing Director,Single,10209,Yes,High,35-46,Below College,High,High,Near,Newbies
+1497,29,No,Sales,Male,Sales Executive,Divorced,8620,No,High,26-35,Bachelor,Medium,High,Far,2-Star
+1499,30,No,Human Resources,Male,Human Resources,Divorced,2064,No,Low,26-35,Bachelor,High,High,Near,1-Star
+1501,55,No,Research & Development,Male,Healthcare Representative,Married,4035,Yes,High,46-55,Masters,High,High,Near,1-Star
+1502,33,No,Research & Development,Female,Laboratory Technician,Married,3838,No,High,26-35,Masters,Medium,Medium,Near,1-Star
+1503,47,No,Sales,Female,Sales Executive,Married,4591,Yes,High,46-55,Bachelor,High,High,Far,1-Star
+1504,28,Yes,Research & Development,Male,Laboratory Technician,Single,2561,No,High,26-35,College,Medium,Low,Near,Newbies
+1506,28,No,Research & Development,Male,Research Scientist,Divorced,1563,No,High,26-35,Bachelor,Medium,High,Near,Newbies
+1507,28,No,Sales,Male,Sales Executive,Single,4898,No,High,26-35,Bachelor,High,Low,Near,1-Star
+1509,49,No,Research & Development,Female,Laboratory Technician,Married,4789,No,Low,46-55,College,Medium,Low,Near,1-Star
+1513,29,No,Research & Development,Female,Laboratory Technician,Married,3180,No,High,26-35,Below College,High,Medium,Near,1-Star
+1514,28,No,Research & Development,Male,Manufacturing Director,Married,6549,No,High,26-35,Below College,Low,Medium,Very-Far,2-Star
+1515,33,No,Research & Development,Male,Healthcare Representative,Single,6388,Yes,High,26-35,Doctor,High,High,Near,Newbies
+1516,32,No,Research & Development,Male,Manager,Single,11244,No,Low,26-35,Bachelor,High,Very-High,Near,1-Star
+1520,54,No,Research & Development,Female,Manager,Divorced,16032,No,Low,46-55,Masters,High,Very-High,Far,3-Star
+1522,29,Yes,Research & Development,Male,Research Scientist,Single,2362,No,High,26-35,Masters,Medium,Low,Near,2-Star
+1523,44,No,Research & Development,Male,Research Director,Married,16328,No,High,35-46,Bachelor,High,Low,Very-Far,4-Star
+1525,39,No,Research & Development,Female,Manufacturing Director,Single,8376,No,High,35-46,Bachelor,High,Medium,Near,Newbies
+1527,46,No,Sales,Female,Manager,Married,16606,No,High,46-55,Bachelor,High,Medium,Near,3-Star
+1529,35,No,Research & Development,Female,Healthcare Representative,Single,8606,No,High,26-35,Bachelor,Medium,Medium,Far,3-Star
+1533,23,No,Research & Development,Male,Laboratory Technician,Single,2272,No,High,18-25,Below College,High,High,Far,1-Star
+1534,40,Yes,Research & Development,Male,Laboratory Technician,Single,2018,No,High,35-46,Masters,High,Low,Near,1-Star
+1535,34,No,Sales,Male,Sales Executive,Married,7083,Yes,High,26-35,Bachelor,Medium,High,Near,2-Star
+1537,31,Yes,Research & Development,Female,Research Scientist,Single,4084,No,High,26-35,Bachelor,High,High,Near,2-Star
+1539,50,No,Research & Development,Male,Research Director,Single,14411,Yes,High,46-55,Doctor,Low,Very-High,Very-Far,Elders
+1541,34,No,Sales,Male,Sales Representative,Married,2308,Yes,Low,26-35,College,High,High,Near,3-Star
+1542,42,No,Research & Development,Male,Laboratory Technician,Married,4841,No,High,35-46,Bachelor,Medium,Medium,Near,Newbies
+1543,37,No,Research & Development,Male,Research Scientist,Married,4285,No,High,35-46,Bachelor,High,Very-High,Far,2-Star
+1544,29,No,Research & Development,Female,Healthcare Representative,Married,9715,No,High,26-35,Below College,Low,Low,Near,2-Star
+1545,33,No,Research & Development,Male,Manufacturing Director,Single,4320,No,High,26-35,Bachelor,Medium,Medium,Very-Far,1-Star
+1546,45,No,Research & Development,Male,Research Scientist,Married,2132,No,Low,35-46,Bachelor,High,Very-High,Very-Far,1-Star
+1547,42,No,Research & Development,Male,Healthcare Representative,Married,10124,Yes,High,35-46,Bachelor,High,Very-High,Near,4-Star
+1548,40,No,Sales,Male,Sales Executive,Married,5473,No,High,35-46,College,High,Low,Near,2-Star
+1549,33,No,Research & Development,Male,Laboratory Technician,Married,5207,Yes,High,26-35,Masters,High,High,Very-Far,3-Star
+1550,40,No,Human Resources,Male,Manager,Single,16437,Yes,Low,35-46,College,High,Very-High,Near,5-Star
+1551,24,No,Research & Development,Male,Laboratory Technician,Divorced,2296,No,High,18-25,College,Medium,Low,Very-Far,Newbies
+1552,40,No,Research & Development,Male,Healthcare Representative,Divorced,4069,Yes,High,35-46,College,High,Very-High,Near,Newbies
+1553,45,No,Research & Development,Male,Healthcare Representative,Divorced,7441,No,High,35-46,Masters,High,Medium,Near,2-Star
+1554,35,No,Sales,Female,Sales Representative,Married,2430,No,Low,26-35,Masters,Medium,High,Very-Far,1-Star
+1555,32,No,Research & Development,Female,Research Scientist,Married,5878,No,High,26-35,College,Medium,Medium,Near,2-Star
+1556,36,No,Sales,Male,Sales Representative,Single,2644,Yes,Low,35-46,Masters,High,Very-High,Near,1-Star
+1557,48,No,Sales,Female,Sales Executive,Divorced,6439,No,High,46-55,Masters,High,High,Far,2-Star
+1558,29,No,Research & Development,Male,Research Scientist,Married,2451,No,High,26-35,Bachelor,Very-High,High,Near,Newbies
+1560,33,No,Sales,Male,Sales Executive,Married,6392,No,High,26-35,Masters,High,Low,Near,Newbies
+1562,30,Yes,Sales,Male,Sales Executive,Married,9714,No,High,26-35,Bachelor,Medium,Low,Near,2-Star
+1563,38,No,Human Resources,Male,Human Resources,Married,6077,No,High,35-46,Masters,High,High,Near,2-Star
+1564,35,No,Research & Development,Male,Laboratory Technician,Single,2450,No,High,26-35,Bachelor,Medium,Low,Near,1-Star
+1568,30,No,Sales,Male,Sales Executive,Married,9250,No,High,26-35,Masters,High,Medium,Very-Far,1-Star
+1569,35,Yes,Research & Development,Female,Laboratory Technician,Divorced,2074,Yes,High,26-35,Bachelor,High,Low,Near,Newbies
+1572,53,Yes,Research & Development,Female,Manufacturing Director,Married,10169,No,High,46-55,Doctor,Medium,Very-High,Near,Elders
+1573,38,Yes,Research & Development,Male,Manufacturing Director,Married,4855,No,High,35-46,Bachelor,High,Medium,Near,1-Star
+1574,32,No,Research & Development,Male,Research Scientist,Married,4087,No,High,26-35,Masters,High,Low,Near,2-Star
+1576,48,No,Research & Development,Female,Research Scientist,Married,2367,No,High,46-55,Masters,High,Low,Far,2-Star
+1577,34,No,Research & Development,Male,Research Scientist,Single,2972,No,High,26-35,Masters,High,Very-High,Near,Newbies
+1578,55,No,Sales,Male,Manager,Married,19586,No,Low,46-55,Doctor,Medium,Very-High,Very-Far,Elders
+1580,34,No,Research & Development,Male,Research Scientist,Married,5484,No,High,26-35,Masters,High,Very-High,Near,Newbies
+1581,26,No,Research & Development,Female,Research Scientist,Married,2061,No,Low,26-35,Bachelor,High,Very-High,Near,Newbies
+1582,38,No,Sales,Male,Sales Executive,Married,9924,No,High,35-46,Bachelor,High,Medium,Far,2-Star
+1583,38,No,Sales,Female,Sales Executive,Single,4198,No,High,35-46,Bachelor,High,Medium,Far,1-Star
+1585,36,No,Sales,Female,Sales Executive,Single,6815,No,High,35-46,Masters,High,High,Near,Newbies
+1586,29,No,Research & Development,Male,Laboratory Technician,Single,4723,Yes,High,26-35,Below College,High,Low,Near,2-Star
+1587,35,No,Research & Development,Female,Healthcare Representative,Single,6142,Yes,High,26-35,Masters,High,High,Near,1-Star
+1588,39,No,Sales,Male,Sales Executive,Married,8237,No,High,35-46,Bachelor,Very-High,High,Near,2-Star
+1590,29,No,Research & Development,Male,Healthcare Representative,Divorced,8853,No,High,26-35,Below College,High,Very-High,Near,2-Star
+1591,50,No,Sales,Male,Manager,Married,19331,Yes,High,46-55,Bachelor,High,High,Near,Newbies
+1592,23,No,Research & Development,Male,Research Scientist,Married,2073,No,High,18-25,Bachelor,Very-High,High,Near,Newbies
+1594,36,No,Research & Development,Male,Laboratory Technician,Married,5562,Yes,High,35-46,Masters,Very-High,Low,Near,1-Star
+1595,42,No,Research & Development,Male,Manager,Single,19613,No,Low,35-46,College,Medium,Very-High,Near,Newbies
+1596,35,No,Research & Development,Male,Laboratory Technician,Married,3407,No,High,26-35,Bachelor,Very-High,High,Very-Far,2-Star
+1597,34,No,Research & Development,Male,Healthcare Representative,Married,5063,No,High,26-35,Masters,Medium,High,Near,2-Star
+1598,40,No,Sales,Female,Sales Executive,Married,4639,No,High,35-46,College,High,Low,Far,1-Star
+1599,43,No,Research & Development,Male,Laboratory Technician,Divorced,4876,No,High,35-46,Bachelor,Very-High,Medium,Very-Far,2-Star
+1601,35,No,Research & Development,Male,Laboratory Technician,Married,2690,No,High,26-35,College,Medium,Very-High,Near,Newbies
+1602,46,No,Sales,Male,Manager,Single,17567,No,High,46-55,Masters,Very-High,Low,Near,Elders
+1604,28,Yes,Research & Development,Male,Laboratory Technician,Married,2408,Yes,High,26-35,Bachelor,High,Medium,Very-Far,Newbies
+1605,22,No,Research & Development,Female,Research Scientist,Married,2814,Yes,High,18-25,College,Medium,High,Very-Far,1-Star
+1606,50,No,Research & Development,Male,Healthcare Representative,Married,11245,Yes,High,46-55,Doctor,High,High,Far,Elders
+1607,32,No,Research & Development,Female,Research Scientist,Married,3312,No,High,26-35,Masters,Very-High,Very-High,Near,1-Star
+1608,44,No,Research & Development,Female,Research Director,Divorced,19049,Yes,High,35-46,Bachelor,High,Very-High,Near,5-Star
+1609,30,No,Research & Development,Male,Research Scientist,Married,2141,No,High,26-35,Bachelor,Medium,Medium,Near,2-Star
+1611,45,No,Research & Development,Female,Laboratory Technician,Single,5769,Yes,High,35-46,Doctor,Low,Low,Near,2-Star
+1612,45,No,Sales,Male,Sales Executive,Married,4385,No,High,35-46,Bachelor,Medium,Low,Very-Far,2-Star
+1613,31,No,Sales,Male,Sales Executive,Single,5332,No,High,26-35,Masters,High,Low,Near,1-Star
+1614,36,No,Research & Development,Female,Manufacturing Director,Married,4663,Yes,High,35-46,Masters,High,High,Far,1-Star
+1615,34,No,Research & Development,Male,Manufacturing Director,Divorced,4724,No,High,26-35,Masters,Very-High,Very-High,Near,2-Star
+1617,49,No,Research & Development,Female,Laboratory Technician,Married,3211,No,High,46-55,Masters,High,Low,Very-Far,2-Star
+1618,39,No,Research & Development,Male,Manufacturing Director,Married,5377,No,High,35-46,Doctor,High,Low,Near,2-Star
+1619,27,No,Research & Development,Male,Laboratory Technician,Divorced,4066,No,High,26-35,Bachelor,Medium,Low,Far,2-Star
+1621,35,No,Research & Development,Male,Research Scientist,Married,5208,No,High,26-35,Doctor,Very-High,Low,Far,4-Star
+1622,28,No,Research & Development,Female,Manufacturing Director,Divorced,4877,No,Low,26-35,Bachelor,Low,Low,Very-Far,1-Star
+1623,21,No,Research & Development,Male,Research Scientist,Single,3117,No,High,18-25,Below College,High,Very-High,Near,Newbies
+1624,18,Yes,Sales,Female,Sales Representative,Single,1569,Yes,High,18-25,College,High,Very-High,Near,Newbies
+1625,47,No,Human Resources,Female,Manager,Married,19658,No,High,46-55,Masters,High,High,Very-Far,1-Star
+1627,39,No,Research & Development,Male,Laboratory Technician,Divorced,3069,No,High,35-46,College,Medium,High,Near,2-Star
+1628,40,No,Research & Development,Female,Manufacturing Director,Married,10435,No,High,35-46,Bachelor,Medium,High,Far,4-Star
+1630,35,No,Research & Development,Female,Healthcare Representative,Married,4148,No,High,26-35,Masters,High,High,Near,3-Star
+1631,37,No,Research & Development,Male,Manufacturing Director,Married,5768,No,High,35-46,Bachelor,High,High,Far,1-Star
+1633,39,No,Research & Development,Female,Manufacturing Director,Single,5042,No,High,35-46,Bachelor,High,High,Near,2-Star
+1635,45,No,Research & Development,Female,Manufacturing Director,Divorced,5770,No,High,35-46,College,Medium,Very-High,Near,2-Star
+1638,38,No,Research & Development,Female,Manufacturing Director,Married,7756,Yes,High,35-46,College,Medium,High,Near,1-Star
+1639,35,Yes,Sales,Male,Sales Executive,Married,10306,No,High,26-35,Bachelor,Medium,Low,Near,3-Star
+1640,37,No,Research & Development,Female,Research Scientist,Married,3936,No,High,35-46,Bachelor,High,Medium,Near,2-Star
+1641,40,No,Research & Development,Female,Manufacturing Director,Single,7945,Yes,High,35-46,Bachelor,High,Very-High,Far,1-Star
+1642,44,No,Human Resources,Male,Human Resources,Married,5743,Yes,High,35-46,Doctor,High,Very-High,Near,2-Star
+1644,48,No,Research & Development,Male,Manager,Married,15202,No,Low,46-55,Doctor,Medium,Very-High,Near,Newbies
+1645,35,Yes,Sales,Male,Sales Executive,Divorced,5440,Yes,High,26-35,College,Low,Very-High,Far,Newbies
+1646,24,No,Research & Development,Female,Research Scientist,Single,3760,Yes,High,18-25,Below College,High,Very-High,Near,2-Star
+1647,27,No,Research & Development,Female,Research Scientist,Married,3517,No,High,26-35,Bachelor,Very-High,High,Near,1-Star
+1648,27,No,Research & Development,Male,Research Scientist,Single,2580,No,High,26-35,Bachelor,High,Very-High,Near,1-Star
+1649,40,Yes,Research & Development,Male,Laboratory Technician,Single,2166,Yes,High,35-46,Bachelor,High,Low,Near,1-Star
+1650,29,No,Sales,Male,Sales Executive,Single,5869,No,High,26-35,Bachelor,Medium,High,Near,1-Star
+1651,36,No,Research & Development,Female,Healthcare Representative,Married,8008,No,High,35-46,Masters,High,Low,Near,1-Star
+1653,25,No,Research & Development,Male,Manufacturing Director,Divorced,5206,No,High,18-25,Below College,Very-High,High,Near,2-Star
+1654,39,No,Research & Development,Male,Manufacturing Director,Married,5295,No,Low,35-46,Bachelor,High,Medium,Far,1-Star
+1655,49,No,Research & Development,Female,Research Director,Married,16413,No,High,46-55,Masters,High,Medium,Very-Far,1-Star
+1656,50,No,Research & Development,Female,Research Director,Divorced,13269,No,High,46-55,Doctor,Medium,Low,Far,3-Star
+1657,20,No,Sales,Female,Sales Representative,Single,2783,No,High,18-25,Bachelor,High,High,Near,Newbies
+1658,34,No,Research & Development,Female,Research Scientist,Divorced,5433,No,High,26-35,Bachelor,High,Medium,Near,3-Star
+1659,36,No,Research & Development,Male,Laboratory Technician,Single,2013,No,High,35-46,Bachelor,High,Medium,Near,1-Star
+1661,49,No,Research & Development,Female,Healthcare Representative,Married,13966,Yes,High,46-55,Below College,Medium,High,Near,3-Star
+1662,36,No,Research & Development,Female,Manufacturing Director,Married,4374,No,High,35-46,Masters,Medium,High,Near,1-Star
+1664,36,No,Research & Development,Male,Healthcare Representative,Divorced,6842,No,Low,35-46,College,Very-High,Low,Near,1-Star
+1665,54,No,Research & Development,Female,Manager,Married,17426,No,Low,46-55,Doctor,High,High,Very-Far,2-Star
+1666,43,No,Research & Development,Male,Research Director,Married,17603,No,Low,35-46,College,Medium,High,Far,3-Star
+1667,35,Yes,Sales,Male,Sales Executive,Single,4581,Yes,Low,26-35,Masters,High,Very-High,Far,3-Star
+1668,38,No,Research & Development,Male,Research Scientist,Married,4735,No,High,35-46,Bachelor,High,Very-High,Near,3-Star
+1669,29,No,Sales,Male,Sales Executive,Divorced,4187,Yes,High,26-35,Bachelor,Medium,Medium,Near,2-Star
+1670,33,No,Sales,Male,Sales Executive,Divorced,5505,No,High,26-35,Masters,High,Very-High,Near,2-Star
+1671,32,No,Research & Development,Male,Research Scientist,Divorced,5470,No,High,26-35,Bachelor,High,Medium,Near,2-Star
+1673,31,No,Sales,Female,Sales Executive,Married,5476,No,High,26-35,Masters,High,Very-High,Near,2-Star
+1674,49,No,Research & Development,Female,Laboratory Technician,Divorced,2587,Yes,High,46-55,Bachelor,High,Low,Far,Newbies
+1675,38,No,Research & Development,Female,Laboratory Technician,Single,2440,No,Low,35-46,Bachelor,Medium,Medium,Near,1-Star
+1676,47,No,Sales,Female,Manager,Divorced,15972,No,High,46-55,Masters,Very-High,Medium,Near,1-Star
+1677,49,No,Research & Development,Male,Manager,Single,15379,No,High,46-55,Bachelor,High,High,Near,2-Star
+1678,41,No,Sales,Male,Sales Executive,Single,7082,Yes,High,35-46,College,High,High,Very-Far,Newbies
+1680,20,No,Sales,Male,Sales Representative,Single,2728,No,High,18-25,Below College,High,Low,Near,Newbies
+1681,33,No,Sales,Female,Sales Executive,Divorced,5368,Yes,Low,26-35,Bachelor,High,Very-High,Far,2-Star
+1682,36,No,Research & Development,Male,Healthcare Representative,Married,5347,No,High,35-46,Masters,High,High,Very-Far,1-Star
+1683,44,No,Human Resources,Female,Human Resources,Divorced,3195,Yes,High,35-46,Bachelor,High,Very-High,Near,Newbies
+1684,23,Yes,Research & Development,Male,Laboratory Technician,Single,3989,Yes,High,18-25,Below College,Medium,High,Near,1-Star
+1687,38,No,Research & Development,Female,Laboratory Technician,Married,3306,No,High,35-46,College,High,High,Near,Newbies
+1689,53,No,Research & Development,Male,Healthcare Representative,Married,7005,No,High,46-55,Masters,Very-High,Very-High,Very-Far,1-Star
+1691,48,Yes,Sales,Female,Sales Representative,Married,2655,Yes,High,46-55,College,High,High,Near,2-Star
+1692,32,Yes,Research & Development,Male,Laboratory Technician,Single,1393,No,High,26-35,Masters,High,Medium,Near,Newbies
+1693,26,No,Research & Development,Male,Laboratory Technician,Single,2570,No,Low,26-35,Bachelor,High,Very-High,Near,2-Star
+1694,55,No,Research & Development,Male,Research Scientist,Divorced,3537,No,High,46-55,Bachelor,Medium,Medium,Very-Far,1-Star
+1696,34,No,Research & Development,Male,Laboratory Technician,Married,3986,No,High,26-35,College,Medium,Very-High,Near,3-Star
+1697,60,No,Research & Development,Male,Healthcare Representative,Divorced,10883,No,Low,56?,Masters,Low,Very-High,Near,Newbies
+1698,33,No,Research & Development,Male,Laboratory Technician,Married,2028,No,High,26-35,Bachelor,Very-High,Medium,Very-Far,3-Star
+1700,37,No,Sales,Male,Sales Executive,Divorced,9525,No,High,35-46,Masters,Low,Very-High,Near,2-Star
+1701,34,No,Research & Development,Female,Research Scientist,Married,2929,No,High,26-35,Bachelor,Medium,Very-High,Far,2-Star
+1702,23,Yes,Sales,Male,Sales Representative,Divorced,2275,Yes,Low,18-25,Bachelor,High,Very-High,Near,1-Star
+1703,44,No,Research & Development,Female,Healthcare Representative,Married,7879,Yes,High,35-46,Bachelor,Very-High,Very-High,Near,2-Star
+1704,35,No,Research & Development,Male,Research Scientist,Single,4930,Yes,High,26-35,Masters,Medium,Very-High,Near,1-Star
+1706,43,No,Sales,Male,Sales Executive,Married,7847,Yes,High,35-46,Bachelor,High,Very-High,Near,2-Star
+1707,24,No,Research & Development,Male,Research Scientist,Married,4401,No,High,18-25,Bachelor,Very-High,High,Near,1-Star
+1708,41,No,Sales,Male,Sales Executive,Single,9241,No,High,35-46,Bachelor,High,High,Near,2-Star
+1709,29,No,Research & Development,Female,Laboratory Technician,Married,2974,No,High,26-35,Masters,High,High,Near,1-Star
+1710,36,No,Sales,Female,Sales Representative,Single,4502,No,High,35-46,Masters,High,Very-High,Near,3-Star
+1712,45,No,Research & Development,Male,Healthcare Representative,Married,10748,No,Low,35-46,Below College,Medium,High,Near,5-Star
+1714,24,Yes,Human Resources,Male,Human Resources,Married,1555,No,High,18-25,Below College,Low,High,Very-Far,Newbies
+1716,47,Yes,Sales,Male,Sales Executive,Married,12936,No,High,46-55,Bachelor,Low,High,Near,5-Star
+1718,26,No,Research & Development,Male,Laboratory Technician,Married,2305,No,High,26-35,Masters,Low,High,Far,1-Star
+1719,45,No,Research & Development,Female,Research Director,Single,16704,No,High,35-46,College,Medium,Medium,Very-Far,5-Star
+1720,32,No,Research & Development,Male,Research Scientist,Married,3433,No,High,26-35,Bachelor,High,High,Near,1-Star
+1721,31,No,Research & Development,Male,Laboratory Technician,Married,3477,No,High,26-35,Masters,High,High,Near,1-Star
+1722,41,No,Human Resources,Male,Human Resources,Married,6430,No,High,35-46,Bachelor,Low,Medium,Near,1-Star
+1724,40,No,Research & Development,Female,Manufacturing Director,Married,6516,Yes,High,35-46,College,High,Low,Near,Newbies
+1725,24,No,Research & Development,Male,Laboratory Technician,Divorced,3907,No,High,18-25,Below College,High,Low,Very-Far,2-Star
+1727,46,No,Research & Development,Male,Healthcare Representative,Single,5562,No,High,46-55,Masters,High,Medium,Far,2-Star
+1728,35,No,Research & Development,Male,Manufacturing Director,Married,6883,No,High,26-35,Masters,High,High,Very-Far,2-Star
+1729,30,No,Research & Development,Male,Research Scientist,Married,2862,No,High,26-35,Below College,High,Very-High,Far,2-Star
+1731,47,No,Sales,Male,Sales Executive,Married,4978,No,High,46-55,Masters,High,Medium,Near,Newbies
+1732,46,No,Sales,Male,Sales Executive,Divorced,10368,Yes,High,46-55,Bachelor,High,Very-High,Near,2-Star
+1733,36,Yes,Sales,Male,Sales Executive,Divorced,6134,Yes,High,35-46,Doctor,Medium,Low,Far,Newbies
+1734,32,Yes,Sales,Male,Sales Executive,Single,6735,No,High,26-35,College,Low,Medium,Near,Newbies
+1735,23,No,Research & Development,Female,Laboratory Technician,Single,3295,No,High,18-25,Below College,High,Medium,Near,1-Star
+1736,31,No,Research & Development,Female,Manufacturing Director,Single,5238,No,Low,26-35,Below College,High,Very-High,Very-Far,1-Star
+1737,39,No,Research & Development,Male,Laboratory Technician,Married,6472,Yes,High,35-46,Bachelor,High,Very-High,Near,2-Star
+1739,32,No,Sales,Male,Sales Executive,Married,9610,No,High,26-35,Bachelor,Low,High,Far,1-Star
+1740,40,No,Sales,Male,Manager,Single,19833,No,High,35-46,Masters,High,Medium,Near,5-Star
+1744,45,No,Human Resources,Female,Human Resources,Married,9756,No,Low,35-46,Bachelor,Low,High,Near,1-Star
+1745,30,No,Research & Development,Female,Research Scientist,Single,4968,No,High,26-35,Masters,Medium,Low,Near,2-Star
+1746,24,No,Human Resources,Male,Human Resources,Married,2145,No,High,18-25,Bachelor,High,Very-High,Near,Newbies
+1747,30,Yes,Human Resources,Female,Human Resources,Divorced,2180,No,High,26-35,Bachelor,Medium,Very-High,Near,1-Star
+1749,31,No,Sales,Male,Sales Executive,Married,8346,No,High,26-35,Bachelor,High,High,Near,1-Star
+1751,27,No,Research & Development,Female,Research Scientist,Single,3445,No,High,26-35,Bachelor,High,Very-High,Near,2-Star
+1752,29,Yes,Sales,Female,Sales Representative,Single,2760,No,High,26-35,Bachelor,Low,Medium,Near,Newbies
+1753,29,No,Research & Development,Male,Healthcare Representative,Single,6294,Yes,High,26-35,Bachelor,Very-High,High,Near,1-Star
+1754,30,No,Sales,Male,Sales Executive,Divorced,7140,No,High,26-35,College,Medium,Low,Far,2-Star
+1755,34,No,Research & Development,Male,Research Scientist,Married,2932,Yes,High,26-35,Masters,Very-High,Very-High,Near,1-Star
+1756,33,No,Sales,Female,Sales Executive,Single,5147,No,High,26-35,Bachelor,High,Medium,Near,3-Star
+1757,49,No,Sales,Female,Sales Executive,Single,4507,No,High,46-55,Masters,High,Very-High,Far,1-Star
+1758,33,Yes,Sales,Female,Sales Executive,Single,8564,Yes,Low,26-35,Bachelor,High,Low,Far,Newbies
+1760,38,No,Research & Development,Female,Laboratory Technician,Married,2468,No,High,35-46,College,Medium,Medium,Near,2-Star
+1761,31,Yes,Sales,Male,Sales Executive,Married,8161,No,High,26-35,Masters,High,High,Far,Newbies
+1762,29,No,Research & Development,Female,Research Scientist,Divorced,2109,No,High,26-35,Bachelor,Medium,Low,Near,Newbies
+1763,30,No,Research & Development,Male,Healthcare Representative,Married,5294,No,High,26-35,Bachelor,Very-High,High,Far,2-Star
+1764,32,No,Research & Development,Male,Research Scientist,Single,2718,No,High,26-35,Masters,High,Medium,Near,2-Star
+1766,38,No,Research & Development,Male,Healthcare Representative,Married,5811,Yes,High,35-46,Bachelor,Low,Very-High,Far,Newbies
+1767,43,Yes,Research & Development,Male,Research Scientist,Married,2437,Yes,High,35-46,Bachelor,Medium,High,Far,Newbies
+1768,42,No,Research & Development,Male,Laboratory Technician,Divorced,2766,No,Low,35-46,Bachelor,High,Medium,Far,1-Star
+1770,55,No,Research & Development,Male,Research Director,Married,19038,No,High,46-55,Bachelor,Medium,Low,Near,Newbies
+1771,33,No,Research & Development,Male,Research Scientist,Divorced,3055,No,High,26-35,Bachelor,High,Medium,Near,2-Star
+1772,41,No,Research & Development,Male,Laboratory Technician,Divorced,2289,No,Low,35-46,Masters,High,Low,Near,1-Star
+1774,34,No,Sales,Male,Sales Executive,Divorced,4001,Yes,High,26-35,Bachelor,High,High,Near,3-Star
+1775,53,No,Research & Development,Female,Manufacturing Director,Married,12965,Yes,Low,46-55,Masters,Medium,High,Near,1-Star
+1778,43,No,Human Resources,Male,Human Resources,Single,3539,No,High,35-46,Bachelor,High,Very-High,Near,2-Star
+1779,34,No,Sales,Female,Sales Executive,Single,6029,No,High,26-35,College,Low,Very-High,Near,Newbies
+1780,21,Yes,Sales,Male,Sales Representative,Single,2679,No,High,18-25,Below College,High,Medium,Near,Newbies
+1782,38,No,Research & Development,Female,Laboratory Technician,Married,3702,No,High,35-46,College,Medium,High,Near,1-Star
+1783,22,Yes,Research & Development,Female,Laboratory Technician,Married,2398,Yes,High,18-25,Below College,High,Low,Near,Newbies
+1784,31,No,Sales,Female,Sales Executive,Married,5468,No,High,26-35,Masters,Medium,Very-High,Very-Far,3-Star
+1786,51,No,Research & Development,Female,Manager,Married,13116,No,High,46-55,Bachelor,High,High,Near,Newbies
+1787,37,No,Sales,Male,Sales Executive,Married,4189,No,High,35-46,College,Medium,Medium,Near,1-Star
+1789,46,No,Research & Development,Male,Research Director,Divorced,19328,Yes,High,46-55,Masters,High,Very-High,Near,Newbies
+1790,36,No,Research & Development,Male,Healthcare Representative,Married,8321,Yes,High,35-46,Bachelor,High,Low,Near,3-Star
+1792,44,Yes,Research & Development,Male,Research Scientist,Divorced,2342,Yes,High,35-46,College,High,Medium,Near,1-Star
+1794,37,No,Human Resources,Male,Human Resources,Divorced,4071,No,High,35-46,College,High,Medium,Near,2-Star
+1797,35,Yes,Sales,Male,Sales Executive,Single,5813,Yes,High,26-35,Bachelor,High,Very-High,Very-Far,2-Star
+1798,33,No,Research & Development,Male,Research Scientist,Married,3143,No,High,26-35,Masters,Very-High,Low,Near,2-Star
+1799,28,No,Research & Development,Male,Research Scientist,Married,2044,No,High,26-35,Bachelor,High,Very-High,Near,1-Star
+1800,39,No,Research & Development,Male,Research Director,Single,13464,No,Low,35-46,Below College,High,High,Near,1-Star
+1801,46,No,Sales,Male,Sales Executive,Single,7991,No,High,46-55,College,Medium,Medium,Very-Far,Newbies
+1802,40,No,Research & Development,Female,Laboratory Technician,Married,3377,No,High,35-46,College,High,Low,Near,1-Star
+1803,42,No,Research & Development,Male,Healthcare Representative,Married,5538,No,High,35-46,Bachelor,Very-High,Low,Far,Newbies
+1804,35,No,Research & Development,Male,Manufacturing Director,Divorced,5762,No,High,26-35,College,High,Very-High,Near,2-Star
+1805,38,No,Human Resources,Male,Human Resources,Divorced,2592,No,High,35-46,Bachelor,High,Medium,Near,3-Star
+1807,34,Yes,Research & Development,Male,Laboratory Technician,Married,5346,No,High,26-35,Masters,High,Low,Near,2-Star
+1809,37,Yes,Research & Development,Male,Manufacturing Director,Single,4213,No,High,35-46,Masters,High,Low,Near,2-Star
+1812,39,No,Sales,Male,Sales Executive,Divorced,4127,No,High,35-46,Bachelor,High,Very-High,Far,Newbies
+1813,43,No,Research & Development,Male,Research Scientist,Single,2438,No,High,35-46,Bachelor,High,High,Near,1-Star
+1814,41,No,Research & Development,Male,Healthcare Representative,Single,6870,No,High,35-46,Bachelor,Very-High,Medium,Near,1-Star
+1815,41,No,Sales,Female,Sales Executive,Divorced,10447,Yes,High,35-46,Below College,High,High,Near,5-Star
+1816,30,No,Research & Development,Female,Manufacturing Director,Single,9667,No,High,26-35,Bachelor,High,High,Near,2-Star
+1818,26,Yes,Human Resources,Female,Human Resources,Married,2148,Yes,High,26-35,College,High,Medium,Far,1-Star
+1821,46,Yes,Research & Development,Female,Healthcare Representative,Married,8926,No,Low,46-55,College,High,Medium,Very-Far,2-Star
+1822,40,No,Research & Development,Female,Healthcare Representative,Divorced,6513,No,High,35-46,Bachelor,High,Very-High,Near,1-Star
+1823,34,No,Sales,Male,Sales Executive,Married,6799,No,Low,26-35,College,Very-High,High,Near,2-Star
+1824,58,No,Sales,Male,Manager,Divorced,16291,No,Low,56?,Bachelor,High,Medium,Near,4-Star
+1826,35,No,Research & Development,Male,Laboratory Technician,Married,2705,No,High,26-35,Masters,Low,High,Very-Far,1-Star
+1827,47,No,Research & Development,Female,Manufacturing Director,Divorced,10333,Yes,High,46-55,Bachelor,Medium,Medium,Near,5-Star
+1829,40,No,Research & Development,Female,Healthcare Representative,Divorced,4448,No,High,35-46,Bachelor,High,Low,Far,2-Star
+1830,54,No,Research & Development,Female,Research Scientist,Married,6854,No,High,46-55,Masters,High,Very-High,Near,2-Star
+1833,31,No,Sales,Female,Sales Executive,Married,9637,No,High,26-35,Masters,High,Low,Near,1-Star
+1834,28,No,Research & Development,Female,Research Scientist,Married,3591,No,Low,26-35,Bachelor,High,Low,Near,1-Star
+1835,38,No,Sales,Female,Sales Representative,Married,5405,Yes,Low,35-46,Masters,Low,Very-High,Near,1-Star
+1836,26,No,Sales,Male,Sales Executive,Single,4684,No,High,26-35,Bachelor,High,Very-High,Near,1-Star
+1837,58,No,Research & Development,Male,Research Director,Married,15787,Yes,High,56?,Masters,High,High,Far,Newbies
+1839,18,No,Research & Development,Female,Research Scientist,Single,1514,No,High,18-25,Bachelor,High,High,Far,Newbies
+1842,31,Yes,Human Resources,Male,Human Resources,Married,2956,No,High,26-35,Doctor,Very-High,Low,Far,Newbies
+1844,29,Yes,Human Resources,Male,Human Resources,Divorced,2335,Yes,High,26-35,Bachelor,Medium,Low,Far,Newbies
+1845,45,No,Sales,Female,Sales Executive,Married,5154,No,Low,35-46,Masters,High,High,Near,2-Star
+1847,36,No,Research & Development,Female,Research Scientist,Married,6962,Yes,Low,35-46,Masters,High,Medium,Near,Newbies
+1849,43,No,Sales,Male,Sales Executive,Married,5675,No,Low,35-46,Masters,High,Very-High,Near,2-Star
+1850,27,No,Research & Development,Female,Laboratory Technician,Single,2379,Yes,High,26-35,College,High,Very-High,Near,1-Star
+1852,29,No,Research & Development,Male,Laboratory Technician,Married,3812,No,High,26-35,Below College,High,Very-High,Far,3-Star
+1853,32,No,Sales,Male,Sales Executive,Single,4648,No,High,26-35,Masters,High,Very-High,Near,Newbies
+1854,42,No,Research & Development,Male,Research Scientist,Married,2936,No,Low,35-46,Masters,High,High,Near,2-Star
+1856,47,No,Research & Development,Female,Laboratory Technician,Single,2105,No,High,46-55,Masters,High,High,Near,Newbies
+1857,46,No,Research & Development,Male,Manufacturing Director,Divorced,8578,No,High,46-55,College,High,Very-High,Near,2-Star
+1858,28,No,Human Resources,Male,Human Resources,Divorced,2706,No,High,26-35,College,High,Very-High,Near,1-Star
+1859,29,No,Research & Development,Male,Healthcare Representative,Divorced,6384,No,High,26-35,Below College,Low,High,Very-Far,2-Star
+1860,42,No,Research & Development,Male,Laboratory Technician,Single,3968,No,High,35-46,Bachelor,High,High,Near,Newbies
+1862,32,Yes,Sales,Male,Sales Executive,Single,9907,Yes,High,26-35,Masters,Medium,Medium,Near,Newbies
+1863,46,No,Sales,Female,Sales Executive,Divorced,13225,No,High,46-55,Bachelor,Very-High,Low,Near,4-Star
+1864,27,No,Sales,Female,Sales Representative,Married,3540,No,Low,26-35,Below College,Medium,High,Very-Far,2-Star
+1865,29,No,Human Resources,Male,Human Resources,Married,2804,No,High,26-35,Below College,Medium,Medium,Near,Newbies
+1866,43,No,Research & Development,Female,Manager,Married,19392,No,High,35-46,Bachelor,Medium,High,Near,4-Star
+1867,48,No,Research & Development,Male,Research Director,Married,19665,No,High,46-55,Bachelor,Medium,Medium,Near,5-Star
+1868,29,Yes,Research & Development,Male,Research Scientist,Single,2439,Yes,Low,26-35,College,Medium,Very-High,Very-Far,Newbies
+1869,46,Yes,Sales,Female,Sales Executive,Married,7314,No,Low,46-55,Bachelor,High,Medium,Near,2-Star
+1870,27,No,Research & Development,Female,Research Scientist,Married,4774,No,High,26-35,Bachelor,Medium,Low,Far,2-Star
+1871,39,No,Research & Development,Male,Research Scientist,Divorced,3902,No,High,35-46,Masters,High,Very-High,Far,Newbies
+1873,55,No,Research & Development,Male,Research Scientist,Married,2662,No,Low,46-55,Masters,Medium,Very-High,Near,1-Star
+1875,28,No,Sales,Female,Sales Representative,Married,2856,No,High,26-35,Bachelor,High,Medium,Near,Newbies
+1876,30,Yes,Sales,Male,Sales Representative,Single,1081,No,High,26-35,Bachelor,High,Very-High,Near,Newbies
+1878,22,Yes,Research & Development,Male,Research Scientist,Single,2472,Yes,Low,18-25,Below College,High,Medium,Near,Newbies
+1880,36,No,Sales,Female,Sales Executive,Married,5673,Yes,High,35-46,Masters,Medium,High,Near,2-Star
+1881,31,No,Research & Development,Male,Laboratory Technician,Divorced,4197,No,High,26-35,Bachelor,High,High,Far,2-Star
+1882,34,No,Sales,Male,Sales Executive,Married,9713,Yes,High,26-35,Bachelor,High,Very-High,Near,1-Star
+1883,29,No,Research & Development,Male,Laboratory Technician,Single,2062,No,High,26-35,Bachelor,High,Low,Near,1-Star
+1885,37,No,Research & Development,Male,Research Scientist,Married,4284,Yes,Low,35-46,Masters,High,Low,Near,1-Star
+1886,35,No,Research & Development,Female,Manufacturing Director,Married,4788,Yes,High,26-35,College,Medium,Medium,Far,1-Star
+1888,45,No,Research & Development,Female,Manufacturing Director,Married,5906,No,High,35-46,College,Medium,Very-High,Very-Far,2-Star
+1890,36,No,Human Resources,Male,Human Resources,Single,3886,No,Low,35-46,Below College,Medium,Very-High,Near,2-Star
+1892,40,No,Research & Development,Male,Manager,Divorced,16823,No,High,35-46,Masters,High,Low,Near,4-Star
+1893,26,No,Research & Development,Female,Research Scientist,Married,2933,Yes,High,26-35,College,Medium,High,Near,Newbies
+1898,27,No,Sales,Female,Sales Executive,Single,6500,No,High,26-35,College,Very-High,High,Near,2-Star
+1900,48,No,Research & Development,Female,Manager,Divorced,17174,No,High,46-55,Bachelor,High,Very-High,Very-Far,5-Star
+1903,44,No,Research & Development,Male,Healthcare Representative,Married,5033,No,High,35-46,Masters,Very-High,Low,Near,Newbies
+1905,34,Yes,Research & Development,Male,Research Scientist,Married,2307,Yes,Low,26-35,Masters,Low,Low,Far,1-Star
+1907,56,Yes,Research & Development,Male,Laboratory Technician,Single,2587,No,High,56?,College,High,Very-High,Very-Far,1-Star
+1908,36,No,Sales,Male,Sales Executive,Married,5507,No,High,35-46,College,Medium,Medium,Far,1-Star
+1909,41,No,Sales,Female,Sales Executive,Married,4393,No,Low,35-46,Bachelor,High,Medium,Near,1-Star
+1911,42,No,Research & Development,Male,Research Director,Married,13348,No,High,35-46,Bachelor,High,Low,Near,3-Star
+1912,31,No,Sales,Female,Sales Executive,Divorced,6583,Yes,High,26-35,College,High,Very-High,Near,1-Star
+1915,34,No,Sales,Female,Sales Executive,Married,8103,Yes,High,26-35,Below College,Medium,Very-High,Near,1-Star
+1916,31,No,Research & Development,Female,Laboratory Technician,Divorced,3978,No,High,26-35,Bachelor,Very-High,High,Near,Newbies
+1918,26,No,Research & Development,Male,Laboratory Technician,Married,2544,No,High,26-35,Bachelor,Very-High,Very-High,Near,2-Star
+1922,45,No,Research & Development,Male,Healthcare Representative,Single,5399,No,High,35-46,Masters,High,High,Near,1-Star
+1924,33,No,Sales,Male,Sales Executive,Single,5487,No,High,26-35,Masters,High,High,Near,2-Star
+1927,28,No,Sales,Male,Sales Executive,Married,6834,Yes,High,26-35,College,Medium,Very-High,Near,2-Star
+1928,29,Yes,Sales,Male,Sales Representative,Single,1091,No,High,26-35,Bachelor,Very-High,Low,Very-Far,Newbies
+1929,39,No,Sales,Female,Sales Executive,Married,5736,No,High,35-46,Masters,Low,High,Very-Far,1-Star
+1931,27,No,Research & Development,Male,Research Scientist,Married,2226,No,High,26-35,Masters,High,Medium,Near,1-Star
+1932,34,No,Research & Development,Male,Research Scientist,Married,5747,Yes,High,26-35,Masters,Medium,Very-High,Very-Far,3-Star
+1933,28,Yes,Sales,Female,Sales Executive,Single,9854,Yes,High,26-35,College,High,High,Far,Newbies
+1934,47,No,Research & Development,Male,Research Scientist,Married,5467,No,High,46-55,Masters,High,Medium,Far,2-Star
+1935,56,No,Sales,Female,Sales Executive,Married,5380,No,High,56?,Doctor,Medium,Low,Far,Newbies
+1936,39,No,Research & Development,Male,Manufacturing Director,Married,5151,No,Low,35-46,College,High,Low,Near,2-Star
+1937,38,No,Research & Development,Female,Research Scientist,Divorced,2133,Yes,High,35-46,Bachelor,Medium,Medium,Near,4-Star
+1938,58,No,Sales,Female,Manager,Married,17875,Yes,High,56?,Bachelor,High,Very-High,Very-Far,Newbies
+1939,32,Yes,Research & Development,Female,Research Scientist,Single,2432,Yes,High,26-35,College,Very-High,High,Near,1-Star
+1940,38,No,Research & Development,Male,Research Scientist,Divorced,4771,No,High,35-46,College,High,Very-High,Near,1-Star
+1941,49,No,Research & Development,Male,Research Director,Married,19161,No,High,46-55,Below College,High,Very-High,Near,1-Star
+1943,42,No,Sales,Male,Sales Executive,Divorced,5087,Yes,High,35-46,Masters,High,Very-High,Far,Newbies
+1944,27,Yes,Human Resources,Female,Human Resources,Married,2863,No,High,26-35,Bachelor,Medium,Medium,Very-Far,Newbies
+1945,35,No,Sales,Male,Sales Executive,Married,5561,No,High,26-35,Masters,High,Low,Far,1-Star
+1947,28,No,Research & Development,Male,Research Scientist,Single,2144,No,High,26-35,Bachelor,High,High,Far,1-Star
+1948,31,No,Research & Development,Male,Research Scientist,Divorced,3065,Yes,High,26-35,College,High,Low,Near,1-Star
+1949,36,No,Research & Development,Male,Laboratory Technician,Married,2810,No,Low,35-46,Masters,Very-High,Medium,Near,1-Star
+1950,34,No,Sales,Male,Sales Executive,Single,9888,No,Low,26-35,Bachelor,High,Very-High,Near,3-Star
+1951,34,No,Sales,Male,Sales Executive,Divorced,8628,No,High,26-35,Masters,High,High,Far,2-Star
+1952,26,No,Research & Development,Male,Laboratory Technician,Single,2867,No,High,26-35,Bachelor,High,Low,Near,2-Star
+1954,29,No,Research & Development,Male,Healthcare Representative,Married,5373,No,High,26-35,Bachelor,High,Low,Near,1-Star
+1955,32,No,Research & Development,Female,Healthcare Representative,Divorced,6667,No,High,26-35,Masters,High,Very-High,Far,1-Star
+1956,31,No,Research & Development,Male,Research Scientist,Married,5003,No,Low,26-35,Bachelor,Low,Low,Near,2-Star
+1960,28,Yes,Research & Development,Male,Laboratory Technician,Divorced,2367,No,High,26-35,Bachelor,Medium,Very-High,Far,1-Star
+1961,38,No,Sales,Male,Sales Representative,Single,2858,No,High,35-46,Bachelor,Medium,Low,Near,Newbies
+1962,35,No,Sales,Female,Sales Executive,Married,5204,Yes,High,26-35,Masters,High,Very-High,Near,2-Star
+1965,27,No,Sales,Male,Sales Executive,Single,4105,No,High,26-35,Bachelor,High,Very-High,Near,2-Star
+1966,32,No,Research & Development,Male,Manufacturing Director,Single,9679,No,Low,26-35,Masters,Medium,Very-High,Near,Newbies
+1967,31,Yes,Sales,Male,Sales Executive,Married,5617,Yes,High,26-35,Masters,High,Very-High,Very-Far,2-Star
+1968,53,Yes,Sales,Male,Sales Executive,Single,10448,Yes,High,46-55,Masters,High,Low,Very-Far,Newbies
+1969,54,No,Research & Development,Female,Research Scientist,Married,2897,No,High,46-55,College,High,High,Near,1-Star
+1970,33,No,Research & Development,Male,Healthcare Representative,Divorced,5968,No,Low,26-35,College,High,High,Near,2-Star
+1971,43,No,Research & Development,Male,Healthcare Representative,Married,7510,No,High,35-46,Bachelor,High,High,Far,2-Star
+1972,38,No,Human Resources,Male,Human Resources,Married,2991,Yes,High,35-46,Masters,High,Medium,Near,2-Star
+1973,55,No,Human Resources,Male,Manager,Married,19636,Yes,High,46-55,Masters,Very-High,Medium,Very-Far,2-Star
+1974,31,No,Research & Development,Female,Laboratory Technician,Divorced,1129,Yes,High,26-35,Below College,Low,Very-High,Near,Newbies
+1975,39,No,Sales,Male,Sales Executive,Single,13341,No,High,35-46,Masters,High,Low,Far,4-Star
+1976,42,No,Research & Development,Male,Research Scientist,Single,4332,No,High,35-46,College,Medium,High,Very-Far,4-Star
+1979,31,No,Research & Development,Female,Research Director,Married,11031,No,Low,26-35,Bachelor,High,High,Near,3-Star
+1980,54,No,Research & Development,Female,Manufacturing Director,Single,4440,Yes,High,46-55,Bachelor,High,Low,Near,1-Star
+1981,24,No,Research & Development,Male,Healthcare Representative,Single,4617,No,High,18-25,College,Medium,High,Near,1-Star
+1982,23,No,Research & Development,Male,Laboratory Technician,Single,2647,No,High,18-25,College,High,Very-High,Far,1-Star
+1985,40,No,Research & Development,Female,Laboratory Technician,Married,6323,No,High,35-46,Bachelor,High,High,Far,2-Star
+1986,40,No,Sales,Female,Sales Executive,Married,5677,No,High,35-46,College,High,Medium,Near,3-Star
+1987,25,No,Human Resources,Female,Human Resources,Married,2187,No,High,18-25,Bachelor,High,Medium,Near,Newbies
+1989,30,No,Research & Development,Male,Laboratory Technician,Married,3748,No,High,26-35,College,High,Medium,Near,3-Star
+1992,25,No,Research & Development,Male,Laboratory Technician,Divorced,3977,Yes,High,18-25,Below College,High,High,Near,Newbies
+1993,47,No,Research & Development,Male,Healthcare Representative,Single,8633,No,Low,46-55,Bachelor,High,High,Very-Far,4-Star
+1994,33,No,Research & Development,Male,Laboratory Technician,Divorced,2008,No,High,26-35,College,Medium,High,Near,Newbies
+1995,38,No,Sales,Male,Sales Executive,Married,4440,No,High,35-46,Masters,High,Medium,Near,3-Star
+1996,31,No,Sales,Male,Sales Representative,Married,3067,No,High,26-35,College,High,High,Near,Newbies
+1997,38,No,Research & Development,Male,Manufacturing Director,Married,5321,No,High,35-46,Masters,Medium,High,Near,2-Star
+1998,42,No,Research & Development,Male,Research Scientist,Divorced,5410,Yes,High,35-46,Masters,High,Low,Far,1-Star
+1999,41,No,Research & Development,Male,Research Scientist,Married,2782,No,Low,35-46,Bachelor,High,Very-High,Near,1-Star
+2000,47,No,Research & Development,Female,Research Director,Married,11957,No,High,46-55,Below College,High,Medium,Near,3-Star
+2003,35,No,Research & Development,Male,Laboratory Technician,Married,2660,Yes,High,26-35,Masters,High,High,Far,Newbies
+2007,22,No,Research & Development,Male,Research Scientist,Single,3375,No,High,18-25,College,High,High,Near,1-Star
+2008,35,No,Research & Development,Male,Research Scientist,Single,5098,No,High,26-35,Masters,High,High,Near,2-Star
+2009,33,No,Research & Development,Female,Healthcare Representative,Married,4878,Yes,High,26-35,College,High,Very-High,Far,2-Star
+2010,32,No,Research & Development,Female,Laboratory Technician,Single,2837,No,High,26-35,Masters,Medium,Medium,Very-Far,2-Star
+2012,40,No,Research & Development,Male,Laboratory Technician,Married,2406,No,High,35-46,Masters,High,Very-High,Near,Newbies
+2013,32,No,Sales,Male,Sales Representative,Married,2269,No,High,26-35,Masters,Medium,Medium,Near,Newbies
+2014,39,No,Research & Development,Male,Research Scientist,Single,4108,No,High,35-46,Below College,High,Very-High,Very-Far,2-Star
+2015,38,No,Research & Development,Female,Research Director,Married,13206,No,High,35-46,Bachelor,Low,High,Near,4-Star
+2016,32,No,Sales,Female,Sales Executive,Married,10422,No,High,26-35,Masters,High,Very-High,Near,3-Star
+2017,37,No,Research & Development,Female,Research Director,Married,13744,Yes,Low,35-46,Bachelor,Very-High,Very-High,Near,4-Star
+2018,25,No,Sales,Female,Sales Executive,Divorced,4907,Yes,Low,18-25,College,High,High,Near,1-Star
+2019,52,No,Sales,Male,Sales Representative,Divorced,3482,No,High,46-55,Masters,High,Very-High,Very-Far,2-Star
+2020,44,No,Research & Development,Male,Research Scientist,Single,2436,Yes,High,35-46,Bachelor,High,Very-High,Near,1-Star
+2021,21,No,Sales,Male,Sales Representative,Single,2380,Yes,High,18-25,Below College,High,Low,Near,Newbies
+2022,39,No,Research & Development,Male,Manager,Single,19431,No,High,35-46,Bachelor,High,Very-High,Near,2-Star
+2023,23,Yes,Sales,Male,Sales Representative,Married,1790,No,High,18-25,Bachelor,High,Low,Near,Newbies
+2024,36,No,Sales,Female,Sales Executive,Married,7644,No,High,35-46,Bachelor,Medium,Very-High,Near,2-Star
+2025,36,No,Research & Development,Female,Manufacturing Director,Divorced,5131,No,High,35-46,College,High,Medium,Near,1-Star
+2026,56,No,Research & Development,Male,Healthcare Representative,Divorced,6306,No,Low,56?,Masters,High,High,Near,3-Star
+2027,29,Yes,Research & Development,Male,Research Scientist,Married,4787,Yes,High,26-35,Masters,High,Very-High,Near,Newbies
+2031,42,No,Research & Development,Male,Manager,Married,18880,No,High,35-46,Bachelor,High,High,Near,5-Star
+2032,56,Yes,Research & Development,Male,Laboratory Technician,Married,2339,No,High,56?,College,High,High,Near,2-Star
+2034,41,No,Research & Development,Female,Manufacturing Director,Married,13570,No,Low,35-46,Masters,Medium,Medium,Very-Far,4-Star
+2035,34,No,Sales,Female,Sales Executive,Married,6712,No,Low,26-35,Bachelor,Medium,High,Very-Far,2-Star
+2036,36,No,Sales,Male,Sales Executive,Divorced,5406,No,Low,35-46,Masters,Low,Very-High,Far,3-Star
+2037,41,No,Sales,Male,Sales Executive,Divorced,8938,No,High,35-46,Bachelor,Medium,Medium,Near,1-Star
+2038,32,No,Research & Development,Male,Research Scientist,Single,2439,No,High,26-35,Bachelor,High,Low,Near,1-Star
+2040,35,No,Human Resources,Female,Human Resources,Single,8837,Yes,High,26-35,Masters,High,Very-High,Very-Far,2-Star
+2041,38,No,Sales,Female,Sales Executive,Married,5343,No,High,35-46,College,High,Very-High,Near,2-Star
+2044,50,Yes,Sales,Male,Sales Executive,Divorced,6728,No,High,46-55,Masters,High,High,Near,2-Star
+2045,36,No,Sales,Female,Sales Executive,Married,6652,No,High,35-46,Masters,Medium,Very-High,Far,2-Star
+2046,45,No,Sales,Female,Sales Executive,Single,4850,No,High,35-46,Bachelor,High,High,Far,1-Star
+2048,40,No,Research & Development,Male,Research Scientist,Single,2809,No,High,35-46,Masters,Medium,High,Near,Newbies
+2049,35,No,Research & Development,Male,Healthcare Representative,Married,5689,Yes,High,26-35,Masters,High,High,Far,2-Star
+2051,40,No,Research & Development,Female,Research Scientist,Married,2001,No,High,35-46,Masters,High,High,Near,1-Star
+2052,35,No,Research & Development,Female,Research Scientist,Married,2977,No,High,26-35,Masters,Low,Very-High,Near,1-Star
+2053,29,No,Research & Development,Male,Laboratory Technician,Married,4025,Yes,High,26-35,College,Medium,Medium,Far,1-Star
+2054,29,No,Research & Development,Female,Research Scientist,Single,3785,No,High,26-35,Masters,Medium,Low,Very-Far,1-Star
+2055,50,Yes,Sales,Male,Sales Executive,Divorced,10854,Yes,High,46-55,Bachelor,Medium,Low,Very-Far,1-Star
+2056,39,No,Sales,Female,Sales Executive,Married,12031,No,High,35-46,Below College,Medium,Very-High,Very-Far,4-Star
+2057,31,No,Research & Development,Male,Manufacturing Director,Single,9936,No,High,26-35,Bachelor,High,Low,Near,2-Star
+2060,26,No,Sales,Female,Sales Representative,Single,2966,No,High,26-35,Bachelor,Medium,High,Near,1-Star
+2061,36,No,Research & Development,Male,Laboratory Technician,Married,2571,No,High,35-46,College,Very-High,Very-High,Very-Far,1-Star
+2062,39,No,Research & Development,Male,Healthcare Representative,Married,9991,No,High,35-46,Below College,Medium,Low,Near,2-Star
+2064,27,No,Research & Development,Male,Manufacturing Director,Married,6142,Yes,Low,26-35,Bachelor,Very-High,Medium,Near,2-Star
+2065,49,No,Sales,Male,Sales Executive,Married,5390,No,High,46-55,Bachelor,Medium,Medium,Near,2-Star
+2068,34,No,Research & Development,Male,Laboratory Technician,Married,4404,No,High,26-35,Bachelor,Very-High,High,Near,1-Star
